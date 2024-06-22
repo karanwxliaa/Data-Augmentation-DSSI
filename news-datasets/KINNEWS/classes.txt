@@ -1,0 +1,14 @@
+politics
+sport
+economy
+health
+entertainment
+history
+technology
+tourism
+culture
+fashion
+religion
+environment
+education
+relationship
