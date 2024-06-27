@@ -1,0 +1,10285 @@
+дария	river
+amazi	water
+cu	cloud
+igicu	cloud
+asazi	fly
+kugura	buy
+Wikipediya	Wikipedia
+Kwambere	Monday
+Kwakabiri	Tuesday
+Kwagatatu	Wednesday
+Kwakane	Thursday
+Kwagatanu	Friday
+Kwagatandatu	Saturday
+Kwamungu	Sunday
+Icyongereza	English
+umutaka	umbrella
+isutiye	brassiere
+mudasobwa	computer
+ubuki	honey
+ijipo	shirt
+ifromaje	cheese
+amavuta	butter
+ichyuma	iron
+ubutare	iron
+ikinyugunyugu	butterfly
+umushwara	handkerchief
+mukaso	stepmother
+ifu	flour
+ikote	jacket
+ikizibaho	blouse
+fulari	shawl
+itsembabwoko	genocide
+ikote	overcoat
+Ubudagi	Germany
+Kwakabiri	Tuesday
+soma	read
+kwakabiri	Tuesday
+kuwa mbere	Monday
+kwagatatu	Wednesday
+kwakane	Thursday
+kwagatanu	Friday
+fi	fish
+rimo	job
+rimo	work
+nsi	day
+musasobwa	computer
+Mutarama	January
+ukwezi kwa mbere	January
+aka	year
+Gashyantare	February
+ukwezi kwa kabiri	February
+Werurwe	March
+Mata	April
+Gicurasi	May
+kwagatandatu	Saturday
+ikyumweru	Sunday
+mwe	one
+kyangwa	either
+kyangwa	or
+shinga	verb
+tabo	book
+jangwe	cat
+ntu	affair
+ntu	article
+ntu	business
+ntu	case
+ntu	issue
+ntu	item
+ntu	matter
+ntu	object
+ntu	question
+ntu	something
+ntu	stuff
+ntu	subject
+ntu	thing
+ikirayi	potato
+ikirayi	spud
+ezi	month
+zi	water
+tuku	red
+hondo	xanthic
+hondo	yellow
+zovu	elephant
+vuna	accommodate
+vuna	advance
+vuna	aid
+vuna	assist
+vuna	attend to
+vuna	avail
+vuna	benefit
+vuna	help
+vuna	support
+rabo	bloom
+rabo	blossom
+rabo	flower
+zoka	serpent
+zoka	snake
+tatu	three
+nta	sans
+nta	without
+ezi	Luna
+ezi	moon
+ezi	satellite
+ezi	Moon
+to	little
+to	small
+renge	foot
+renge	paw
+saha	hour
+saha	o’clock
+saha	time
+irabura	black
+bare	cipher
+bare	digit
+bare	figure
+bare	numeral
+furere	brother
+furere	friar
+jisho	eye
+jisho	glyph
+Ubufaransa	France
+mwaramutse	good afternoon
+mwaramutse	good day
+mwaramutse	good morning
+mwaramutse	hello
+mwiriwe	good afternoon
+mwiriwe	good day
+mwiriwe	good morning
+mwiriwe	hello
+sa	nought
+sa	zero
+kora	labour
+kora	work
+yego	aye
+yego	yeah
+yego	yep
+yego	yes
+zoga	beer
+zoga	coffin
+oya	nay
+oya	neither
+oya	no
+oya	nope
+oya	not
+shuti	fellow-thinker
+shuti	friend
+shuti	mate
+Danemarke	Denmark
+nshi	a lot
+nshi	commonly
+nshi	frequently
+nshi	greatly
+nshi	much
+nshi	often
+nshi	oftentimes
+nshi	regularly
+nshi	substantially
+nshi	vastly
+tama	sheep
+ganza	hand
+humyo	mushroom
+humyo	toadstool
+ti	tree
+kobwa	girl
+kobwa	daughter
+genda	drive
+genda	fare
+genda	go
+genda	ride
+genda	travel
+genda	wend
+kuva	for
+kuva	from
+kuva	since
+zuba	sun
+tanga	accord
+tanga	administer
+tanga	afford
+tanga	alight
+tanga	allow
+tanga	confer
+tanga	donate
+tanga	emerge
+tanga	exit
+tanga	give
+tanga	go out
+tanga	grant
+tanga	impart
+tanga	leave
+tanga	pass
+tanga	provide
+tanga	quit
+tanga	spare
+tanga	spend
+tanga	switch on
+tanga	turn on
+tanga	yield
+Ubuhindi	India
+shaka	be willing to
+shaka	want
+shaka	wish
+nawe	too
+Leta Zunze Ubumwe z’Amerika	United States of America
+Leta Zunze Ubumwe z’Amerika	United States
+yanya	tomato
+vuga	say
+vuga	state
+vuga	tell
+sinzira	be asleep
+sinzira	sleep
+raso	blood
+hanga	cranium
+hanga	skull
+rongorana	know
+rongorana	wot
+dogobe	ass
+dogobe	burro
+dogobe	donkey
+tunga	own
+tunga	possess
+tare	lion
+he	autumn
+he	fall
+he	season
+genda	absent onself from
+genda	depart
+genda	discharge
+genda	drive away
+genda	drive off
+genda	fire
+genda	fire off
+genda	go away
+genda	leave
+genda	set going
+genda	set off
+genda	start
+genda	start off
+genda	start out
+genda	absent onself
+hinji	babe
+hinji	baby
+sabuni	soap
+papuro	paper
+toki	digit
+toki	finger
+naniro	weariness
+naniro	fatigue
+mirongo itandatu	sixty
+sozi	highlands
+sozi	mountain
+neke	banana
+za	come to happen
+juru	heaven
+juru	sky
+dimu	lemon
+kere	strawberry
+fu	flour
+fu	meal
+rira	cry
+rira	weep
+atsi	grass
+atsi	herb
+buto	fruit
+gati	bread
+gati	loaf
+iruka	run
+aliko	but
+hembwa	accrue
+hembwa	acquire
+hembwa	attract
+hembwa	canvass
+hembwa	earn
+hembwa	enlist
+hembwa	enrol
+hembwa	gain
+hembwa	get
+hembwa	obtain
+hembwa	profit
+hembwa	rally
+hembwa	recruit
+hembwa	secure
+hembwa	win
+hembwa	woo
+cyane	quite
+cyane	very
+ta	milk
+amenyo	cog
+amenyo	prong
+amenyo	tooth
+curuzi	businessman
+curuzi	merchant
+curuzi	trader
+ririmba	sing
+zuru	nose
+unyu	salt
+sa	alone
+sa	only
+sa	single
+sa	sole
+sa	solitary
+sa	unaccompanied
+pfa	die
+pfa	expire
+pfa	pass away
+ese	is it
+ke	few
+ke	little
+buza	forbid
+twe	head
+twe	pate
+tondo	morning
+teka	cook
+andika	compose
+andika	create
+andika	write
+seka	laugh
+ka	cow
+gongo	back
+ejo	tomorrow
+gwe	leopard
+vura	rain
+genda	ambulate
+genda	march
+genda	walk
+guru	leg
+guru	paw
+guru	shank
+horo	peace
+inkongoro	scavenger
+sakuza	bellow
+sakuza	bleat
+sakuza	bray
+sakuza	call
+sakuza	call out
+sakuza	cry
+sakuza	cry out
+sakuza	growl
+sakuza	moo
+sakuza	neigh
+sakuza	roar
+sakuza	scream
+sakuza	shout
+sakuza	squeal
+sakuza	vociferate
+sakuza	whinny
+tura	dwell
+tura	inhabit
+tura	live
+tura	reside
+tura	stay
+nywa	drink
+swa	ant
+swa	emmet
+swa	pismire
+ikinga	bicycle
+ikinga	bike
+Nijeriya	Nigeria
+sazi	fly
+pfa	drought
+pfa	dryness
+seriveri	on line data service
+seriveri	server
+porogisi	proxy server
+yenyeli	star
+tunguru	onion
+shyamba	forest
+shyamba	timberland
+shyamba	wood
+shyamba	woodland
+muhira	family
+muhira	nuclear family
+sano	family
+koga	swim
+vi	knee
+rizo	brush
+rizo	line
+rizo	queue
+rizo	stalk
+rizo	stem
+rizo	tail
+kene	poverty
+Burundi	Burundi
+kwavu	bunny
+kwavu	cony
+kwavu	rabbit
+karaba	launder
+karaba	wash
+kuba	multiplication
+oba	fear
+yama	meat
+sozi	hill
+sozi	hillock
+sozi	mound
+shuti	friendship
+pongo	antelope
+iga	figure out
+iga	instruct
+iga	learn
+iga	teach
+guge	ape
+guge	monkey
+guge	primate
+ihema	tent
+cu	cloud
+hengeri	gale
+hengeri	storm
+hengeri	tempest
+kuba	thunder
+yemera	zebra
+gano	bamboo
+hene	goat
+hene	she-goat
+va	flood
+va	flow
+va	run
+va	stream
+byina	dance
+pfa	scarcity
+ana	childhood
+tugu	shoulder
+fu	guts
+fu	stomach
+gagi	gorilla
+tambara	war
+kwibwira	conceive
+kwibwira	fancy
+kwibwira	imagine
+kwibwira	picture
+kwibwira	visualize
+kina	act
+kina	enact
+kina	perform
+kina	play
+kina	speculate in stocks
+mu	amongst
+tegura	prepare
+tegura	work up
+ko	since
+kire	affluent
+kire	rich
+kire	wealthy
+kire	well-off
+kire	well-to-do
+bingo	cane
+bingo	reed
+zima	health
+sa	but
+sa	exclusively
+sa	just
+sa	merely
+sa	only
+sa	simply
+sa	solely
+nyamasyo	tortoise
+nyamasyo	turtle
+alimu	professor
+Rwanda	Rwanda
+panga	machete
+bogobogo	blue
+basha	be able to
+basha	can
+basha	may
+shobora	be able to
+shobora	can
+shobora	may
+Kwambere	Monday
+to	little
+to	small
+mirongo itandatu	sixty
+rya	eat
+nywa	drink
+furere	brother
+shiki	sister
+basha	be able to
+basha	can
+shobora	be able to
+shobora	can
+amazi	water
+ezi	month
+teme	bridge
+Rwanda	Rwanda
+pfa	die
+pfa	pass away
+sinzira	be asleep
+sinzira	sleep
+sinzira	be asleep
+sinzira	sleep
+sinzira	be asleep
+sinzira	sleep
+kugwama	sleep
+shuti	friend
+shuti	mate
+shuti	fellow-thinker
+shuti	friend
+shuti	mate
+shuti	fellow-thinker
+shuti	friend
+shuti	mate
+shuti	fellow-thinker
+shuti	friend
+shuti	mate
+Kwagatanu	Friday
+Kwagatandatu	Saturday
+Kwamungu	Sunday
+Kwagatatu	Wednesday
+Kwakane	Thursday
+oya	nay
+oya	no
+oya	nope
+oya	not
+oya	nay
+oya	no
+oya	nope
+oya	not
+vi	knee
+guca	cut
+guca	cut off
+guca	cut up
+yuma	knife
+seka	laugh
+rira	cry
+rira	weep
+sakuza	cry
+sakuza	cry out
+sakuza	scream
+sakuza	shout
+yama	flesh
+yama	meat
+swa	ant
+swa	emmet
+swa	pismire
+swa	ant
+swa	emmet
+swa	pismire
+zuru	nose
+kire	affluent
+kire	rich
+kire	wealthy
+kire	well-off
+kire	well-to-do
+kire	affluent
+kire	rich
+kire	wealthy
+kire	well-off
+kire	well-to-do
+kwavu	bunny
+kwavu	cony
+kwavu	hare
+kwavu	rabbit
+kwavu	bunny
+kwavu	cony
+kwavu	hare
+kwavu	rabbit
+akayiko	spoon
+yuma	knife
+yuma	knife
+kere	strawberry
+kere	strawberry
+guca	cut
+zima	health
+zima	health
+zima	health
+zima	health
+zima	health
+rira	cry
+rira	weep
+kire	affluent
+kire	rich
+kire	wealthy
+kire	well-off
+kire	well-to-do
+neke	banana
+bingo	cane
+bingo	reed
+bingo	cane
+bingo	reed
+bingo	cane
+bingo	reed
+guge	ape
+guge	monkey
+guge	primate
+byina	dance
+inzovu	elephant
+yuma	knife
+ukuboko	arm
+ivu	ash
+Kwakabiri	Tuesday
+Kwakane	Thursday
+Kwagatanu	Friday
+Kwagatandatu	Saturday
+rimo	job
+rimo	labour
+rimo	work
+furere	brother
+furere	friar
+Paul Kagame	Paul Kagame
+Ubugereki	Greece
+Abatutsi	Tutsi
+Uetersen	Uetersen
+Interahamwe	Interahamwe
+Almazán	Almazán
+Bibiliya	Bible
+Kristendomu	Christianity
+Coca-Cola	Coca-Cola
+Ostrariya	Australia
+Ubudage	Germany
+Izuba	sun
+Izuba	Sun
+Azia	Asia
+Ububirigi	Belgium
+U Buholandi	Netherlands
+Danemarke	Denmark
+Kigali	Kigali
+Leta Zunze Ubumwe z’Amerika	United States
+Umuneke	Banana
+Nijeriya	Nigeria
+Rwanda	Rwanda
+Burundi	Burundi
+Kirundi	Kirundi
+Yesu Kristo	Jesus
+Perezida wa Repubulika y’u Rwanda	List of Presidents of Rwanda
+Afurika	Africa
+Kinyarwanda	Kinyarwanda
+Ubwongereza	United Kingdom
+Ubufaransa	France
+Idini Ryitwa Yezu Nyakuri	True Jesus Church
+Uburayi	Europe
+Adamu	Adam
+Abahutu	Hutu
+Espanye	Spain
+Obusa	0
+Finirande	Finland
+Ubuhinde	India
+kenshi	a great deal
+haruguru	above
+hejuru	above
+n'impamo	absolutely
+Adamu	Adam
+aho umuntu abarizwa	address
+turanye	adjecent
+ntera	adjective
+foreign	aduka
+Afuganisitani	Afganistan
+Afurika	Africa
+bukeye	afterwards
+ibiri ku murongo w'ibyigwa	agenda
+ibiteganyijwe	agenda
+mbere	ahead
+SIDA	AIDS
+cyo kuyindi si	alien
+guha uburenganzira	allot
+buri gihe	always
+cyo muri Amerika	American
+Amerika	American continent
+ukwezi kwa kane	April
+Arabiya	Arabia
+Aziya	Asia
+ubwa mbere	at first
+mbere na mbere	at first
+ku Gisenyi	at Gisenyi
+imuhira	at home
+i Kigali	at Kigali
+mu Ruhengeri	at Ruhengeri
+ku isoko	at the biginning
+ku isoko	at the market
+ku isoko	at the source
+Atalantika	Atlantic
+ukwezi kwa munani	August
+Kanama	August
+Ositaraliya	Australia
+Batismimu	baptism
+kubera	because
+kubera ko	because
+mbere	beforehand
+hepfo	below
+munsi	below
+kandi	besides
+fagitire	bill
+hasi	bottom
+ahubwo	but rather
+exponent	bwikube
+kalendari	calendar
+indangaminsi	calendar
+SEDE	CD
+SIDI	CD
+rwara n yanduza	communicable disease
+n'umurava	conscientiously
+n'ubupfura bw'umutima	conscientiously
+kungu n	copiousness
+extraterrestral	cyo kuyindi si
+papa	dad
+papa	dad
+papa	daddy
+ukwezi kwa cumi n'abiri	December
+Ukuboza	December
+bandantego n	declension
+Sekibi	Devil
+Shitani	Devil
+Satani	Devil
+Pasika	Easter
+mara v	end
+ugushinga imizi	entrenchment
+Uburayi	Europe
+Eva	Eva
+Kuva	Exodus
+guhanaguraho icyaha	exonerate
+uguhanagurwaho icyaha	exonerated
+urabeho	farewell
+ngaho	farewell
+ku mana	farewell
+ni ah'ikindi gihe	farewell
+data	father
+dawe	father
+hake	feudalism
+gatanu	five
+kubera	for
+kane	four
+kenshi	frequently
+ku wa gatanu	Friday
+mu by'ukuri	genuinely
+mu by'ukuri	hand on heart
+ntakubeshye	hand on heart
+ahubwo	however
+nyamara	however
+iyo	if
+iyo	if
+niba	if
+ishyirwa mu bikorwa	implementation
+mbere	in advance
+i Kigali	in Kigali
+sumbane n	inequality
+ukutava ku izima	inflexibility
+Interineti	Internet
+fagitire	invoice
+tonde nyejwi mpuzamahanga	IPA
+shinga idakurikiza amategeko	irregular verb
+Yezu	Jesus
+ukwezi kwa karindwi	July
+Nyakanga	July
+ukwezi kwa gatandatu	June
+Kamena	June
+comet	kibonumwe
+percent	ku ijana
+ibumoso	left
+bene	like
+Nyina wa Jambo	Madonna
+mama	mamma
+mama	mammy
+ukwezi kwa gatatu	March
+gahunda	march
+Mariya	Mary
+Misa	mass
+mama	mater
+ukwezi kwa gatanu	May
+cyo hagati	middle
+rangamimerere	modifier
+mama	mom
+mama	momma
+mama	mommy
+ku wa mbere	Monday
+kandi	moreover
+pentagon	mpandeshanu ndinganire
+isosceles triangle	mpandeshatu nyampanga n
+on the outskirts of the town	mu nkengero z’umugi
+kenshi	much
+mama	mum
+mama	mummy
+na gato	not at all
+ukwezi kwa cumi na kumwe	November
+Ugushyingo	November
+Oseyaniya	Oceania
+ukwezi kwa cumi	October
+bene ibi	of this kind
+kenshi	oft
+kenshi	often
+kenshi	oftentimes
+kenshi	ofttimes
+cyataye igihe	old-fashoned
+ku nkiko	on the border
+ahubwo	on the contrary
+rimwe	one
+kubera	owing to
+papa	pa
+Pasifika	Pacific
+papa	papa
+papa	pappa
+parade	parade
+gahunda	parade
+paradiso	Paradise
+paradizo	Paradise
+parallelogram	paralerogarama
+papa	pater
+ku ijana	percent
+telefoni	phone
+kino	play
+papa	pop
+mbanza	prefix
+Umuyobozi Mukuru	President
+Perezida	President
+Umukuru w'Igihugu	President of Republic
+Perezida wa Repubulika	President of Republic
+minisitiri w'intebe	Prime Minister
+uko bavuga	pronunciation
+Zaburi	psalm
+cyataye igihe	quaint
+Kamarampaka	Referendum
+shinga ikurikiza amategeko	regular verb
+iburyo	right
+ukutava ku izima	rigid
+Kiliziya Gatolika	Roman Catholic Church
+nyarwanda	Rwandan
+Sabato	Sabbath
+ku wa gatandatu	Saturday
+ku isabato	Saturday
+menyi n	science
+ukwezi kwa cyenda	September
+Nzeri	September
+indwi	seven
+karindwi	seven
+kubera	since
+uhereye	since
+mu by'ukuri	sincerely
+gatandatu	six
+jyepfo y'iburengerazuba	southwest
+yiko	spoon
+ruhamwa	subject
+ku cyumweru	Sunday
+Hekaru	synagogue
+telefoni	telephone
+telefoni	telephone set
+bukeye	the next day
+gatatu	three
+ku wa kane	Thursday
+kugera	to
+bari n	travel warrant
+Ubutatu Butagatifu	Trinity
+mu by'ukuri	truly
+ku wa kabiri	Tuesday
+cumi na kabiri	twelve
+cumi na kabiri	twelve
+kabiri	two
+formula	uko bikorwa
+Ukuboza	ukwezi kwa cumi na kabiri
+Ugushyingo	ukwezi kwa cumi na kumwe
+Werurwe	ukwezi kwa gatatu
+ukutava ku izima	unbending
+ukutava ku izima	uncompromising
+Amerika	United States of America
+i kantarange	very far away
+Bikira Mariya	Virgin Mary
+virusi	virus
+WESE	water closet
+wati	watt
+ku wa gatatu	Wednesday
+niba	wether
+hanga	wizard
+a	first letter in Kinyarwanda alphabet
+b	the second letter in Kinyarwanda alphabet
+c	the third letter in Kinyarwanda alphabet
+d	the fourth letter in Kinyarwanda alphabet
+e	the fifth letter in Kinyarwanda alphabet
+f	sixth letter of Kinyarwanda alphabet
+g	seventh letter of Kinyarwanda alphabet
+h	eighth letter of Kinyarwanda alphabet
+t	ninetinth letter in Kinyarwanda alphabet
+u	twentieth letter in Kinyarwanda alphabet
+v	twenty first letter in Kinyarwanda alphabet
+w	twenty second letter in Kinyarwanda alphabet
+y	twenty third letter in Kinyarwanda alphabet
+z	twenty fourth letter in Kinyarwanda alphabet
+tonde nyejwi mpuzamahanga	International Phonetic Alphabet
+i	nineth letter of Kinyarwanda alphabet
+j	tenth letter of Kinyarwanda alphabet
+k	eleventh letter of Kinyarwanda alphabet
+l	twelveth letter of Kinyarwanda alphabet
+m	thirteenth letter of Kinyarwanda alphabet
+n	fourteenth letter of Kinyarwanda alphabet
+o	fifteenth letter of Kinyarwanda alphabet
+p	sixteenth letter of Kinyarwanda alphabet
+r	seventeenth letter of Kinyarwanda alphabet
+s	eighteenth letter of Kinyarwanda alphabet
+v	twenty first letter in Kinyarwanda alphabet
+v	twenty first letter in Kinyarwanda alphabet
+Ikinyafurikaneri	Afrikaans
+Inyamuhariki	Amharic
+Icyarabu	Arabic
+Icyasamizi	Assamese
+Inyazeribayijani	Azerbaijani
+Inyazeribayijani	Azeri
+Ikibelarusiya	Belarusian
+Urunyabuligariya	Bulgarian
+Inyebihari	Bihari
+Ikibengali	Bengali
+Inyebiritoni	Breton
+Inyebosiniya	Bosnian
+Igikatalani	Catalan
+Igiceke	Czech
+Ikigaluwa	Welsh
+Ikidaninwa	Danish
+Ikidage	German
+Ikigereki	Greek
+Icyongereza	English
+Icyesiperanto	Esperanto
+Icyesipanyolo	Spanish
+Icyesitoniya	Estonian
+Ikibasiki	Basque
+Inyeperisi	Persian
+Igifinilande	Finnish
+Ikinyafilipine	Filipino
+Inyefaroyizi	Faroese
+Igifaransa	French
+Igifiriziyani	Western Frisian
+Ikirilandi	Irish
+Ikigaluwa cy’Igisweduwa	Scottish Gaelic
+Ikigalisiya	Galician
+Inyaguwarani	Guarani
+Inyegujarati	Gujarati
+Igiheburayo	Hebrew
+Igihindi	Hindi
+Igikorowasiya	Croatian
+Igihongiriya	Hungarian
+Ikinyarumeniya	Armenian
+Ururimi Gahuzamiryango	Interlingua
+Ikinyendoziya	Indonesian
+Uruhuzandimi	Interlingue
+Igisilande	Icelandic
+Igitaliyani	Italian
+Ikiyapani	Japanese
+Inyejava	Javanese
+Inyejeworujiya	Georgian
+Igikambodiya	Khmer
+Igikanada	Kannada
+Igikoreya	Korean
+Inyekuridishi	Kurdish
+Inkerigizi	Kirghiz
+Ikilatini	Latin
+Ilingala	Lingala
+Ikilawotiyani	Lao
+Ikilituwaniya	Lithuanian
+Ikinyaletoviyani	Latvian
+Ikimasedoniyani	Macedonian
+Ikimalayalami	Malayalam
+Ikimongoli	Mongolian
+Ikimarati	Marathi
+Ikimalayi	Malay
+Ikimaliteze	Maltese
+Ikinepali	Nepali
+Ikinerilande	Dutch
+Inyenoruveji (Nyonorusiki)	Norwegian Nynorsk
+Ikinoruveji	Norwegian
+Inyogusitani	Occitan
+Inyoriya	Oriya
+Igipunjabi	Punjabi
+Igipolone	Polish
+Impashito	Pushto
+Impashito	Pashto
+Igiporutugali	Portuguese
+Inyeporutigali (Brezili)	Brazilian Portuguese
+Inyeporutigali (Igiporutigali)	Iberian Portuguese
+Ikinyarumaniya	Romanian
+Ikirusiya	Russian
+Igisansikiri	Sanskrit
+Igisindi	Sindhi
+Inyeseribiya na Korowasiya	Serbo-Croatian
+Inyesimpaleze	Sinhala
+Igisilovaki	Slovak
+Ikinyasiloveniya	Slovenian
+Igisomali	Somali
+Icyalubaniya	Albanian
+Igiseribe	Serbian
+Inyesesoto	Southern Sotho
+Inyesudani	Sundanese
+Igisuweduwa	Swedish
+Igiswahili	Swahili
+Igitamili	Tamil
+Igitelugu	Telugu
+Igitayi	Thai
+Inyatigirinya	Tigrinya
+Inyeturukimeni	Turkmen
+Inyekilingoni	Klingon
+Igiturukiya	Turkish
+Inyetuwi	Twi
+Ikiwiguri	Uighur
+Ikiwiguri	Uyghur
+Ikinyayukereni	Ukrainian
+Inyeyurudu	Urdu
+Inyeyuzubeki	Uzbek
+Ikinyaviyetinamu	Vietnamese
+Inyehawusa	Xhosa
+Inyeyidishi	Yiddish
+Inyezulu	Zulu
+Kinyarwanda	Kinyarwanda
+Kirundi	Kirundi
+kuba	be
+kuba	become
+ba	be
+ba	become
+igihugu cyacu	country
+hugu cyacu	country
+tare	lion
+intare	lion
+jangwe	cat
+injangwe	cat
+gwe	leopard
+ingwe	leopard
+imambo	tent pegs
+mambo	tent pegs
+gusimura	polish
+simura	polish
+umucuzi	broth
+cuzi	broth
+sunika	poke
+gusunika	poke
+ikyimwaro	shame
+imwaro	shame
+agatwe	point
+agatwe	tip
+gatwe	point
+gatwe	tip
+inkomangizo	peg
+komangizo	peg
+umugaga	canine
+umugaga	canine tooth
+gaga	canine
+gaga	canine tooth
+swa	termite
+umuswa	termite
+swa	ant-hill
+igiswa	ant-hill
+umubiri	skin
+biri	skin
+igishishwa	skin
+shishwa	skin
+kuruma	bite
+ruma	bite
+samakyi	fish
+isamakyi	fish
+kumesa	wash
+mesa	wash
+kwiyuhagira	take a bath
+kwiyuhagira	wash
+iyuhagira	take a bath
+iyuhagira	wash
+ikibanza	plot of ground
+banza	plot of ground
+umusi	day
+si	day
+kureberera	care for
+kureberera	look after
+reberera	care for
+reberera	look after
+amara	intestines
+ra	intestines
+inda	belly
+inda	stomach
+da	belly
+da	stomach
+kuryana	lie down
+ryana	lie down
+kuryanana	copulate
+kuryanana	have sexual intercourse
+ryanana	copulate
+ryanana	have sexual intercourse
+kumara igihe	spend time
+mara igihe	spend time
+urutindo	bridge
+urutindo	bridge
+tindo	bridge
+igikari	courtyard
+kari	courtyard
+kwirambura	stretch oneself
+irambura	stretch oneself
+kunanura	be spread out
+nanura	be spread out
+ikyirekyire	long
+irekyire	long
+zoka	serpent
+zoka	snake
+inzoka	serpent
+inzoka	snake
+unomusi	today
+nomusi	today
+ubwanwa	beard
+bwanwa	beard
+kutiyegereza	avoid
+tiyegereza	avoid
+kulemira	burden
+kulemira	be burdensome
+kulemira	rest heavily on
+lemira	burden
+lemira	be burdensome
+lemira	rest heavily on
+kubaha	honor
+baha	honor
+kulemara	be lame
+lemara	be lame
+ikirema	cripple
+rema	cripple
+kunanura	make straight
+nanura	make straight
+rya	eat
+kurya	eat
+ukuboko kwaburyo	righthand
+kuboko kwaburyo	righthand
+umutego	snare
+umutego	trap
+tego	snare
+tego	trap
+imbele	in front of
+bele	in front of
+rira	cry
+rira	wail
+kurira	cry
+kurira	wail
+buriri	bedstead
+uburiri	bedstead
+igitanda	bed
+tanda	bed
+amaganya	sorrow
+amaganya	grief
+maganya	sorrow
+maganya	grief
+ururimi	tongue
+rimi	tongue
+akazi	work
+kazi	work
+zi	root
+umuzi	root
+mabere	breast
+amabere	breast
+kurigiita	sink
+rigiita	sink
+kuzura	bring to light
+zura	bring to light
+guhagara	come to a halt
+guhagara	pull up
+hagara	come to a halt
+hagara	pull up
+era	white man
+umwera	white man
+kuzibya	stop up
+kuzibya	fill a hole
+zibya	stop up
+zibya	fill a hole
+igitega	pool
+tega	pool
+inyanja	lake
+nyanja	lake
+guhamba	bury
+hamba	bury
+ichebe	udder
+chebe	udder
+kuzimya	extinguish
+kuzimya	quench
+zimya	extinguish
+zimya	quench
+bura	get lost
+kubura	get lost
+umuzimu	spirit
+zimu	spirit
+kwizenguruka	surround
+izenguruka	surround
+guhotora	twist
+hotora	twist
+guhonyora	bend
+guhonyora	twist
+honyora	bend
+honyora	twist
+kuzinguriza	wind up
+zinguriza	wind up
+urugobe	fishhook
+gobe	fishhook
+amata	milk
+mata	milk
+kuroba	fish
+roba	fish
+kuvundura	pull out
+kuvundura	fish up
+vundura	pull out
+vundura	fish up
+roga	bewitch
+kuroga	bewitch
+uburozi	witchcraft
+burozi	witchcraft
+rozi	sorcerer
+umurozi	sorcerer
+gutonyanga	drizzle
+tonyanga	drizzle
+umunwa	lip
+nwa	lip
+kwagara	itch
+agara	itch
+ikivuguto	curdled milk
+vuguto	curdled milk
+kurinda	look for
+kurinda	hand around
+rinda	look for
+rinda	hand around
+igisebe	sore
+sebe	sore
+kugira neza	arrange
+kugira neza	put right
+kugira neza	repair
+gira neza	arrange
+gira neza	put right
+gira neza	repair
+kurangira	guide aright
+rangira	guide aright
+kwegeranya	pack
+kwegeranya	press together
+egeranya	pack
+egeranya	press together
+zi	river
+uruzi	river
+ikivuguto	buttermilk
+vuguto	buttermilk
+umugezi	well
+gezi	well
+bare	number
+umubare	number
+umupfunyo	furrow
+umupfunyo	groove
+pfunyo	furrow
+pfunyo	groove
+inyiriri	line
+inyiriri	row
+nyiriri	line
+nyiriri	row
+ishongo	one-eyed
+shongo	one-eyed
+inzozi	dream
+zozi	dream
+kurwaana	fight
+rwaana	fight
+kuneshya	overcome
+kuneshya	vanquish
+kuneshya	win
+neshya	overcome
+neshya	vanquish
+neshya	win
+kwica	kill
+ica	kill
+guteza	put to death
+teza	put to death
+gukinja	slaughter
+kinja	slaughter
+indurwe	bile
+durwe	bile
+uruhago rwindurwe	bladder
+hago rwindurwe	bladder
+kuruka	vomit
+ruka	vomit
+kuboha	plait
+boha	plait
+ikyigabo	male
+igabo	male
+gabo	husband
+umugabo	husband
+ikibero	thigh
+bero	thigh
+kurundanya	construct
+kurundanya	put together
+rundanya	construct
+rundanya	put together
+kunyura	pass
+kunyura	surpass
+nyura	pass
+nyura	surpass
+kwiyambura	take off
+iyambura	take off
+kwambara	wear
+ambara	wear
+kwifubika	clothe
+ifubika	clothe
+ingashi	paddle
+gashi	paddle
+kuvuguta	blow bellows
+vuguta	blow bellows
+kuvumera	roar
+kuvumera	rumble
+vumera	roar
+vumera	rumble
+imbeba	rat
+beba	rat
+kunuka	smell
+nuka	smell
+umucucu	cloud of dust
+umucucu	dust
+cucu	cloud of dust
+cucu	dust
+gukurura	pull
+kurura	pull
+kugaba	divide
+gaba	divide
+guha	give away
+subirayo	go back
+subirayo	return
+gusubirayo	go back
+gusubirayo	return
+kugarama	lie on one’s back
+garama	lie on one’s back
+kubwiira	say
+kubwiira	tell
+bwiira	say
+bwiira	tell
+vuga	speak
+kuvuga	speak
+impanvu	affair
+panvu	affair
+umuryango	clan
+ryango	clan
+umukondo	navel
+kondo	navel
+ganza	palm
+ikiganza	palm
+ti	remedy
+ti	medicine
+umuti	remedy
+umuti	medicine
+umucunnyi	medicine man
+cunnyi	medicine man
+kuunga	bind up
+kuunga	splice
+unga	bind up
+unga	splice
+zingahe	how many
+ichyuma	iron
+chyuma	iron
+umuringa	brass
+umuringa	copper
+ringa	brass
+ringa	copper
+uma cy’ ubutare	steel
+ikyuma cy’ ubutare	steel
+iryinyo	tooth
+ryinyo	tooth
+umushitsi	guest
+umushitsi	stranger
+shitsi	guest
+shitsi	stranger
+genda	go
+kugenda	go
+kudenga kumaguru	walk
+denga kumaguru	walk
+ikibi	bad
+bi	bad
+genda	travel
+kugenda	travel
+urugyendo	journey
+gyendo	journey
+genda	movement
+ukugenda	movement
+i	egg
+igyi	egg
+igikorwa	act
+korwa	act
+kwigana	imitate
+igana	imitate
+icyaro	village
+cyaro	village
+buga	town
+ikibuga	town
+sazi	fly
+isazi	fly
+kwima	withhold from
+ima	withhold from
+kujeema	abstain
+jeema	abstain
+ikyinyabyaha	wicked
+inyabyaha	wicked
+iziiko	fireplace
+iziiko	hearth
+iziiko	kitchen
+ziiko	fireplace
+ziiko	hearth
+ziiko	kitchen
+izina	name
+zina	name
+ihuzi	string
+huzi	string
+gukurikiza	copy a pattern
+kurikiza	copy a pattern
+ingoma	drum
+goma	drum
+ka	cow
+inka	cow
+ka	cattle
+inka	cattle
+tama	sheep
+intama	sheep
+ifarasi	horse
+farasi	horse
+imbata	duck
+bata	duck
+ikibore	rotten
+bore	rotten
+ingougori	millipede
+gougori	millipede
+isaki	cock
+isaki	rooster
+saki	cock
+saki	rooster
+dogobe	donkey
+indogobe	donkey
+interege	zebra
+terege	zebra
+akanyamaksyo	tortoise
+kanyamaksyo	tortoise
+urukwaavu	hare
+kwaavu	hare
+umutubu	frog
+tubu	frog
+roroma	snore
+roroma	snort
+kuroroma	snore
+kuroroma	snort
+gongo	back
+umugongo	back
+uruti rw’imugongo	backbone
+ti rw’imugongo	backbone
+kugwa hasi	fall
+gwa hasi	fall
+igitambaaro	cloth
+tambaaro	cloth
+gucusa	boil
+cusa	boil
+imyenda	clothes
+imyenda	material
+myenda	clothes
+myenda	material
+kugura	buy
+gura	buy
+kuguriisha	sell
+guriisha	sell
+juru	sky
+ijuru	sky
+umucyo	light
+umucyo	sky
+cyo	light
+cyo	sky
+igichu	cloud
+chu	cloud
+agatwe	peak
+agatwe	top
+gatwe	peak
+gatwe	top
+agasongero	utmost
+agasongero	highest point
+songero	utmost
+songero	highest point
+igihorihori	crown of the head
+horihori	crown of the head
+sozi	hill
+umusozi	hill
+guhamagara	call
+hamagara	call
+ukuguru	foot
+ukuguru	leg
+kuguru	foot
+kuguru	leg
+ingurube	pig
+gurube	pig
+ingumba	barren
+gumba	barren
+ingumba	sterile person
+gumba	sterile person
+umurima	garden
+rima	garden
+invubu	hippopotamus
+vubu	hippopotamus
+inkura ruhembe	rhinoceros
+kura ruhembe	rhinoceros
+kwambuka	cross
+ambuka	cross
+kwirukana	chase
+kwirukana	chase away
+irukana	chase
+irukana	chase away
+inzara	hunger
+zara	hunger
+gasasiiro	rubbish heap
+sasiiro	rubbish heap
+amazi	water
+mazi	water
+urwara	fingernail
+ara	fingernail
+inzira	path
+zira	path
+umuhanda	highway
+handa	highway
+inzozi	vision
+zozi	vision
+ikiroto	dream
+roto	dream
+zovu	elephant
+inzovu	elephant
+ijwi	voice
+jwi	voice
+urusaku	cry
+urusaku	sound
+saku	cry
+saku	sound
+ubutojo	smallpox
+butojo	smallpox
+zuba	sun
+izuba	sun
+amakara	charcoal
+makara	charcoal
+ingara	crab
+gara	crab
+igishirira	embers
+shirira	embers
+itazi	ashes
+tazi	ashes
+umugore	woman
+gore	woman
+umugore	wife
+gore	wife
+umuhiigi	hunter
+hiigi	hunter
+gukama	milk
+gukama	squeeze
+kama	milk
+kama	squeeze
+kuma	become dry
+kuma	dry up
+ma	become dry
+ma	dry up
+ikyumye	dry
+umye	dry
+gutoba	knead
+toba	knead
+vi	knee
+ivi	knee
+guhiiga	hunting
+uguhiiga	hunting
+kotsa	roast
+hagati	inside
+kureeba	examine
+kureeba	look at
+reeba	examine
+reeba	look at
+kureba iyi n’iyi	look round
+reba iyi n’iyi	look round
+twe	head
+umutwe	head
+inkono y’itabi	tobacco pipe
+kono y’itabi	tobacco pipe
+itotomba	grumble
+itotomba	grunt
+kwitotomba	grumble
+kwitotomba	grunt
+imbyiro	soot
+byiro	soot
+rizo	tail
+umurizo	tail
+inkyima	monkey
+kyima	monkey
+ikyiremu	colobus monkey
+iremu	colobus monkey
+inkobe	ape
+inkobe	baboon
+kobe	ape
+kobe	baboon
+kwiyereka	dance
+iyereka	dance
+kugira	do
+gira	do
+mara	complete
+mara	do
+mara	finish
+kumara	complete
+kumara	do
+kumara	finish
+kubora	rot
+kubora	become bad
+kubora	become rotten
+bora	rot
+bora	become bad
+bora	become rotten
+guhera	grind coarsely
+hera	grind coarsely
+igikoma	gruel
+koma	gruel
+igikoma	porridge
+koma	porridge
+gati	bread
+umugati	bread
+ingigira	tree-trunk
+gigira	tree-trunk
+imitegano	distress
+imitegano	hardship
+mitegano	distress
+mitegano	hardship
+imigeri	tramp of feet
+migeri	tramp of feet
+ijosi	neck
+josi	neck
+umutsi	vein
+tsi	vein
+omuramu	brother-in-law
+omuramu	sister-in-law
+ramu	brother-in-law
+ramu	sister-in-law
+sobukwe	father-in-law
+sobukwe	mother-in-law
+inkono	mug
+inkono	pot
+kono	mug
+kono	pot
+kubara	count
+bara	count
+inkono	cooking pot
+kono	cooking pot
+ichombo	pot
+ichombo	vessel
+chombo	pot
+chombo	vessel
+igikopo	pot
+kopo	pot
+isafuria	pan
+safuria	pan
+umwuko indoshyo	vessel
+uko indoshyo	vessel
+amabyi	dung
+amabyi	excrement
+mabyi	dung
+mabyi	excrement
+kubyaara	give birth
+byaara	give birth
+umubyeyi	parent
+byeyi	parent
+umuryango	offspring
+ryango	offspring
+umwanda	dirt
+anda	dirt
+ibara	speckle
+ibara	spot
+bara	speckle
+bara	spot
+umwanda	filth
+anda	filth
+ibishingwe	garbage
+ibishingwe	rubbish
+bishingwe	garbage
+bishingwe	rubbish
+umutumbi	corpse
+tumbi	corpse
+byina	dance
+kubyina	dance
+ukuboko	arm
+ukuboko	hand
+kuboko	arm
+kuboko	hand
+boma	pump
+iboma	pump
+ubwonko	brain
+bwonko	brain
+umubu	mosquito
+bu	mosquito
+ubusunyu	raphia palm
+busunyu	raphia palm
+imbwa	dog
+bwa	dog
+ibuye	stone
+buye	stone
+urutagangurwa	spider
+tagangurwa	spider
+hene	goat
+ihene	goat
+kubumba	mould
+bumba	mould
+buto	seed
+imbuto	seed
+itaka	soil
+taka	soil
+itanda	borassus palm
+tanda	borassus palm
+ubutaka	earth
+ubutaka	land
+butaka	earth
+butaka	land
+imbogo	buffalo
+bogo	buffalo
+kuvanganya	mix
+kuvanganya	put together
+vanganya	mix
+vanganya	put together
+kuvanga	mix
+vanga	mix
+kuvuruga	mix
+kuvuruga	stir
+vuruga	mix
+vuruga	stir
+vi	white hair
+invi	white hair
+vura	rain
+invura	rain
+vuna	break
+vuna	snap
+kuvuna	break
+kuvuna	snap
+kuvumbura	stir up
+vumbura	stir up
+kuvunjavunja	crumple
+vunjavunja	crumple
+urukindo	oil palm
+kindo	oil palm
+gupfuka	wrap up
+pfuka	wrap up
+gutega	bait
+tega	bait
+urukindo	date palm
+kindo	date palm
+huura	meet
+guhuura	meet
+kwishiima	become cheerful
+ishiima	become cheerful
+kunezerwa	be pleased
+nezerwa	be pleased
+umusenyi	sand
+senyi	sand
+kunama	bend down
+kunama	lean
+kunama	slope
+nama	bend down
+nama	lean
+nama	slope
+ubutaka	land
+taka	land
+gy~ewe	I
+wowe	you
+tw~ebw~e	we
+mw~e	one
+bili	two
+umunhu	person
+ifi	fish
+imbw~o	dog
+indo	louse
+ikibobi	leaf
+uruhu	skin
+omoroso	blood
+igufw~o	bone
+ihembe	horn
+ugutw~i	ear
+ijiSo	eye
+izuru	nose
+iry~i5o	tooth
+urulimi	tongue
+ivi	knee
+iTigonzo	hand
+igituzo	breast
+umw~ijimo	liver
+ku5wo	drink
+kuroro	see
+kumvo	hear
+gupf~o	die
+kuzo	come
+izubo	sun
+i5e5eri	star
+omozi	water
+ibuye	stone
+umuliro	fire
+inziro	path
+umusozi	mountain
+kuzuro	full
+Sy~o	new
+izino	name
+kure	far
+-ose	all
+-kara	black
+-a mbere	first
+-iza	good
+-atsi	green
+-keye	light
+-oroshye	light
+-re-re	long
+-inshi	many
+-shya	new
+-tuku	red
+iburyo	right
+-kwiye	right
+-ke	small
+-eru	white
+inyuma	back
+hano	here
+ubu	now
+gusa	only
+hariya	there
+neza	well
+na	and
+kubera ko	because
+mbere	before
+-te	how
+niba	if
+ko	that
+ryari	when
+-gongo	back
+-nsi	day
+-bwa	dog
+-ryango	door
+-jisho	eye
+papa	father
+-riro	fire
+-ganza	hand
+-twe	head
+-fasha	help
+-zu	house
+-rumuri	light
+-tara	light
+-kundo	love
+-gabo	man
+-faranga	money
+mama	mother
+-zina	name
+-joro	night
+-vura	rain
+-ti	tree
+-zi	water
+-aka	year
+mo	in
+muri	in
+nka	like
+munsi	under
+hamwe na	with
+-fite	with
+na	with
+jye	I
+uwo	that
+-no	this
+twe	we
+-he	what
+-za	come
+-kora	do
+-gwa	fall
+-guruka	fly
+-ha	give
+-gira	have
+-komeza	keep
+-shimishwa	like
+-kora	make
+-kina	play
+-shyira	put
+-iruka	run
+-vuga	say
+-bona	see
+-cara	sit
+-sinzira	sleep
+-hagarara	stop
+-twara	take
+-kora	work
+Ubudage Bwiyunze	Federal Republic of Germany
+Burundi	Burundi
+Ibirwa bya Kuke	Cook Islands
+Ubudagi	Germany
+Kwakabiri	Tuesday
+Repubulika ya Dominikani	Dominican Republic
+ukwezi kwa kabiri	February
+Gashyantare	February
+Amahoro Masa	Greenpeace
+intangiriro	main page
+Hongo Kongo	Hong Kong
+Ubuhinde	India
+Repebulika y'Ubuyisilamu ya Afuganisitani	Islamic Republic of Afghanistan
+Mutarama	January
+yuma	knife
+Wagadugu	Ouagadougou
+Repebulika y'Alubaniya	Republic of Albania
+Repebulika y'Angola	Republic of Angola
+Repubulika y'u Azeribayijani	Republic of Azerbaijan
+Repubulika y'u Rwanda	Republic of Rwanda
+urubingo	sedge
+urubingo	cane
+urubingo	reed
+bingo	sedge
+bingo	cane
+bingo	reed
+Mutagatifu Visenti na Gerenadine	Saint Vincent and the Grenadines
+nyamaswa	beast
+nyamaswa	animal
+koko	beast
+koko	animal
+itsembabwoko	genocide
+jenoside	genocide
+inkoranyamagambo	dictionary
+Repubulika ya Santara Afurika	Central African Republic
+gufundu	eat
+Leta Zunze Ubumwe z’Amerika	United States of America
+ukwezi kwa mbere	January
+Mutarama	January
+Umuryango w’Abibumye	United Nations
+kwagatandatu	Saturday
+ka	cow
+ejo	tomorrow
+zovu	elephant
+yuki	bee
+ezi	month
+neke	banana
+yanya	tomato
+juru	sky
+ikirayi	potato
+genda	go
+genda	travel
+genda	drive
+genda	fare
+genda	wend
+genda	ride
+ikinga	bike
+ikinga	bicycle
+ezi	moon
+zoka	serpent
+zoka	snake
+ganza	hand
+ganza	arm
+nyamasyo	turtle
+nyamasyo	tortoise
+ejo	yesterday
+Accra	Accra
+Afuganisitani	Afghanistan
+Azia	Asia
+Ositiriya	Austria
+Ububirigi	Belgium
+Danimarike	Denmark
+Icyongereza	English
+Urwandiko rw’Abefeso	Ephesians
+Ibirwa bya Farowe	Faroe Islands
+Kwagatanu	Friday
+ikidage	German
+Imana	God
+Isilande	Iceland
+Igitabo cy’Abacamanza	Judges
+Ikinyarwanda	Kinyarwanda
+Megizike	Mexico
+Kwambere	Monday
+Kwagatandatu	Saturday
+Kwamungu	Sunday
+Suwede	Sweden
+Tanzaniya	Tanzania
+Kwakane	Thursday
+Kwakabiri	Tuesday
+Kwagatatu	Wednesday
+Wikipediya	Wikipedia
+limwe	one
+kabili	two
+gatatu	three
+kane	four
+gatanu	five
+gatandatu	six
+kalindwi	seven
+umunani	eight
+icyenda	nine
+icumi	ten
+uruyuki	bee
+inyoni	bird
+isabukuru	birthday
+amaraso	blood
+ikizibaho	blouse
+igufwa	bone
+igitabo	book
+cupa	bottle
+icupa	bottle
+isutiye	bra
+umweyo	broom
+umukubuzo	broom
+imbegeti	bucket
+amavuta	butter
+ikinyugunyugu	butterfly
+ishu	cabbage
+caravaneer	caravan
+caravan	caravan
+inyumbati	cassava
+ifromaje	cheese
+cempedak	chempedak
+akananwa	chin
+isaha	clock
+ibigicu	cloud
+ikawa	coffee
+mudasobwa	computer
+umurambo	corpse
+intumbi	corpse
+inka	cow
+imvuvu	dandruff
+bwa	dog
+duriyani	durian
+ugutwi	ear
+igi	egg
+inkokora	elbow
+inzovu	elephant
+ijisho	eye
+jisho	eye
+ingohe	eyelash
+so	father
+gatanu	five
+ifu	flour
+inshuti	friend
+ikibonezamvugo	grammar
+inyundo	hammer
+umushwara	handkerchief
+umutima	heart
+ubuki	honey
+ifarashi	horse
+ubutare	iron
+ichyuma	iron
+igifenesi	jackfruit
+uruberwa	kenaf
+igikoni	kitchen
+imbugita	knife
+urumini	language
+urukundo	love
+kanseri yo mu bihaha	lung cancer
+gusasa	make the bed
+igicuku	midnight
+igitangaza	miracle
+indorerwamo	mirror
+amafaranga	money
+igitondo	morning
+mama	mother
+umushushwe	mouse
+imbeba	mouse
+umunwa	mouth
+inyanja	ocean
+rimwe	one
+ikote	overcoat
+inteko ishinga amategeko	parliament
+marakuja	passion fruit
+farumasi	pharmacy
+ikimera	plant
+imvura	rain
+fulari	shawl
+ijipo	shirt
+umwotsi	smoke
+yiko	spoon
+mukaso	stepmother
+inkere	strawberry
+isukari	sugar
+izuba	sun
+bombo	sweet
+ikijumba	sweet potato
+icyayi	tea
+ikibero	thigh
+igiti	tree
+ubuntu	ubuntu
+umuhengeri	violet
+ikirunga	volcano
+ikiziga	wheel
+umutende	wheel
+umuyaga	wind
+idirishya	window
+yawurute	yogurt
+Adamu	Adam
+Ubudage	Germany
+Andora	Andorra
+Burundi	Burundi
+Danemarke	Denmark
+Doha	Doha
+Ubuhindi	India
+Nijeriya	Nigeria
+Umuryango w’Abibumye	UN
+Umuryango w’Abibumye	United Nations
+U Buholandi	Netherlands
+Rwanda	Rwanda
+Repebulika y’Ubuyisilamu ya Afuganisitani	Islamic Republic of Afghanistan
+Yokohama	Yokohama
+yuki	bee
+aka	year
+pongo	antelope
+ti	tree
+nawe	too
+Mata	April
+sikaneri	scanner
+neke	banana
+zoga	beer
+zoga	bier
+bogobogo	blue
+mwiriwe	good day
+mwiriwe	good afternoon
+mwiriwe	good morning
+mwiriwe	hello
+mwaramutse	good day
+mwaramutse	good afternoon
+mwaramutse	good morning
+mwaramutse	hello
+ijoro ryiza	good night
+calcaire	limestone
+humyo	mushroom
+humyo	mold
+humyo	toadstool
+humyo	mould
+ririmba	sing
+ririmba	chant
+jangwe	cat
+agacurama	bat
+agacurama	bat
+bwa	doggy
+bwa	hound
+bwa	dog
+umubare	numeral
+umubare	cipher
+umubare	figure
+umubare	digit
+bare	numeral
+bare	cipher
+bare	figure
+bare	digit
+hene	she-goat
+hene	nanny goat
+dimu	lime
+dimu	lemon
+sozi	hill
+sozi	hillock
+curuzi	trader
+curuzi	dealer
+curuzi	tradesman
+curuzi	shopkeeper
+curuzi	businessman
+curuzi	merchant
+teka	cook
+byina	dance
+amenyo	tooth
+amenyo	prong
+amenyo	teeth
+amenyo	cog
+kuva	from
+kuva	for
+kuva	since
+vuga	tell
+vuga	say
+toki	finger
+toki	digit
+tanga	donate
+tanga	give
+sinzira	sleep
+sinzira	be asleep
+zi	water
+ana	infancy
+ana	childhood
+muhira	nuclear family
+muhira	family
+sano	family
+naniro	weariness
+naniro	fatigue
+kobwa	daughter
+kobwa	girl
+rabo	blossom
+rabo	flower
+rabo	bloom
+shyamba	timberland
+shyamba	forest
+shyamba	woodland
+shyamba	wood
+swa	emmet
+swa	ant
+swa	pismire
+kere	strawberry
+buto	fruit
+ukwezi kwa kabiri	February
+Gashyantare	February
+hembwa	acquire
+hembwa	enroll
+hembwa	profit
+hembwa	obtain
+hembwa	earn a living
+hembwa	get
+hembwa	enrol
+hembwa	woo
+hembwa	secure
+hembwa	beat
+hembwa	canvass
+hembwa	gain
+hembwa	enlist
+hembwa	recruit
+hembwa	reach
+hembwa	earn
+hembwa	win
+hembwa	accrue
+hembwa	attract
+hembwa	rally
+vi	knee
+vi	lap
+tura	reside
+tura	stay
+tura	inhabit
+tura	dwell
+tura	live
+atsi	grass
+atsi	herb
+saha	hour
+guru	paw
+guru	shank
+guru	leg
+ukwezi kwa mbere	January
+Mutarama	January
+kwakane	Thursday
+nsi	day
+ta	milk
+ku wa mbere	Monday
+ku wa kabiri	Tuesday
+ku wa gatatu	Wednesday
+ku wa kane	Thursday
+ku wa gatanu	Friday
+ku wa gatandatu	Saturday
+ku cyumweru	Sunday
+Mutarama	January
+Gashyantare	February
+Werurwe	March
+Mata	April
+Gicurasi	May
+Kamena	June
+Nyakanga	July
+Kanama	August
+Nzeli	September
+Ukwakira	October
+Ugushyingo	November
+Ukuboza	December
+Afurika	Africa
+Amerika	America
+Aziya	Asia
+Uburayi	Europe
+amahoro	peace
+nimuhóre	peace
+Adamu na Eva	Adam and Eve
+kaminuza	university
+kinyaRwanda	Rwanda
+kwavu	rabbit
+kwavu	cony
+kwavu	bunny
+tabo	book
+kuwa mbere	Monday
+panga	machete
+ganza	hand
+aliko	but
+kwakabiri	Tuesday
+kurongora	wed
+kurongora	marry
+Werurwe	March
+tondo	morning
+kwagatatu	Wednesday
+ezi	month
+sazi	fly
+muharramu	Muharram
+pfa	pass away
+pfa	die
+pfa	expire
+tama	sheep
+kuba	increase
+kuba	multiply
+koga	swim
+zuru	nose
+irabura	black
+oya	nope
+oya	nay
+oya	no
+ibicu	cloud
+cu	cloud
+joro	night
+inkongoro	scavenger
+inkongoro	necrophage
+musasobwa	computer
+gati	bread
+horo	peace
+umutaka	umbrella
+to	little
+to	short
+to	small
+ke	little
+ke	few
+oba	fear
+renge	paw
+renge	foot
+rira	weep
+rira	cry
+fi	fish
+ikirayi	potato
+ikirayi	spud
+tunga	possess
+tunga	own
+basha	may
+basha	can
+basha	be able to
+shobora	may
+shobora	can
+shobora	be able to
+ko	since
+rizo	stalk
+rizo	line
+rizo	brush
+rizo	queue
+rizo	stem
+ruhuka	relax
+ruhuka	repose
+ruhuka	rest
+kire	wealthy
+kire	well-to-do
+kire	well-off
+kire	affluent
+kire	rich
+seka	laugh
+kwagatandatu	Saturday
+raso	blood
+nta	without
+nta	-less
+zima	health
+sabuni	soap
+seriveri	server
+porogisi	proxy server
+sa	exclusively
+sa	just
+sa	merely
+sa	but
+sa	simply
+sa	solely
+sa	only
+guge	ape
+guge	primate
+guge	monkey
+saka	sorghum
+shiki	sister
+umushiki	sister
+hengeri	tempest
+hengeri	gale
+hengeri	storm
+ihema	tent
+yanya	tomato
+nyamasyo	turtle
+nyamasyo	tortoise
+rimo	work
+kora	labour
+kora	work
+urutambi	trotyl
+urutambi	tritol
+urutambi	trinitrotoluol
+urutambi	tolite
+urutambi	trinol
+urutambi	tritone
+urutambi	2,4,6-trinitromethylbenzene
+urutambi	tritolo
+urutambi	TNT
+urutambi	trinitrotoluene
+urutambi	triton
+urutambi	trotol
+urutambi	2-methyl-1,3,5-trinitrobenzene
+urutambi	trilite
+cyane	very
+cyane	quite
+mwe	one
+kwagatanu	Friday
+za	come
+za	happen
+shinga	verb
+yama	meat
+shaka	wish
+shaka	be willing to
+shaka	want
+Leta Zunze Ubumwe z’Amerika	US
+Leta Zunze Ubumwe z’Amerika	USA
+Leta Zunze Ubumwe z’Amerika	United States of America
+Leta Zunze Ubumwe z’Amerika	United States
+dogobe	donkey
+dogobe	ass
+dogobe	burro
+andika	compose
+andika	write
+andika	create
+yenyeli	star
+jisho	eye
+jisho	glyph
+Kwamungu	Sunday
+zovu	elephant
+Kwakane	Thursday
+rimo	labour
+rimo	work
+kuwa mbere	Monday
+Kwakabiri	Tuesday
+Kwagatandatu	Saturday
+indorerwamo	looking-glass
+ifu	flour
+Accra	Accra
+Azia	Asia
+Ikerene	Ukraine
+Gana	Ghana
+ifromaje	cheese
+amavuta	butter
+Kwamungu	Sunday
+ubuki	honey
+inzovu	elephant
+ubutare	iron
+ichyuma	iron
+Adamu	Adam
+Finirande	Finland
+Albaniya	Albania
+Ubudage	Germany
+Andora	Andorra
+Angola	Angola
+Argentina	Argentina
+Belize	Belize
+Burundi	Burundi
+Bibiliya	Bible
+Uburayi	Europe
+Fiji	Fiji
+Tayiwani	Formosa
+Tayiwani	Taiwan
+Tayiwani	Republic of China
+Yugoslaviya	Yugoslavia
+Yugosilaviya	Yugoslavia
+Yesu	Jesus
+Yugoslaviya	Yugoslavia
+Yugosilaviya	Yugoslavia
+Koweti	Kuwait
+Nepal	Nepal
+Nijeriya	Nigeria
+Paris	Paris
+Kenya	Kenya
+Rwanda	Rwanda
+Senegali	Senegal
+Surinamu	Surinam
+Surinamu	Suriname
+Togo	Togo
+Tokelawu	Tokelau
+Tokelawu	Tokelau
+Vanuwatu	Vanuatu
+Zimbabwe	Zimbabwe
+uruyuki	honey-bee
+uruyuki	bee
+uruyuki	honeybee
+umunyafurika	African
+ikinyafurika	African
+ubuhinzi	farming
+ubuhinzi	agriculture
+aluminiyumu	aluminium
+imodoka	motor car
+imodoka	automobile
+imodoka	car
+umunzani	balance
+umunzani	scales
+umunwa	mouth
+c4	mouth
+c3	mouth
+igisuguti	cookie
+igisuguti	biscuit
+ukuboko	arm
+intebe	chair
+ishati	shirt
+ikyeri	beer
+isaro	bead
+kristendomu	Christianity
+imbwa	dog
+cumi	ten
+ikyumweru	Sunday
+zovu	elephant
+ubukonje	cold
+imbeho	cold
+injangwe	cat
+umuhungu	lad
+umuhungu	boy
+giheburayo	Hebrew
+ururimi	tongue
+ururimi	language
+musaza wawe	brother
+vi	knee
+ivi	knee
+gwe	leopardess
+gwe	leopard
+gwe	panther
+igitabo	book
+ikaramu	pencil
+guge	ape
+guge	primate
+guge	monkey
+kimalayi	Malay
+umuhungu	lad
+umuhungu	boy
+umusozi	mountain
+umugore	woman
+koga	swim
+icenda	nine
+jisho	eye
+igufa	bone
+papuro	paper
+igisokozo	comb
+plage	beach
+yirabura	black
+mbere	first
+kwagatatu	Wednesday
+gushuhu	hot
+gushuhu	warm
+amagara	health
+iteka	always
+iteka	ever
+ikote	greatcoat
+ikote	overcoat
+umutobe w'imbuto	juice
+igihe	time
+umwanya	time
+ikibuno	backside
+ikibuno	bottom
+ikibuno	behind
+ikibuno	bum
+umutoza	coach
+umutoza	trainer
+inka	cow
+imyambaro	clothes
+imyambaro	clothing
+umwenda	clothes
+umwenda	clothing
+mirongo ibiri	twenty
+Afurika	Africa
+ibere	udder
+Baku	Baku
+Berlin	Berlin
+Bibiliya	Bible
+Yeruzalemu	Jerusalem
+Yerusalemu	Jerusalem
+Yemeni	Yemen
+Lativiya	Latvia
+Peru	Peru
+Uburusiya	Russia
+Singapore	Singapore
+Tanzaniya	Tanzania
+Irigwe	Uruguay
+Filipine	Philippines
+Ubufaransa	France
+idiyama	diamond
+diyama	diamond
+Mata	April
+ikinyugunyugu	butterfly
+munini	large
+munini	big
+kinini	large
+kinini	big
+papuro	paper
+icupa	bottle
+indobo	bucket
+indobo	pail
+imbegeti	bucket
+imbegeti	pail
+ingamiya	camel
+ingamiya	dromedary
+amazi	water
+umwuka	air
+imunani	eight
+cumi ni munani	eighteen
+mirongo imunani	fourscore
+mirongo imunani	eighty
+Kwamungu	Sunday
+igihe	age
+igihe	time
+umwanya	age
+umwanya	time
+Kwakabiri	Tuesday
+ijisho	eye
+ibumba	loam
+ibumba	clay
+twe	head
+sozi	mountain
+umugi	city
+umugi	town
+kirura	bitter
+mirongo ibiri	twenty
+mirongo ibiri	score
+cumi na kabiri	twelve
+mirongo icenda	ninety
+cumi na cenda	nineteen
+umunsi	daylight
+umunsi	day
+umunsi	daytime
+amafaranga	money
+ti	tree
+cumi	ten
+kobwa	daughter
+gufundu	eat
+rya	eat
+ubutare	iron
+ichyuma	iron
+nyamaswa	animal
+koko	animal
+buza	suppress
+buza	interdict
+buza	prohibit
+buza	forbid
+yemera	zebra
+umutingito	earthquake
+umutingito	quake
+umutingito	temblor
+zoka	snake
+amenyo	tooth
+Nyakanga	July
+dogobe	donkey
+dogobe	ass
+Kamena	June
+ishu	cabbage
+Kinyarwanda	Rwanda
+Kinyarwanda	Kinyarwanda
+tabo	book
+Ivi	knee
+inzogera	bell
+ka	cow
+amaraso	blood
+ingona	crocodile
+kugura	buy
+kugura	purchase
+igihuru	bush
+igihuru	shrub
+intare	lion
+gitoya	little
+gitoya	small
+to	little
+to	small
+ezi	month
+muto	young
+ta	milk
+igiceri	coin
+iteme	bridge
+umugabo	male
+umugabo	man
+umuziki	music
+fu	flour
+fu	farina
+swa	ant
+ubuki	honey
+juru	firmament
+juru	sky
+ukuguru	leg
+zuru	nose
+inkura	rhino
+inkura	rhinoceros
+joro	night
+Ugushyingo	November
+konkombure	cucumber
+rimwe	one
+cumi na rimwe	eleven
+lac	lake
+idirisha	window
+dogobe	donkey
+dogobe	ass
+ririmba	sing
+zoga	beer
+zoga	ale
+ikyeri	beer
+ikyeri	ale
+andika	write
+rira	weep
+rira	cry
+tugu	shoulder
+yanya	tomato
+vuna	help
+vuna	assist
+gufasha	help
+gufasha	assist
+Kwambere	Monday
+inyoni	bird
+uruyuki	bee
+gatanu	five
+ku wa gatanu	Friday
+maganatanu	five hundred
+ikimera	plant
+ikimera	herb
+igisokozo	comb
+ganza	hand
+mirongo indwi	seventy
+indwi	seven
+karindwi	seven
+Nzeli	September
+mwene manyu	sister
+inkoranyamagambo	dictionary
+zovu	elephant
+unyu	salt
+mirongo ine	forty
+umugongo	back
+umugongo	dorsum
+ku wa gatatu	Wednesday
+ijana	hundred
+umwambi	arrow
+intebe	chair
+kwagatandatu	Saturday
+ifromaje	cheese
+byina	dance
+inyenzi	cockroach
+mirongo itatu	thirty
+cumi ne shatu	thirteen
+igihumbi	thousand
+vinegre	vinegar
+naniro	lassitude
+naniro	weariness
+naniro	fatigue
+tondo	morning
+tondo	morn
+ugutwi	ear
+Gashyantare	February
+gati	bread
+ubukirisitu	Christianity
+saha	hour
+ku wa kane	Thursday
+kane	four
+cumi na kane	fourteen
+soma	read
+irabura	black
+mirongo itandatu	sixty
+gatandatu	six
+cumi na gatandatu	sixteen
+Ururimi	tongue
+Ururimi	language
+Mutarama	January
+Ubudagi	Germany
+France	France
+ikiyarwanda	Ruanda
+ikiyarwanda	Kinyarwanda
+umugore	woman
+ibinyamakuru	newspaper
+ibinyamakuru	paper
+kinyaRwanda	Kinyarwanda
+kinyaRwanda	Kinyarwanda
+aduka	appear suddenly
+aduka	be introduced
+aguka	widened
+agura	widen
+agura	make wider
+ahukana	separated
+ahukana	divorced
+aka	burning
+aka	be started
+aka	take away
+aka	take from
+akira	receive
+akira	welcome
+akira	accept
+amamara	spread everywhere
+amamara	become known
+amamaza	advertise
+amamaza	publish
+amamaza	make known
+amamaza	declare
+amamaza	campaign
+ambara	wear
+ambarwa	worn
+ambaza	pray
+ambaza	petition
+ambaza	call upon
+ambaza	supplicate
+ambaza	implore
+ambika	clothe
+ambura	undress
+andika	write
+andikira	write to
+andikira	write for
+andikira	write on
+andikisha	register
+andikishwa	registered
+andikwa	written
+anga	hate
+anga	dislike
+anga	refuse
+anga	reject
+angana	hate each other
+angira	resist
+angira	refuse to
+angirika	destroyed
+angirika	damaged
+angirira	resist
+angirira	refuse to
+angiza	damage
+angiza	waste
+angiza	destroy
+angwa	hated
+angwa	dislike
+angwa	refused
+anika	expose
+anzura	decide
+anzura	conclude
+asama	open one’s mouth
+atsa	start
+atsa	set fire to
+atswa	started
+atswa	be burned
+ayura	yawn
+ba	be
+ba	live
+ba	exist
+babara	in pain
+babara	suffer
+babara	hurt
+babarira	forgive
+babarira	forgive me
+babarirwa	forgiven
+babaza	hurt
+babaza	offend
+babaza	cause suffering
+baga	butcher
+baga	operate on
+baga	remove skin
+bagara	weed
+bagarwa	weeded
+bagwa	butchered
+bamba	crucify
+bana	live together
+bangikanya	parallel
+banguka	hurry
+banguka	go quickly
+banguka	rush
+banziriza	precede
+bara	count
+barwa	counted
+basha	able
+basha	capable
+batiza	baptise
+batizwa	baptised
+baza	ask
+baza	question
+baza	enquire
+baza	query
+bengerana	shine
+bengerana	gleam
+bera	unjust
+berama	tilt
+berama	slope
+berwa	fit
+berwa	be well dressed
+berwa	be smart
+beshya	lie
+beshya	deceive
+beshyera	lie about
+biba	plant
+biba	sow
+biha	bad tasting
+bika	crow
+bika	put away
+bika	store
+bika	keep
+bika	save
+bira	boiling
+birindura	roll along
+bisikana	bypass
+biza	boil
+bobera	soft
+bobera	wet
+bobeza	make soft
+bobeza	wet
+boha	bind
+boha	tie
+boha	weave
+boha	knit
+bohekanya	braid
+bohekanya	twist
+bohora	release
+bohora	liberate
+bohora	untie
+bona	see
+bona	find
+bona	get
+bonana	see each other
+boneka	visible
+boneka	appear
+boneka	show up
+boneka	be available
+bonera	find
+bonera	recover
+boneza	make clean
+boneza	visible
+boneza	pure
+boneza	target
+boneza	go straight
+bonwa	seen
+bora	rot
+bora	decay
+boroga	howl
+boroga	wail
+bumba	pottery
+bumbira	bring together
+bumbira	unite
+bunga	wander
+bura	lack
+bura	lose
+burira	warn
+burira	alert
+buyera	wander about
+buza	forbid
+buza	prevent
+buza	stop
+buzwa	forbidden
+bwagura	give birth
+bwegeka	pregnant
+bwira	tell
+bwiriza	preach
+bwiriza	incite
+byara	give birth
+byara	deliver
+byibuha	gain weight
+byibuha	become heavier
+byimba	swell
+byina	dance
+byuka	wake up
+byuka	arise
+byutsa	wake someone up
+ca	cut
+ca	tear
+ca	tell a story
+cagagura	chop up
+cagagura	parse
+cana	switch on
+cana	ignite
+cana	light
+canwa	switched on
+canwa	ignited
+capa	print
+capwa	printed
+ceceka	silent
+ceceka	quiet
+ceceka	stop talking
+cenga	trick
+cenga	dodge
+cengera	infiltrate
+cengeza	insert
+cika	torn
+cika	escape
+cika	survive
+cikwa	make an error
+cikwa	err
+cikwa	miscalculate
+cira	spit
+ciririkanya	bargain
+cirwa	sentenced
+cogora	reduce
+cogora	less
+cogora	decreased
+cogoza	reduce
+cogoza	lessen
+cogoza	decrease
+cogoza	weaken
+comeka	plug in
+comeka	insert
+comekora	unplug
+comekora	remove
+cucuma	mash
+cukura	dig a hole
+cukura	mine
+cumba	give off smoke
+cumita	penetrate
+cumita	pierce
+cumura	sin
+cunga	manage
+cungura	redeem
+cura	forge
+curanga	play an instrument
+curika	turn upside down
+curuza	do business
+curuza	trade
+curuzwa	traded
+cuya	fade
+cya	good morning
+cya	become clean
+cyaha	rebuke
+cyocyora	jest
+cyocyora	poke fun at
+cyura	bring back
+daha	decant
+dahemuka	faithful
+dedemanga	babble
+dedemanga	stammer
+dedemanga	stutter
+deha	lazy
+dindiza	hinder
+doda	sew
+dodwa	sewed
+dudubiza	well up
+dudubiza	spring up
+egama	leaning
+egera	approach
+egera	draw near
+egeranya	bring together
+eguka	straighten up
+emera	accept
+emera	agree
+emera	admit
+emera	be willing
+emerera	allow
+emerera	permit
+emerera	promise
+enda	commit adultery
+enda	fornicate
+enda	about to
+enga	brew beer
+era	white
+era	pure
+era	innocent
+era	holy
+ereka	show
+erekera	turn toward
+erekeza	direct
+ererana	very white
+ererana	very pure
+esa	smash
+esa	break
+eza	make pure
+eza	purify
+eza	exonerate
+eza	whiten
+eza	harvest
+ezwa	purified
+ezwa	exonerated
+fana	support
+fasha	help
+fasha	assist
+fashisha	help
+fashwa	helped
+fashwa	assisted
+fata	take
+fata	catch
+fata	grasp
+fatanya	cooperate
+fatanya	share
+fatanya	partner
+fatanya	join
+finda	encode
+finda	encrypt
+finda	hide
+findura	decode
+findura	uncover
+findura	decrypt
+findura	unhide
+fite	have
+fora	aim at
+fora	guess
+fotorwa	photographed
+fudika	err
+fudika	make a mistake
+funga	close
+funga	shut
+funga	imprison
+funga	lock
+funga	logout
+funga	fast
+fungana	narrow
+funguka	open
+funguka	unlocked
+fungura	open
+fungura	login
+fungura	dilute
+fungura	have a meal
+fungura	eat
+fungura	dine
+fungurwa	opened
+fungwa	closed
+fungwa	shut
+fungwa	imprisoned
+fungwa	locked
+funyanga	knead
+fura	wash clothes
+gaba	give
+gaba	deploy
+gaba	put forth
+gabanuka	diminished
+gabanuka	reduced
+gabanuka	decreased
+gabanura	reduce
+gabanura	lessen
+gabanura	decrease
+gabanura	weaken
+gabanya	divide
+gabanya	allot
+gabanya	reduce
+gabanyika	divided
+gabanyika	allotted
+gabanyika	reduced
+gabiza	report on
+gabiza	inform on
+gaburira	feed
+gaburira	give food
+gaburirwa	fed
+gaga	spoil
+gaga	be spoiled
+gagara	become stiff
+gagara	stiffen
+gagaza	make stiff
+gagaza	stiffen
+gamba	talk
+gambana	betray
+gambirira	decide
+gambirira	determine
+gambirira	plan
+gambirira	plot
+gambirira	be intent
+gana	go forward
+gana	advance
+gana	proceed
+ganira	chat
+ganira	converse
+ganira	discuss
+ganya	moan
+ganya	groan
+ganya	wail
+ganya	grieve
+ganya	lament
+ganyira	complain
+ganza	conquer
+ganza	rout
+ganza	dominate
+ganza	reign
+ganzwa	conquered
+garagara	visible
+garagara	clear
+garagara	obvious
+garagara	evident
+garagaza	indicate
+garagaza	visible
+garagaza	clear
+garagazwa	clear
+garagazwa	obvious
+garuka	return here
+garuka	review
+gashya	row
+gashya	paddle
+gaya	ungrateful
+gaya	unappreciative
+gena	decide
+gena	assign
+gena	determine
+genda	go
+genda	leave
+genda	walk
+gendagenda	walk about
+gendana	go together
+gendana	accompany
+gendana	escort
+gendanwa	accompanied
+gendanwa	escorted
+genera	allocate
+genera	designate
+genga	legislate
+genga	govern
+gengarara	become wide
+gengarara	widespread
+genza	demonstrate
+genza	prove
+genza	show how
+genzura	inspect
+genzura	audit
+genzura	investigate
+gera	reach
+gera	arrive
+gera	measure
+gerageza	try
+gerageza	attempt
+gerageza	tempt
+gereka	stack
+gereka	append
+gereka	bargain
+gereranya	compare
+gereranya	estimate
+gerwa	reached
+geza	reach
+geza	until
+gingimira	stutter
+gingimira	stammer
+gingimira	hesitate
+gingimiranya	hesitate
+gingimiranya	be fearful
+gira	have
+gira	make
+girwa	made of
+girwa	composed of
+gisha inama	ask for advice
+gisha inama	consult
+gishwa inama	consulted
+goma	rebel
+goma	disobey
+gomba	have to
+gomba	need to
+gomba	must
+gomba	should
+gomba	owe
+gora	difficult
+gora	troublesome
+gorama	bend
+gorora	make straight
+gorora	straighten
+gorora	iron
+gororera	reward
+gororera	recompense
+gororoka	become straight
+gororoka	be flexible
+gorwa	unfortunate
+gorwa	unlucky
+gota	encircle
+gota	surround
+guma	stay
+guma	remain
+gumana	stay with
+gumana	remain with
+gura	buy
+gura	purchase
+gurana	exchange
+gurana	swap
+gurira	buy for
+gurira	buy from
+gurisha	sell
+gurishwa	sold
+guruka	fly
+gurwa	bought
+gusha	cause to fall
+gusha	take down
+guza	borrow
+guza	lend
+gwa	fall
+gwa gitumo	catch red-handed
+gwa isari	faint
+gwa isari	be tired
+gwa ivutu	overeat
+gwa ivutu	eat too much
+gwa nabi	badly behaved
+gwa neza	well behaved
+gwira	accumulated
+gwira	multiplied
+ha	give to
+haba	lost
+habwa	given
+habwa	receive
+haga	full
+haga	satisfied
+hagarara	stop
+hagarara	stand
+hagararira	represent
+hagararira	stand in for
+haguruka	stand up
+haguruka	arise
+haha	exchange
+hahamuka	traumatised
+haka	pregnant
+hakana	deny
+hakana	refuse
+hakana	reject
+hama	remain
+hama	stay
+hamagara	call
+hamba	bury
+hambira	tie up
+hambira	bind
+hambira	wrap
+hambuka	loose
+hambura	untie
+hambura	unwrap
+hambwa	buried
+hamiriza	testify to
+hamuka	cowardly
+hamya	witness
+hamya	testify
+hamya	affirm
+hamya	authenticate
+hana	correct
+hana	reprimand
+hanagura	rub
+hanagura	polish
+hanagura	wipe
+hanagura	dust
+hanga	introduce
+hanga	invent
+hanga	create
+hanga	famous
+hanga	come into fashion
+hangana	oppose
+hangayika	worry
+hangayika	be anxious
+hangayika	worried
+hangwa	created by
+hanika	put above
+hanuka	plummet
+hanura	pull down
+hanura	prophesy
+hanura	warn
+hanura	scold
+hanwa	corrected
+hanwa	reprimanded
+hara	give up
+haranira	strive for
+harura	scrape
+harura	scratch
+hata	force
+hata	compel
+hatwa	forced
+hatwa	compelled
+haza	satisfy
+haza	be sufficient
+haza	enough
+hebuza	exceed
+hebuza	be superior
+heheta	lust
+heka	carry
+heka	transport
+hekenya	chew
+hekenywa	chewed
+hemba	reward
+hembwa	earn
+hembwa	rewarded
+hemuka	unfaithful
+hemuka	fail
+hemura	abuse
+hemurwa	abused
+henda	overcharge
+henda	be expensive
+henda	deceive
+hendahenda	beg
+hendahenda	beseech
+hendahenda	plead
+henduka	cheap
+hendwa	overcharged
+hera	end
+hera	cease
+hera	disappear
+hera	last
+hera	start from
+herekeza	accompany
+herekeza	escort
+hererana	near
+hererana	beside
+hererekanya	convey
+hererekanya	transmit
+heruka	last
+heruka	come last
+heta	bend
+heza	send away
+higa	hunt
+higa	vow
+higa	promise
+himba	invent
+himba	write
+himba	author
+himbaza	praise
+hina	shorten
+hina	summarize
+hina	sum up
+hina	crouch
+hinda	thunder
+hinda	rumble
+hinduka	become
+hinduka	be changed
+hindukira	turn around
+hindukira	come back
+hindura	change
+hindura	edit
+hindura	alter
+hindurwa	changed
+hindurwa	edited
+hinga	grow
+hinga	cultivate
+hinga	dig
+hinguka	arrive
+hinguka	emerge
+hingutsa	cause to arrive
+hingutsa	summon
+hingutsa	place
+hinyuka	displease
+hinyuka	disappoint
+hinyura	scorn
+hinyura	criticize
+hirika	overturn
+hirika	push away
+hirika	overthrow
+hirika	oust
+hirwa	lucky
+hirwa	blessed
+hirwa	fortunate
+hisha	hide
+hisha	conceal
+hisha	ripen
+hisha	burn
+hishura	reveal
+hita	pass by
+hitamo	select
+hitamo	choose
+hitamo	pick
+hitwa	have diarrhoea
+hobera	embrace
+hoberana	embrace each other
+homa	plaster
+homba	lose
+homba	suffer loss
+homboka	speak without thinking
+honda	beat
+hondagura	knock down
+hondagura	smash
+honga	wilt
+honga	bribe
+hongerera	atone
+honoka	survive
+hora	always
+hora	continually
+hora	avenge
+hora	become cold
+hora	cool
+hora	become quiet
+hora	stop crying
+horota	lose weight
+hosha	stop
+hosha	prevent
+hosha	quell
+hoza	cool
+hubuka	crowd
+huga	busy
+huga	occupied
+huga	distracted
+hugira	busy
+hugira	occupied with
+huguka	intelligent
+huguka	skilled
+huguka	capable
+huguka	free
+hugura	arouse
+hugura	inform
+hugurwa	aroused
+hugurwa	informed
+huha	blow
+huhwa	light in weight
+huma	blind
+huma	howl
+humanuka	become clean
+humanya	defile
+humeka	breathe
+humekwa	inspired
+humiriza	close one’s eyes
+humuka	regain sight
+humura	smell good
+humura	calm
+humuriza	comfort
+humuriza	console
+humuriza	encourage
+humurizwa	comforted
+humurizwa	be consoled
+humuza	flavour
+humuza	concluded
+humuza	ended
+hunga	flee
+hunikira	nod off
+hunikira	doze
+hunyiza	nod off
+hunyiza	doze
+hura	meet
+hurura	charge
+hurura	rescue
+huza	bring together
+huza	mediate
+huza	associate
+huza	connect
+huza	harmonise
+hwema	cease
+hwema	grow weary
+hwema	rest
+hwema	relax
+iba	steal
+iba	steal from
+ibagirwa	forget
+ibana	live alone
+ibanda	concentrate on
+ibeshya	err
+ibeshya	make a mistake
+ibiza	dip in water
+ibona	proud
+ibuka	remember
+ibuka	recall
+iburanya	question
+iburanya	reason about
+ibutsa	remind
+ibwira	think about
+ica	kill
+ica	pick
+icara	sit
+icaza	cause to sit
+icira	kill for
+icuma	go ahead
+icuma	move on
+icunda	swing
+icwa	killed
+idagadura	enjoy oneself
+idagadura	have fun
+ifasha	help oneself
+ifashisha	help oneself to
+ifashisha	use
+ifata	abstain
+ifubika	cover oneself
+ifuza	wish
+ifuza	desire
+ifuzwa	desired
+iga	study
+iga	learn
+igana	imitate
+iganyira	worry
+iganyira	be anxious
+iganyira	worried
+igaragambya	riot
+igaragambya	demonstrate
+igaya	ashamed
+igenga	independent
+igerezaho	dare
+igisha	teach
+igishwa	taught
+igomwa	give up
+igomwa	sacrifice
+igomwa	fast
+ihana	repent
+ihana	confess
+ihanangiriza	warn
+ihanangiriza	threaten
+ihandagaza	apparent
+ihandagaza	obvious
+ihangana	patient
+ihangana	endure
+iharira	special
+iheba	despair
+iherera	alone
+ihorera	silent
+ihorera	leave someone alone
+ihugura	find out
+ihugura	learn
+ihugura	discover
+ihugura	be informed
+ihuta	hurry
+ihuta	go quickly
+ijima	dark
+ijima	get dark
+ijujuta	murmur
+ikanga	startled
+ikanyiza	selfish
+ikanyiza	stingy
+ikira	board a ship
+ikorera	carry
+ikorera	carry on head
+ikunda	selfish
+ima	withhold
+ima	refuse to give
+ima	enthroned
+imenya	know oneself
+imuka	move
+imuka	change residence
+imuka	relocate
+imura	move
+imura	shift
+imura	postpone
+inezeza	please oneself
+inezeza	enjoy oneself
+inginga	beg
+inginga	beseech
+inginga	plead with
+injira	enter
+inuba	complain
+inuba	grumble
+irabura	black
+irabura	mourn
+irata	boast
+irengagiza	neglect
+irengagiza	overlook
+irengagiza	procrastinate
+irengera	take responsibility for
+irengera	ascend
+irenza	get rid of
+irinda	beware
+irinda	be careful
+irinda	avoid
+iringira	trust
+iringira	rely on
+iringira	hope
+iringira	expect
+irirwa	spend the day
+iroha	rush upon
+iroha	push
+iruka	run
+irukana	chase
+irukana	run after
+irukanka	run
+isegura	excuse oneself
+isegura	apologize
+ishima	happy
+ishima	glad
+ishima	scratch oneself
+ishingana	insure
+ishisha	mistrust
+ishyanura	show off
+ishyura	pay
+isukura	wash
+isukura	cleanse
+isumbura	higher
+isuzuma	examine oneself
+ita	call
+ita	name
+ita	pay attention to
+ita	attend
+ita	care for
+itaba	respond
+itanga	give oneself
+itarura	separate oneself
+itarura	distance oneself
+itega	wait for
+itegereza	study
+itegura	prepare oneself
+itema	cut oneself
+itonda	careful
+itonda	cautious
+itonda	gentle
+itondera	observe
+itondera	obey
+itondera	keep
+itondera	pay attention to
+itonganya	fuss
+itonganya	complain
+itonganya	blame oneself
+itotomba	complain
+itoza	exercise
+itoza	practise
+itsamura	sneeze
+ituma	relieve oneself
+itura	repay
+itwa	called
+itwa	named
+itwararika	concerned about
+iyama	rebuke
+iyama	warn
+iyamamaza	campaign
+iyandikisha	register oneself
+iyereka	show oneself
+iyereka	exercise
+iyibuka	remember oneself
+iyiriza ubusa	fast
+iyoza	clean oneself
+iyubaha	respect oneself
+iyuhagira	wash oneself
+iyuhagira	shower
+iyumvira	think about
+iyunga	reconcile
+iyunga	unite
+iyunga	join
+izera	hope
+izera	believe
+izera	have faith
+izihiza	celebrate
+jabika	dip in water
+jegajega	shake
+jegajega	move
+jijuka	informed
+jijuka	knowledgeable
+jijura	instruct
+jijura	enlighten
+jijwa	not know
+jijwa	be ignorant of
+jugunya	throw away
+jugunya	discard
+jujubya	attack
+jujubya	conquer
+jujubya	pester
+jya	go to
+jya	continually
+jyana	take
+kabya	exaggerate
+kabya	be too much
+kama	milk
+kama	dry up
+kama	stop bleeding
+kambakamba	crawl
+kamura	wring out
+kanda	click
+kandagira	tread on
+kanga	startle
+kanga	frighten
+kanga	threaten
+kangara	warn
+kangara	threaten
+kangisha	threaten
+kanguka	awake
+kangura	awaken
+kangurwa	awoken
+kanura	open one’s eyes
+karaba	wash one’s hands
+karanga	fry
+kata	cut
+kata	turn
+kata	have sex
+kataza	hurry
+kataza	go quickly
+kayuka	lose flavour
+kaza	tighten
+keka	suspect
+keka	suppose
+keka	think
+kemwa	tempted
+kena	poor
+kena	needy
+kenera	need
+kenga	mistrust
+kera	saw
+kerensa	understate
+kerensa	belittle
+kerensa	underestimate
+kerereza	make late
+kererwa	late
+kiganyire	worried
+kikiza	surround
+kina	play
+kinana	play with
+kinda	rape
+kinga	close
+kinga	shut
+kinga	lock
+kinga	intercept
+kinga	block
+kingiriza	obscure
+kingura	open
+kingura	unlock
+kinisha	cause to play
+kira	get well
+kira	be healed
+kira	be rich
+kiranirwa	wicked
+kiranuka	righteous
+kiranuka	just
+kirigita	tickle
+kirigitwa	tickled
+kiza	save
+kiza	heal
+kiza	intervene
+kiza	interpose
+kizwa	saved
+kizwa	healed
+kodesha	hire
+kodesha	rent
+kodesha	lease
+koloniza	colonize
+koma	prevent
+koma	hinder
+koma	stop
+komanga	knock
+komatanya	tag
+komera	strong
+komera	great
+komera	difficult
+komera	hard
+komera	be strong
+komereka	injured
+komereka	wounded
+komereka	hurt
+komeza	continue
+komeza	carry on
+komeza	make strong
+komoka	descended from
+komoka	originate from
+komoka	be derived from
+kongeza	light
+kongeza	set alight
+kongeza	set on fire
+konja	cold
+konja	damp
+kopera	copy
+kopera	cheat
+koporora	copy
+kora	do
+kora	work
+kora	fix
+kora	repair
+korana	work together
+koranya	gather together
+korera	work at
+korera	work for
+koresha	use
+koresha	employ
+koresha	fix
+koreshwa	used
+koreshwa	fixed
+korora	cough
+korwa	done
+korwa	made
+korwa	choke on
+kuba	multiply
+kubagana	mess around
+kubita	beat
+kubita	hit
+kubita	strike
+kubura	sweep
+kuka	come apart
+kuka	be dislocated
+kumbura	miss
+kumbura	I miss you
+kumira	prevent
+kumira	suppress
+kumira	limit
+kuna	elongate
+kunda	like
+kunda	love
+kundana	love each other
+kundira	allow
+kundwa	liked
+kundwa	loved
+kungahaza	enrich
+kungahaza	satisfy
+kungahaza	fill
+kunja	fold up
+kunja	wind up
+kunja	compress
+kunja	zip
+kura	grow up
+kura	take away
+kura	subtract
+kura	dislocate
+kuramo inda	have an abortion
+kuramo inda	miscarry
+kurikira	follow
+kuricyirwa	followed
+kurikiza	apply
+kurubana	drag along
+kurura	pull
+kurura	draw
+kurura	drag
+kuza	glorify
+kuzwa	glorified
+kwenda	accept
+kwerera	middle-aged
+kweta	put on shoes
+kwira	fit
+kwira	be fitting
+kwira	spread
+kwira	spill
+kwira	enough
+kwira	sufficient
+kwiriye	worthy
+manika	hang up
+manika	place above
+manuka	descend
+manura	take down
+manura	lower
+manyagura	smash
+manyagura	break into pieces
+mara	spend
+mara	stay
+mena	break
+mena	spill
+mena	empty
+meneka	broken
+meneka	spilled
+meneka	emptied
+menya	know
+menyeka	familiar
+menyekana	known
+menyekana	become known
+menyekanisha	make known
+menyekanisha	publish
+menyekanisha	announce
+menyera	familiar with
+menyera	accustomed to
+mera	feel
+mesa	wash clothes
+minina	strain
+minina	filter
+mira	swallow
+mirwa	swallowed
+mirwa	underwater
+moka	bark
+moka	shout
+murika	shine
+murika	enlighten
+murika	present
+murika	show
+murikirwa	illuminated
+murikirwa	enlightened
+mwenyura	smile
+nagana	hanging
+nagura	sharpen
+namba	struggle
+nanira	fail
+nanirwa	tired
+nanirwa	exhausted
+nanirwa	incapable
+ndira	allow
+nebwa	lazy
+nesha	triumph
+nesha	conquer
+netesha	make wet
+nezereza	please
+nezereza	make someone happy
+nezerwa	happy
+nezerwa	pleased
+nezerwa	joyful
+nezeza	please
+ngana	equal
+nganya	draw
+nganya	equalize
+niga	choke
+nnya	defecate
+nogora	gouge
+noza	complete
+noza	finish
+noza	be smooth
+nuka	smell bad
+nyaga	take by force
+nyagirwa	get wet
+nyara	urinate
+nyeganyega	shaking
+nyeganyega	trembling
+nyobwa	drunk
+nyobwa	consumed
+nyuguza	rinse
+nyura	pass
+nyura	go through
+nywa	drink
+nywa	smoke
+nywana	drink together
+oga	swim
+oga	bathe
+oga	sail
+oga	cruise
+ogeza	spread
+ogeza	publish
+ogeza	make known
+ohereza	message
+omeka	apply
+omeka	attach
+omeka	paste
+omoka	set sail
+omongana	wander
+omongana	stray
+ongera	add
+ongera	repeat
+ongera	do again
+ongera kugerageza	try again
+ongera kugerageza	retry
+ongorera	whisper
+onka	nursing
+onona	damage
+onona	spoil
+ononekara	damaged
+ononekara	spoiled
+onsa	nurse
+onsa	breastfeed
+onswa	nursed
+onswa	breast-fed
+oroha	easy
+oroha	simple
+oroha	soft
+ororoka	reproduce
+ororoka	breed
+ororoka	multiply
+ororoka	increase in number
+oshya	tempt
+oshyoshya	lure
+otsa	burn
+otsa	bake
+otsa	roast
+otswa	burned
+otswa	baked
+otswa	roasted
+oza	clean
+oza	wash
+pakira	pack
+pakira	load
+pakurura	unpack
+pakurura	unload
+perereza	investigate
+pfa	die
+pfa	just
+pfa	simply
+pfakara	become widowed
+pfuka	cover
+pfuka	wrap
+pfukama	kneel
+pfundika	tie
+pfundikira	close
+pfundikira	seal
+pfundikira	put lid on
+pfundura	open
+pfundura	untie
+pfunya	wrap up
+pfura	pluck
+pfurika	hide
+pfusha ubusa	waste
+pima	measure
+pima	weigh
+pima	examine
+pyinagiza	oppress
+pyipyinyura	rub
+raba	faint
+raba	wilt
+raba	dry up
+rabagirana	shine
+rabagirana	reflect light
+ragwa	inherit
+rahira	vow
+rahira	swear
+rakara	angry
+ramba	live long
+ramba	last long
+rambarara	lie down
+rambarara	stretch out
+rambika	put down
+rambika	put on
+rambika	spread out
+rambura	stretch out
+rambura	extended
+ramuka	spend the night
+ramutsa	greet
+ramya	worship
+ramya	praise
+ramya	honour
+ramya	adore
+randura	pull out
+randura	uproot
+ranga	make known
+ranga	publish
+ranga	exhibit
+ranga	announce
+rangamira	stare at
+rangamira	seek after
+rangara	be distracted
+rangarana	ignore
+rangira	finished
+rangira	completed
+rangiza	finish
+rangiza	complete
+rangurura	shout
+rangurura	raise one’s voice
+rara	spend the night
+rarama	look up
+rarama	raise one’s eyes
+raranganya	look around
+rarika	invite
+rarika	inform
+rarikira	lust
+rarikira	covet
+raruka	leave home
+rasa	shoot
+rasa	rise
+rasira	shoot at
+rata	praise
+reba	watch
+reba	look at
+reba	see
+reba	view
+rebareba	look everywhere
+rega	accuse
+rega	blame
+reka	allow
+reka	let
+reka	cancel
+reka	let’s go
+reka	never mind
+rekera	stop
+rekura	release
+rema	create
+remba	seriously ill
+remba	injured
+remba	very sick
+remera	heavy
+remerwa	heavy-laden
+renga	pass
+renga	surpass
+renga	set
+renganya	treat unjustly
+renganya	persecute
+rengerwa	submerged
+rengurana	ridicule
+rera	rear
+rera	educate
+reshya	attract
+reshya	woo
+ri	be
+ribata	trample on
+ribwa	eaten
+riduka	fall in ruins
+riganya	cheat
+riganya	trick
+riganya	lie
+rimbuka	perish
+rimbuka	go to hell
+rimbuka	be uprooted
+rimbura	destroy
+rimbura	uproot
+rinda	wait for
+rinda	watch
+rinda	guard
+rinda	protect
+rindira	wait for
+rindira	expect
+ringanira	equal
+ringanira	even
+ringanira	flat
+ringaniza	make equal
+ringaniza	flat
+ringaniza	even
+ringaniza	put in order
+rira	cry
+rira	weep
+ririmba	sing
+risha	pasture
+risha	eat with
+roba	fish
+robanura	choose
+robanura	select
+robanura	set aside
+robanura	ordain
+roga	bewitch
+rogoya	interrupt
+rohama	drown
+rohama	sink
+rokoka	saved
+rokoka	delivered
+rondereza	economical
+rondereza	frugal
+rondogora	talk too much
+rondogora	chatter
+rondora	exhaust
+rondora	describe
+rongora	marry
+rongora	have sex
+rongora	lead
+rongorwa	married
+rongorwa	have sex
+rorera	stop doing
+roreza	taste
+rota	dream
+rubira	become angry
+rubira	violent
+ruha	tired
+ruka	vomit
+ruka	erupt
+ruma	bite
+rumbuka	be fertile
+rumbuka	abundant
+rumbura	open
+rumbura	blossom
+runda	heap
+rundarunda	finish
+rura	bitter
+rusha	greater than
+rusha	more than
+rusha	surpass
+rushiriza	surpass
+rushiriza	do more
+rushya	annoy
+rushya	trouble
+rushya	be difficult
+rutira	superior to
+ruzi	see
+ruzi	notice
+rwana	fight
+rwanya	fight against
+rwara	sick
+rwara	ill
+rwara	sore
+rya	eat
+rya	bite
+ryagagura	nibble
+ryama	lie down
+ryama	go to bed
+ryamana	have sex
+ryana	eat together
+ryanisha	stir up trouble
+ryaryata	itch
+ryoha	delicious
+ryoha	excellent
+ryoza	penalise
+sa	like
+sa	be similar
+sa	resemble
+saba	beg
+saba	request
+saba	ask for
+saba	spread
+saba	penetrate
+saba	invade
+saba	envelope
+sabana	confide in
+sabota	sabotage
+saduka	crack
+saga	overflow
+saguka	left over
+saguka	remain
+sahura	pillage
+sahura	plunder
+saka	search
+saka	check
+sakabaka	shout
+sakabaka	cry out
+sakara	roof
+sakara	build roof
+sakuza	shout
+sakuza	cry aloud
+sakuza	make noise
+sama	get pregnant
+samba	dying
+sambana	commit adultery
+sambana	fornicate
+sandara	scatter
+sandara	be scattered
+sanga	join with
+sanganira	go to meet
+sangira	eat together
+sangira	drink together
+sangira	share
+sara	crazy
+sara	mad
+sara	lose one’s mind
+sarura	harvest
+saza	grow old
+saza	be old
+saza	pass away
+sebwa	ground
+sebwa	powdered
+sebya	speak evil of
+sebya	mock
+sebya	make fun of
+sega	beg
+seka	smile
+seka	laugh
+sekura	bump into
+sembura	leaven
+semura	translate
+senga	pray
+senga	worship
+sengera	pray for
+senya	gather firewood
+senya	tear down
+senya	demolish
+senya	destroy
+senya	divorce
+senyagurana	fall into ruin
+sepfura	hiccup
+serabeka	slide
+sesa	spread
+sesa	disperse
+sesa	dismantle
+sesa akanguhe	mature
+sesekara	overflow
+sesekara	spill
+sesekara	arrive
+sesengura	analyse
+sesengura	examine carefully
+setsa	make laugh
+setsa	be funny
+sezera	take leave of
+sezera	depart
+sezerana	promise
+shagara	accompany
+shagara	escort
+shahura	castrate
+shaka	want
+shaka	seek
+shaka	search
+shaka	look for
+shakana	marry
+shakashaka	research
+shakashaka	search diligently
+shakira	want
+shakira	seek
+shakira	search
+shanyuka	torn
+shanyuka	ripped
+shanyura	tear
+sharija	charge
+sharija	recharge
+sharira	sour
+shavuza	make sad
+shengura	overwhelm
+shengura	weigh down
+shengura	make sad
+shidikanya	doubt
+shyika	reach
+shima	praise
+shima	thank
+shima	scratch
+shimangira	nail down
+shimangira	establish
+shimangira	reinforce
+shimangira	emphasize
+shimira	thank
+shimuta	take hostage
+shimwa	praised
+shinga	decide
+shinga	vote
+shinga	establish
+shinguka	come out
+shingura	pull out
+shingura	disestablish
+shinja	accuse
+shinja	blame
+shinjwa	accused
+shinyagura	torture
+shinyagura	mock
+shinyagura	ridicule
+shira	finish
+shira	end
+shira	run out
+shira	wear out
+shisha	well fed
+shishikaza	encourage
+shishikaza	exhort
+shishimura	tear
+shishimura	rip
+shishura	peel
+shishurwa	peeled
+shobera	embarass
+shobera	discourage
+shobera	perplex
+shoberwa	in despair
+shoberwa	dumbfounded
+shoboka	possible
+shoboka	manageable
+shoboka	friendly
+shoboka	affable
+shoboka	it is possible
+shobora	able to
+shobora	can
+shonga	melt
+shorera	lead
+shuka	persuade
+shuka	convince
+shukashuka	tempt
+shukashuka	entice
+shukashuka	fool
+shuna	bite
+shungera	surround
+shungera	encircle
+shungura	analyze
+shungura	sift
+shungura	winnow
+shushanya	draw
+shya	burning
+shyenga	silly
+shyenga	clown
+shyenga	joke around
+shyigikira	support
+shyigikira	prop up
+shyigikira	second a motion
+shyika	arrive at
+shyika	attain
+shyikirana	confide in
+shyingiranwa	marry
+shyingura	bury
+shyingura	archive
+shyingurwa	buried
+shyingurwa	archived
+shyira	put
+shyira	place
+shyira	bring to
+shyiramo umuriro	charge
+shyiramo umuriro	recharge
+shyuha	hot
+shyunguta	whistle
+shyushya	heat
+siba	erase
+siba	delete
+siba	absent
+siba	abstain
+siba	omit
+sifura	whistle
+siga	leave
+siga	forsake
+siga	abandon
+siga	smear
+siga	anoint
+siga	complicate
+siga irangi	paint
+sigara	remain
+simbuka	jump
+simbura	replace
+simbura	substitute
+sinda	drunk
+singiza	honour
+singiza	praise
+sinya	sign
+sinzira	sleep
+sinzira	be asleep
+tsitara	stumble
+tsitara	trip
+sobanuka	understanding
+sobanukirwa	understand
+sobanura	explain
+sobanura	interpret
+sobanura	translate
+sobanurira	explain to
+sobwa	misspeak
+sobwa	err
+sodoka	tiptoe
+sogongera	taste
+sogongerwa	tasted
+sohoka	go out
+sohoka	leave
+sohoka	graduate
+sohoka	published
+sohora	send out
+sohora	graduate
+sohora	ejaculate
+sohora	cum
+sohora	fulfilled
+sohoza	fulfil
+sohoza	complete
+sohoza	accomplish
+sokoza	comb
+soma	read
+soma	kiss
+soma	sip
+somana	kiss each other
+somwa	read
+somwa	kissed
+sona	ring
+sona	chime
+songera	second a motion
+songera	reinforce
+songera	support
+sonza	hungry
+soroma	pick
+soromwa	picked
+soromwa	gathered
+sosoroka	slip out
+sosoroka	stick out
+sota	skip
+sota	blow up
+sota	explode
+subika	postpone
+subika	delay
+subikwa	postponed
+subikwa	delayed
+subira	go back
+subira	do again
+subira	repeat
+subiza	reply
+subiza	answer
+subiza	cause to return
+subizwa	returned
+subizwa	repeated
+subizwa inyuma	regress
+sudira	weld
+sudira	solder
+suhuza	greet
+suhuza umutima	sigh
+suka	pour into
+suka	braid hair
+sukura	clean
+sumba	taller than
+sumba	greater than
+sumira	seize
+sumira	grab
+sumira	trap
+sunika	push
+sura	visit
+sura	pass gas
+sura	fart
+suzugura	disobey
+suzugura	defy
+suzuma	examine
+suzuma	scrutinize
+suzuma	test
+suzumwa	examined
+suzumwa	scrutinized
+suzumwa	tested
+swera	have sexual intercourse
+swerwa	have sexual intercourse
+sya	grind
+sya	crush
+sya	powder
+ta	lose
+ta	leave behind
+ta	discard
+taba	bury
+tabara	aid
+tabara	assist
+tabara	help
+tabarwa	aided
+tabarwa	assisted
+tabarwa	helped
+tabera	just
+tabera	impartial
+tabuka	tear
+tabuka	be torn
+tabwa	buried
+tabwa	lost
+tabwa	left behind
+tabwa	discarded
+tagaguza	waste
+tagaguza	be careless
+tagira	not have
+taha	go home
+taha	be next
+taha	next week
+taka	yelp
+taka	cry out
+taka	howl
+taka	shriek
+taka	embroider
+taka	decorate
+tamba	sacrifice
+tambika	span
+tambuka	step
+tambuka	advance
+tambuka	move on
+tambwa	sacrificed
+tamenya	not know
+tana	divorce
+tana	separate
+tana	leave each other
+tanana	dispersed
+tanana	scattered
+tandukana	separate
+tandukana	divorce
+tandukanya	differ
+tandukanya	be different
+tandukanya	separated
+tandukanya	divorced
+tandukanya	split
+tanga	give
+tanga	offer
+tanga	allocate
+tangara	marvel
+tangara	wonder
+tangara	be astonished
+tangatanga	encircle
+tangatanga	surround
+tangaza	announce
+tangaza	publish
+tangaza	amaze
+tangaza	astonish
+tangazwa	amazed
+tangazwa	astonished
+tangazwa	announced
+tangazwa	published
+tangira	begin
+tangira	start
+tangiza	initiate
+tangiza	start
+tangiza	cause to begin
+tangwa	given
+tangwa	offered
+tangwa	allocated
+tanya	separate
+tanyaguza	tear up
+tanyaguza	rip up
+tashya	greet
+tashya	gather firewood
+tata	spy
+tata	make trouble
+tata	provoke
+tava	stubborn
+tava	obstinate
+tava	firm
+tava	adamant
+tebeza	tuck in
+tebuka	come quickly
+tega	set trap
+tega	trip up
+tega	wait for
+teganya	prepare
+teganya	plan
+tegeka	command
+tegeka	rule
+tegeka	reign
+tegereza	wait
+tegura	prepare
+tegura	plan
+tegura	arrange
+tegura	configure
+teka	cook
+tekereza	think about
+terefona	telephone
+terefona	call
+temba	flow
+tembera	go about
+tembera	walk about
+tembera	circulate
+tera	plant
+tera	lay
+tera	beat
+tera	cause to do
+tera	force
+tera	provoke
+tera	attack
+tera	invade
+tera urushinge	inject
+terana	gather
+terana	come together
+teranya	combine
+teranya	merge
+teranya	add to
+teranya	provoke
+tereka	place
+tereka	put
+terekwa	placed
+terera	throw at
+tererana	abandon
+tereranwa	abandoned
+tereta	treat
+tereta	flirt with
+terura	raise
+terura	lift up
+terurwa	raised
+terurwa	lifted up
+terwa	planted
+terwa	laid
+terwa	thrown
+terwa	attacked
+terwa	invaded
+teta	dote
+tetesha	spoil
+teteshwa	spoiled
+tezuka	loosened
+tiga	dull
+tiga	blunt
+tiga	not sharp
+tigisa	shake
+tigita	shaken
+tinda	delay
+tindaganya	hesitate
+tindaganya	be slow
+tinya	afraid
+tinya	scared
+tinyuka	dare
+tinyuka	be fearless
+tinyuka	brave
+tira	borrow
+tirisha	cheat
+toba	disturb
+toba	trouble
+tobora	pierce
+toha	get wet
+tona	favourite
+tonda	queue
+tondagura	conjugate
+tondekanya	align
+tongana	quarrel
+tongana	argue
+tonganya	scold
+tonganya	rebuke
+tonora	shell
+tonora	peel
+tonyanga	drip
+tonyanga	fine rain
+tonyanga	drizzle
+tora	choose
+tora	vote
+tora	elect
+tora	pick
+tora	select
+toranya	pick out
+torwa	chosen
+torwa	elected
+toteza	persecute
+toza	train
+toza	coach
+tsemba	destroy
+tsemba	exterminate
+tsika	stop
+tsinda	win
+tsinda	beat
+tsinda	overcome
+tsinda	defeat
+tsinda	pass
+tsinda	succeed
+tsindishiriza	justify
+tsindishirizwa	justified
+tsindwa	fail
+tsindwa	be beaten
+tsirita	rub hard
+tsirita	polish
+tsura	push for
+tsura	strive for
+tubura	increase
+tubura	multiply
+tuga	bribe
+tuka	abuse verbally
+tuka	slander
+tuka	insult
+tukura	red
+tuma	send
+tuma	cause
+tumbika	soak
+tumbira	stare
+tumburuka	elevate
+tumira	invite
+tumiza	order
+tumvira	disobey
+tunga	possess
+tunga	own
+tungana	perfect
+tunganya	clean up
+tunganya	organise
+tunganya	tidy
+tunganya	perfect
+tunganya	adjust
+tunguka	appear suddenly
+tungura	surprise
+tungurwa	surprised
+tura	live at
+tura	dwell in
+tura	reside
+tura	inhabit
+tura	throw down
+turana	neighbours
+turika	burst
+turisha	silence
+turitsa	burst
+turuka	come from
+turuka	originate from
+turuna	turn
+turwa	occupied
+turwa	inhabited
+turwa	lived-in
+tuza	silent
+tuza	quiet
+tuza	peaceful
+twama	silence
+twara	drive
+twara	ride
+twara	take
+twara	carry
+twara	lead
+twara	take
+twika	burn
+twika	cremate
+twikira	cover
+twikirwa	covered
+twita	pregnant
+tyara	sharp
+ubaha	honour
+ubaha	respect
+ubaha	revere
+ubaha	obey
+ubahuka	disrespect
+ubaka	build
+ubama	bend over
+ubama	stoop down
+ubika	turn upside down
+ubikira	lie in ambush
+ubura	right
+ubura amaso	look up
+ugama	shelter
+uhagira	bathe
+uma	dry
+umiza	astonish
+umiza	astound
+umirwa	astonished
+umirwa	astounded
+umva	hear
+umva	listen
+umva	understand
+umva	feel
+umva	I don’t understand
+umvikana	agree
+umvikana	understand each other
+umvira	obey
+umviriza	eavesdrop
+umvwa	heard
+umvwa	understood
+umvwa	felt
+unama	bow
+unama	bend over
+unga	join
+unga	connect
+unga	reconcile
+unga	mediate
+unguka	gain
+unguka	profit
+urira	ascend
+urira	climb up
+ururuka	descend
+ururuka	climb down
+uzura	full
+uzura	complete
+uzura	finished
+uzuza	fill
+va	come from
+va	leak
+va	bleed
+vana	come with
+vana	take from
+vanga	mix
+vanga	stir
+vangura	separate
+voma	fetch water
+vuga	speak about
+vuga	say
+vuga	talk
+vuga	mix
+vugama	row
+vugisha	speak to
+vugisha	talk to
+vugishwa	spoken to
+vugurura	amend
+vugurura	repair
+vugurura	renovate
+vuguruza	contradict
+vuguruza	disagree
+vuka	born
+vuma	curse
+vumbura	discover
+vuna	break
+vuna	snap
+vuna	defend
+vuna	help
+vuna	assist
+vunagura	smash
+vundereza	spit on
+vunika	break
+vunika	be broken
+vunja	change money
+vunja	exchange
+vunja	change one’s mind
+vunura	translate
+vunurwa	translated
+vuruga	beat
+vuruga	whip
+vutsa	deprive
+vuza	drum
+vuza	beat
+vuza	play instrument
+yabangira ingata	run fast
+yabangira ingata	evade
+yaga	melt
+yaga	be melted
+yaza	cause to melt
+yoba	lose one’s way
+yoba	err
+yoba	stray
+yobera	perplex
+yobera	confuse
+yobera	dumbfound
+yoberwa	perplexed
+yoberwa	mistaken
+yoberwa	confused
+yoboka	lead
+yobora	lead
+za	come to
+zamuka	climb
+zamuka	ascend
+zamuka	go up
+zamura	lift up
+zamura	raise
+zana	come with
+zana	bring
+zanira	bring for
+zengera	make dizzy
+zengererwa	dizzy
+zerera	wander about
+zerera	walk about aimlessly
+zeyutsa	disappoint
+zi	know
+zibura	open
+zigama	save
+zima	extinguished
+zima	go out
+zimira	go astray
+zimira	lose the way
+zimira	become lost
+zimya	switch off
+zimya	extinguish
+zinduka	early
+zinduka	get up early
+zinga	fold
+zinga	roll up
+zinga	crumple
+zinukwa	abandon
+zira	forbidden
+zira	taboo
+zira	oppose
+zira	exclude
+zirikana	consider
+zirikana	think on
+zirikana	ponder
+zirikana	meditate
+ziririza	observe
+ziza	blame
+ziza	reproach
+zuka	be resurrected
+zunguza	shake one’s head
+zura	resurrect
+wanjye	my place
+wawe	your home
+we	his place
+wacu	our place
+wacu	our home
+wanyu	your home
+a mbere	at first
+a mbere	first of all
+aha	here
+ahanini	mainly
+ahanini	chiefly
+ahanini	primarily
+ahanini	mostly
+akaramata	forever
+akenshi	many times
+amara masa	empty-handed
+amara masa	in vain
+angu	quickly
+angu	rapidly
+ari uko	on condition that
+bene	like
+bumoso	on the left
+iburasirazuba	east
+iburasirazuba	eastward
+iburengerazuba	west
+iburengerazuba	westward
+buryo	on the right
+cece	quietly
+cece	silently
+cya	the night before
+cye	little
+cye bucye	little by little
+cyane	very
+cyane	really
+cyane	a lot
+cyane	too
+cyane cyane	especially
+cyane cyane	essentially
+datinze	soon
+ejo	yesterday
+ejo	tomorrow
+ejobundi	day before yesterday
+ejobundi	day after tomorrow
+ejo hashize	yesterday
+ejo hazaza	tomorrow
+ejuru	up
+gingo aya	currently
+gingo aya	presently
+girankana	on purpose
+girankana	intentionally
+gufi	near
+gufi	nearby
+habe na gato	not at all
+habe na gato	none at all
+habe n’imwe	nothing at all
+hafi	near
+hafi	almost
+hafi	come near
+hagarike	vertically
+hagati	between
+hakurya	across
+hano	here
+hanze	outside
+hariya	over there
+haruguru	higher up
+haruguru	up there
+hasi	on the floor
+hasi	ground
+hasi	bottom
+hatinze	late
+hatinze	later on
+to	soon
+to	later on
+hato na hato	repeatedly
+hato na hato	again and again
+hatoya	later on
+hejuru	above
+hejuru	on the top
+hepfo	below
+hepfo	lower down
+hino	this side
+hino	closer
+horo	slowly
+hose	everywhere
+hose	all places
+humyi	blindly
+ibura	at least
+ibura	at least
+ibuze	at least
+icyarimwe	at once
+ino	this side
+ite	truly
+kabije	extremely
+kabije	exceedingly
+kabisa	truly
+kare	early
+kare	on time
+kenshi	often
+kera	long ago
+kera	earlier
+kera	older
+keye	the next day
+keye	afterward
+keye	afterwards
+kiramo	aboard
+koko	truly
+koko	really
+koko	indeed
+kure	far
+mbere	in front of
+mu kanya	in a moment
+muhira	at home
+munsi	under
+munsi	beneath
+musozi	on dry land
+musozi	ashore
+mwe	together
+mwe	together
+mwe	as one
+nabi	badly
+nabi	poorly
+na mba	not at all
+ndi	elsewhere
+ndi	another time
+ndi	again
+neza	well
+neza	nicely
+nijoro	at night
+nkana	deliberately
+nkana	intentionally
+nonaha	right now
+nonaha	immediately
+none	now
+nonese	now
+ntabwo	not
+ntabwo	never
+nyuma	afterward
+nyuma	after that
+nyuma	behind
+ose	completely
+ose	entirely
+pe	absolutely
+pe	extremely
+rero	then
+rero	after that
+ri gihe	every time
+ri gihe	always
+ri gihe	consistently
+ri gihe	invariably
+ri munsi	everyday
+ri munsi	daily
+ri munsi	day after day
+ri mwaka	yearly
+ri mwaka	annually
+rimwe	once
+rimwe na rimwe	sometimes
+rimwe na rimwe	now and then
+mu rugo	home
+runaka	certain
+rundu	forever
+rundu	finally
+rya	last time
+rya	previously
+sa	only
+sa	in vain
+sange	common
+sange	general
+sange	well known
+sange	public
+sanzwe	usually
+sanzwe	ordinarily
+sanzwe	normally
+sanzwe	generally
+tinze	late
+tinze	later on
+tya	like this
+tyo	like that
+tyo rero	for that reason
+ubu	now
+ubu ng’ubu	right now
+ubu ng’ubu	this instant
+vuba	quickly
+vuba	soon
+vuba	recently
+wenda	possibly
+wenda	perhaps
+wenda	maybe
+wenda	about
+bi	bad
+bi	ugly
+bisi	raw
+bisi	unripe
+bisi	wet
+bisi	uncooked rice
+bisi	raw meat
+gari	wide
+gari	broad
+gufi	short
+gufi	shallow
+gufi	short skirt
+gufi	short rainy season
+hire	blessed
+hire	happy
+inshi	many
+inshi	much
+inshi	many people
+iza	good
+iza	beautiful
+iza	pretty
+iza	gorgeous
+iza	Good Book
+ke	few
+ke	few things
+keya	few
+keya	little
+keya	few people
+keya	few things
+kuru	important
+kuru	senior
+kuru	national bank
+nini	big
+nini	large
+nini	big house
+nzinya	tiny
+nzinya	minute
+re-re	tall
+re-re	long
+re-re	deep
+re-re	tall tree
+shya	new
+taraga	safe and sound
+to	young
+to	small
+to	young child
+toya	small
+toya	small child
+zima	alive
+zima	healthy
+zima	whole
+anjye	my
+awe	your
+awe	your house
+e	his
+e	hers
+acu	our
+anyu	your
+anyu	your child
+abo	their
+mwe	one
+mwe	some
+mwe	one person
+moya	one
+biri	two
+biri	two people
+biri	two thousand
+byiri	two
+biri	two
+tatu	three
+tatu	three thousand
+shatu	three
+tatu	three
+ne	four
+ne	four thousand
+nye	four
+yine	four
+tanu	five
+tanu	five thousand
+shanu	five
+tanu	five
+tandatu	six
+tandatu	six thousand
+sheshatu	six
+sita	six
+rindwi	seven
+rindwi	seven thousand
+saba	seven
+nani	eight
+nani	eight thousand
+nani	eight
+enda	nine
+enda	nine thousand
+enda	nine
+cumi	ten
+cumi	ten thousand
+kumi	ten
+anarogi	analogue
+anarogi	analog
+ibura	at least
+ibura	at least
+mbi	both of us
+mbi	both of you
+puzamahanga	international
+nasiyonali	national
+nasiyonali	national park
+ndi	other
+ndi	another
+ndi	more
+ndi	other people
+ngahe	how many
+nyabami	kingly
+nyabami	royal
+nyabami	regal
+nyafurika	African
+nyakuri	true
+nyakuri	real
+nyakuri	genuine
+nyakuri	authentic
+nyakuri	actual
+nyarwanda	Rwandan
+nyungutimibare	alphanumeric
+ombi	both
+ose	all
+ose	every
+ose	whole
+ose	all day
+se	all of
+se	all of us
+se	all of you
+a	of
+a	of
+a	of
+a	of
+a	of
+a	of
+a	goat meat
+a	of
+a	of
+a	of
+a	of
+a	of
+a	of
+a	February
+a	of
+o	for
+o	for
+o	for
+o	for
+o	for
+o	things to do
+o	for
+o	for
+o	for
+o	for
+o	for
+o	for
+o	for
+a-	alone
+hafi ya	near
+hafi ya	almost
+hagati ya	between
+hagati ya	midst
+hakurya ya	across from
+hanyuma ya	after
+hanyuma ya	less
+hanyuma ya	inferior
+hejuru ya	above
+hepfo ya	below
+hirya	beyond
+i	in
+i	to
+i	at
+ku	on
+ku	at
+ku	to
+ku	from
+kuri	on
+kuri	at
+kuri	to
+kuri	from
+mbere	in front of
+mbere	before
+mu	in
+mu	into
+mu	within
+munsi ya	under
+munsi ya	beneath
+muri	in
+muri	into
+muri	within
+na	by
+na	with
+na	as
+nka	like
+nyuma	behind
+nyuma	after
+ri	every
+ri	each
+ruhande rwa	beside
+we	I
+we	me
+we	I
+we	me
+we	you
+we	he
+we	him
+we	she
+we	her
+bwe	we
+bwe	us
+bwe	you
+bo	they
+bo	them
+njye	me
+we	you
+we	him
+we	her
+twe	us
+mwe	you
+mwe-	of you
+bo-	of them
+nyine	you alone
+nyine	yourself
+nyine	himself
+nyine	herself
+nyine	itself
+nyine	ourselves
+nyine	you alone
+nyine	yourselves
+awe	you alone
+anyu	you alone
+njye	by me
+njye	me too
+we	and you
+we	by you
+we	you too
+na we	by him
+na we	by her
+twe	by us
+mwe	and you
+mwe	by you
+bo	by them
+ho	on there
+ho	at that place
+mo	in there
+mo	in that
+yo	there
+ri wese	everybody
+ri muntu	everybody
+ahari	perhaps
+ahari	maybe
+aho	where
+aho	there
+aho	rather
+aho	instead of
+ahubwo	rather
+ahubwo	instead
+ahubwo	but
+ahubwo	however
+ariko	but
+ariko	however
+burya rero	after all
+byongeye kandi	additionally
+byongeye kandi	furthermore
+cyangwa	or
+hanyuma	then
+ibiri amambu	however
+ibiri amambu	on the contrary
+icyakora	but
+icyakora	however
+iyo	if
+iyo	in order to
+ndi	also
+ndi	furthermore
+ndi	I am tired
+keretse	except
+keretse	excluding
+ko	that
+kubera	because
+kubera	on account of
+kubwa	according to
+kugeza ubwo	until
+kugirango	in order that
+kugirango	so that
+kuko	because
+maze	and then
+na	and
+naho	whereas
+naho	but
+nako	I mean
+nako	sorry
+ndetse	indeed
+ndetse	in fact
+ndetse	moreover
+ngirango	I think
+ngirango	maybe
+ngo	that
+niba	if
+niko	and so
+niko	therefore
+nkaho	as if
+no	and
+nubwo	although
+nubwo	even though
+nuko	then
+nuko	therefore
+nuko	so
+nyamara	however
+nyamara	yet
+nyamara	nevertheless
+ubanza	perhaps
+ubwo	when
+ubwo	seeing that
+ubwo	now that
+ubwo	since
+ubwo	go home
+uretse	except
+uretse	excluding
+uretse	save for
+uretse	other than
+yuko	whether
+uyu	this
+uyu	this man
+aba	these
+iri	this
+iri	this night
+aya	this
+aya	these
+iki	this
+ibi	these
+iyi	this
+iyi	these
+izi	these
+uru	this
+aka	this
+utu	these
+ubu	this
+uku	this
+uku	this month
+aha	this
+aha	this place
+o	that
+o	that woman
+o	those
+o	that
+o	that night
+o	that
+o	those
+o	that
+o	those
+o	that
+o	those
+o	those
+o	that
+o	that
+o	those
+o	that
+o	that
+o	that
+o	that place
+riya	that
+riya	those
+riya	that
+riya	that
+riya	those
+riya	that
+riya	those
+riya	that
+riya	those
+riya	those
+riya	that
+riya	that
+riya	those
+riya	that
+riya	that
+riya	that
+a	that
+a	that woman
+a	those
+a	that
+a	that night
+a	that
+a	those
+a	that
+a	those
+a	those
+a	that
+a	that
+a	those
+a	that
+a	that
+a	that
+a	that place
+abajuru	lampshade
+abe	abbot
+abusorosiyo	absolution
+acumi	tenth
+acumi	tithe
+adabutateri	adaptor
+aderesi	address
+Adiventi	Advent
+aduka	new thing
+aga	trouble
+aga	misfortune
+aga	danger
+aga	harshness
+aga	severity
+agarafeze	stapler
+agisida	accident
+ago	misfortune
+ago	bad luck
+ago	trouble
+aguke	width
+agwa	sorghum beer
+aha	sin
+aha	fault
+aha	crime
+aha	armpit
+ahinduwe	change
+aka	year
+aka	harvest
+akasi	scissors
+akira	October
+aku	bad luck
+aku	misfortune
+ambaro	item of clothing
+ambaro	garment
+ambasade	embassy
+ambasaderi	ambassador
+ambi	arrow
+ambi	matchstick
+ambiranse	ambulance
+ambu	port
+amburiyaje	gear
+amburiyaje	clutch
+ami	royalty
+ami	royal
+ami	kingdom
+ami	king
+amikazi	queen
+ampule	bulb
+amu	loud noise
+amu	clang
+ana	baby
+ana	small child
+ana	young of animal
+ana	childhood
+ana	child
+ana	minor
+ana	kid
+nanasi	pineapple
+anda	dirt
+anda	dirtiness
+andikire	spelling
+andikire	writing style
+andikiwe	recipient
+andikiwe	addressee
+andiko	letter
+andiko	missile
+anditse	scripture
+anditsi	writer
+anditsi	scribe
+andu	inheritance
+anegise	annex
+ango	hatred
+ango	hate
+ango	aversion
+ango	revulsion
+ango	repugnance
+anjine	angina
+anka	anchor
+anketi	inquest
+anketi	investigation
+anteni	antenna
+antereneri	coach
+anwa	beard
+anya	space
+anya	time
+anya	position
+anyazina	namespace
+anya w’umweru	whitespace
+anzi	enemy
+anzuro	final word
+anzuro	decision
+anzuro	conclusion
+apeti	appetite
+apuleti	applet
+ara	hunger
+ara	famine
+ara	I’m hungry
+ara	nail
+ara	fingernail
+ara	toenail
+ara	claw
+ari	nest
+ari	maiden
+ari	fiancée
+ari	virgin
+arimu	teacher
+arimu	professor
+aro	countryside
+aro	rural area
+aro	lakeshore
+aro	ford
+arubitire	arbitrator
+arubitire	referee
+asanseri	elevator
+asanseri	lift
+ashi	triangle
+ashyinguwe	archive
+aside	acid
+asima	asthma
+asosiyasiyo	association
+asuranse	insurance
+atashe	clip
+atashe	fastener
+ato	boat
+ato	ship
+atsi	grass
+atsi	weeds
+atsi	grass
+atsi	pasture
+atsi kibisi	green
+avoka	avocado
+ayi	tea
+baba	wing
+baba	feather
+babare	pain
+babare	suffering
+babaro	sadness
+babaro	grief
+babaro	pain
+babaro	sadness
+babaro	suffering
+babazi	forgiveness
+babazi	mercy
+babazi	pity
+babi	leaf
+bafure	amplifier
+bafure	speaker
+baga	crowd
+bagiro	butcher shop
+bago	period
+bago	full stop
+baho	blackboard
+baho	chalkboard
+baho	board
+baho	plank
+baho	timber
+baho	wood
+baji	carpenter
+baji	joiner
+bakure	bowl
+bambasi	wall
+banda	crowd
+banda	people
+bande	valley
+bande	adhesive tape
+bande	sellotape
+bande	sticky tape
+bando	baton
+bando	cudgel
+banga	tip
+banga	secret
+banki	bank
+bano	co-operation
+banza	court case
+banza	trial
+banza	affair
+bara	colour
+barafu	ice
+baraga	strength
+baraga	power
+baraga	force
+baraga	might
+baragasa	flea
+baraje	dam
+barankuru	journal
+barankuru	newspaper
+baraza	porch
+baraza	veranda
+bare	number
+bare	mathematics
+bare w’igiharwe	odd number
+bare	pub
+bare	bar
+barura	census
+barura	statistics
+basha	ability
+basha	capability
+basha	competence
+bata	slave
+bata	duck
+bati	cupboard
+bati	closet
+batiri	battery
+batiza	baptist
+batizo	baptism
+bavu	ointment
+bavu	rib
+baye	happening
+bazo	question
+bazo	query
+bazo	problem
+bazo	challenge
+bazo	issue
+beba	mouse
+beba	rat
+begeti	bucket
+beho	coldness
+beho	cold
+bemba	peanut sauce
+bembe	leprosy
+bembe	leper
+bere	breast
+bereho	conduct
+bereho	way of life
+reti	pyrethrum
+bero	thigh
+besani	basin
+beshyi	liar
+beto	concrete
+bi	bad person
+bibi	birthmark
+Bibiliya	Bible
+bibyi	sower
+bibyi	planter
+bije	budget
+bikira	nun
+bikira	sister
+biko	storage
+biko	memory
+biko	folder
+bingo	reed
+biri	body
+biri	flesh
+biribiri	cuckoo
+biriti	box of matches
+biriti	matchbox
+bishopu	bishop
+bisi	bus
+boga	vegetable
+boga	dressing
+bogo	buffalo
+bohe	captive
+bohe	prisoner
+bohore	free person
+boko	arm
+boko	strength
+boko	might
+bombe	bomb
+bombo	sweet
+bombo	candy
+bonerahamwe	table
+bonerahamwe	spreadsheet
+bonezamigaragarire	antialiasing
+bonezamvugo	grammar
+boni	pupil of eye
+bonobono	deciduous tree
+boro	penis
+boroshete	kebab
+boza	December
+bu	mosquito
+buga	courtyard
+buga	playground
+buga	grounds
+buga	forum
+buga	discussion
+buga	website
+buga cy’indege	airport
+buganyuma	background
+bugita	knife
+bumba	clay
+bumba	pottery
+bumbe	planet
+bumbe	sphere
+alubumu	album
+bunda	gun
+bundo	infinitive
+buno	bottom
+buno	bum
+bura	hailstones
+bura	ice
+burigade	brigade
+burigade	police station
+burira	alert
+burira	warning
+buruse	bursary
+busane	mismatch
+busane	opposite
+buto	seed
+buto	fruit
+buye	stone
+buye	pebble
+buye	rock
+buye	battery
+buye	large rock
+bwa	dog
+bwakazi	female dog
+bwakazi	bitch
+bwana	puppy
+bwiriza	preacher
+bwiriza	evangelist
+bwirizabutumwa	preacher
+bwirizabutumwa	evangelist
+bya	testicle
+byaro	heirs
+byaro	offspring
+byaza	midwife
+byeri	beer
+byeyi	parent
+byibuhe	thickness
+byimba	abscess
+byimba	boil
+byimba	size
+byimba	thickness
+byindi	human excrement
+byinnyi	dancer
+byiruko	youth
+byizi	weekday
+cabiti	axe
+cakubiri	division
+camanza	judge
+camanza	magistrate
+camunsi	late afternoon
+camurongo	ruler
+candwe	saliva
+candwe	spit
+candwe	spittle
+canga	sand
+canga	gravel
+canshuro	mercenary
+capiro	printing house
+capwe	printout
+capwe	print
+casket	helmet
+ce	half
+ce	part
+ce	piece
+ce	division
+ce	bit
+cenga	trick
+cenga	cross
+cengezi	malware
+cengezi	insurgent
+cengezi	infiltrator
+ceri	coin
+ceri	rice
+cikacumu	survivor
+cinya	dysentery
+ciro	dignity
+ciro	self-respect
+ciro	cost
+ciro	price
+ciro	value
+co	dirt
+co	dirtiness
+co	ambush
+co	culture
+co	custom
+co	virtue
+co	norm
+cu	cloud
+cuba	milk can
+cucu	fool
+cucu	stupid person
+cucu	shadow
+cucu	shade
+cukiro	manure heap
+cukiro	rubbish dump
+cuku	midnight
+cukuzi	mining
+cukuzi	miner
+cumbi	dormitory
+cumbi	guest room
+cumu	spear
+cumuro	crime
+cumuro	transgression
+cumuro	failing
+cumuro	sin
+cunda	buttermilk
+cunga	orange
+cunga	administration
+cunga	management
+cungamari	accountant
+cungamari	actuary
+cungu	ransom
+cunguzi	redeemer
+cupa	small bottle
+cupa	bottle
+cura	last-born
+curane	flu
+curane	influenza
+curane	common cold
+curanzi	musician
+curanzi	performer
+curi	cliff
+curi	epilepsy
+curuzi	business
+curuzi	trade
+curuzi	commerce
+curuzi	businessman
+curuzi	merchant
+curuzwa	goods
+curuzwa	product
+cuzi	blacksmith
+cyo	light
+da	lice
+da	stomach
+da	pregnancy
+dage	German person
+dagihe	present tense
+dahano	ointment
+dahano	perfume
+dahemuka	faithful person
+daho	ladle
+dakemwa	perfection
+dakuka	dogma
+dangagicuruzwa	trademark
+dangahantu	preposition
+dangamuntu	identification card
+dangururamajwi	speakers
+darapo	flag
+dari	medal
+dari	medallion
+dari	paving stone
+darubindi	glasses
+darubindi	spectacles
+dasesa	solar panel
+data	my father
+daya	prostitute
+daya	whore
+dayimoni	demon
+defile	parade
+defile	march
+dege	airplane
+dege	aeroplane
+degede	marrow
+dehe	mutual assistance
+dehe	lazy person
+dembe	dying person
+demokarasi	democracy
+denariyo	denarius
+dendezo	freedom
+dendezo	liberty
+dendo	turkey
+denesi	small ball
+depite	deputy
+depite	member of parliament
+deshyi	laziness
+deshyi	idleness
+digi	gut
+diho	traditional dance
+dimu	lemon
+dini	religion
+diregiteri	director
+diri	den
+diri	hideout
+dirimbo	song
+dirimbo	hymn
+dirishya	window
+disiki	disc
+disiki	disk
+divayi	wine
+diyabete	diabetes
+diyakoni	deacon
+diyama	diamond
+dobo	bucket
+dodo	thread
+dodo	yarn
+dodo	thread
+dodo	yarn
+dogere	degree
+dogiteri	doctor
+dogobe	donkey
+dogobe	mule
+dolari	United States dollar
+domo	full stop
+domo	period
+domo	point
+dorerwamo	mirror
+dorerwamo	glasses
+dorerwamo	spectacles
+dosiye	file
+dosiye	folder
+dosiye	document
+dosiye	dossier
+dovize	foreign currency
+dugararo	riot
+dugararo	disorder
+dugararo	distraction
+duka	small shop
+dukikije	environment
+dukikije	surroundings
+dukikije	setting
+dukikije	natural world
+dukikije	nature
+duru	cry of alarm
+duru	war cry
+dushe	bathroom
+dushe	shower
+duwane	customs
+duzeni	dozen
+dwara	sickness
+dwara	illness
+dyanishamurizo	scorpion
+dyankwi	axe
+dyarya	hypocrite
+dyoheshabirayi	pig
+dyoheshabirayi	swine
+ego	ladder
+ego	stage
+ego	rank
+ego	organ
+ego	institution
+ekara	screen
+embe	mango
+enda	cloth
+enda	item of clothing
+enda	debt
+ene	son of
+ene	owner of
+ene	master of
+enegihugu	citizen
+enegihugu	native
+enegihugu	national
+nenge	imperfection
+nenge	fault
+nenge	stain
+enge	wisdom
+enge	sense
+enge	smartness
+enge	intelligence
+enge	intellect
+epatite	hepatitis
+era	white person
+era	dry skin
+era	holy one
+erekezo	direction
+erekezo	vision
+erirezi	wanderer
+ero	harvest time
+eru	white
+epinari	spinach
+esanse	petrol
+esanse	gasoline
+esanse	gas
+etaje	stage
+etaje	floor
+etaje	storey
+ete	interest
+ete	enthusiasm
+ete	zeal
+ete	speed
+ete	motivation
+ameza	table
+ameza	desk
+ezi	month
+ezi	moon
+ezi	moonlight
+ezwa	sanctification
+ezwa	exoneration
+fa	broth
+fagitire	bill
+fagitire	check
+fana	fan
+fana	supporter
+faranga	franc
+faranga	money
+faranga	cash
+faransa	French
+faransa	French person
+farashi darayivi	flash drive
+farumasi	pharmacy
+farini	wheat flour
+farisayo	Pharisee
+fasha	helper
+fashanyo	aid
+fashanyo	assistance
+fashayobora	help
+fashayobora	guide
+fatanye	partnership
+fatiro	foundation
+feri	break
+fete	party
+fete	festival
+feza	silver
+fi	fish
+firimi	film
+firimi	movie
+filozofe	philosophy
+firigo	fridge
+firiti	potato chip
+firiti	fries
+fizibule	fuse
+fondasiyo	foundation
+forode	fraud
+foromaji	cheese
+foromo	nurse
+foto	photograph
+foto	photo
+fu	flour
+fuka	bag
+fuka	purse
+fuka	sack
+fuka	pocket
+fundi	mason
+fundi	skilled workman
+fundi	engineer
+fungo	sentence
+funguro	meal
+funguro	dinner
+funguzo	key
+funguzo	bottle opener
+fungwa	prisoner
+funzo	wound
+funzo	gash
+funzo	laceration
+fura	firstborn
+fura	noble
+fura	gentleman
+furo	froth
+furu	oven
+furu	stove
+furu	furnace
+furu	kiln
+furuka	corner
+furuka	angle
+futi	mistake
+gabane	division
+gabane	allotment
+gabane	share
+gabane	continent
+gabane w’isi	continent
+gabo	army
+gabo	soldier
+gabo	ability
+gabo	capability
+gabo	power
+gabo	manhood
+gabo	penis
+gabo	man
+gabo	husband
+gabo	witness
+gage	sorghum beer
+gagi	gorilla
+gahunda	appointment
+gahunda	program
+gahunda	agenda
+gahunda	plan
+gaju	light brown
+gamba	plan
+gambi	plan
+gambi	purpose
+gambi	intent
+gambi	project
+gambi	illustration
+gamiya	camel
+ganabiri	two hundred
+ganacyenda	nine hundred
+gananani	eight hundred
+ganane	four hundred
+ganarindwi	seven hundred
+ganatandatu	six hundred
+ganatanu	five hundred
+ganatatu	three hundred
+ganda	communal work
+ganda	national service
+ganda	factory
+gande	Luganda
+gande	disobedient person
+gando	camp
+gando	campsite
+gando	retreat
+gando	hut
+gando	temporary shelter
+ganga	fever
+ganga	malaria
+ganga	doctor
+gani	proverb
+gani	story
+gani	parable
+gani	fable
+gani	tale
+gani	adage
+ganiro	conversation
+ganiro	dialogue
+ganiro	dialog
+gano	wheat
+gano	size
+gano	bamboo
+ganya	anxiety
+ganya	worries
+ganya	complaints
+ganza	hand
+gara	health
+gara	rim
+gara	brim
+garagarire	appearance
+garagaro	visibility
+garagaro	in public
+garagu	bachelor
+garagu	male servant
+garama	gram
+garane	compost pit
+garane	compost heap
+garanti	guarantee
+garanti	warranty
+gare	bicycle
+gare	pram
+gare	wheelchair
+gari	width
+gariyamoshi	train
+garuka	consequence
+garuka	repercussion
+garuka	result
+gasutamo	customs
+Gashyantare	February
+gashyi	oar
+gashyi	paddle
+gata	wheel
+gati	bread
+gatigisimu	catechism
+gayo	blame
+gazeti	gazette
+gazeti	magazine
+gazeti	journal
+gega	store
+gega	reserve
+gega	silo
+gendo	journey
+genere	plan
+genere	purpose
+genere	destiny
+gengabihe	schedule
+gengabihe	timetable
+genzereze	habits
+genzereze	customs
+genzi	important thing
+genzi	valuable
+genzi	companion
+genzi	friend
+genzi	colleague
+genzi	traveller
+genzo	ceremony
+genzo	custom
+genzo	habit
+genzo	practice
+genzo	tradition
+geragezo	temptation
+geragezo	trial
+gereka	supplement
+gereka	extra
+gereka	attachment
+gereka	adverb
+gereza	jail
+gereza	prison
+gero	age
+gero	amount
+gero	example
+gero	amount
+gero	quantity
+gerwaho	accessibility
+gese	rust
+geso	characteristic
+geso	trait
+gezi	river
+gezi	stream
+gi	egg
+curasi	May
+gina	grey
+gina	termite mound
+gina	termite hill
+gingo	segment
+gingo	organ
+gingo	part
+gingo	argument
+gingo	provision
+gingo	soul
+gingo	life
+girwamana	idol
+gisha	charm
+gisha	fetish
+gisha	blessing
+gishwanama	consultant
+go	buildings
+go	home
+go	enclosure
+go	compound
+go	kraal
+go cy’amashuri	school building
+go cy’impfubyi	orphanage
+gobyi	hammock
+gobyi	stretcher
+gobyi	cradle
+gobyi	placenta
+gofero	hat
+goga	speed
+goga	haste
+gogo	log
+gogo	footbridge
+goma	drum
+goma	throne
+gombajwi	consonant
+gombambari	ankle
+gombwa	essential thing
+gombwa	necessary thing
+gome	rebellion
+gome	revolt
+gome	malice
+gome	cruel person
+gomo	trouble
+gomo	joke
+gomo	foolery
+gona	crocodile
+gongo	back
+goramye	bend
+gorane	difficulties
+gorane	troubles
+gore	woman
+gore	wife
+gore w’uburyo	midwife
+gore w’uburyo	obstetrician
+gori	corn
+gori	maize
+goro	chewing tobacco
+goroba	afternoon
+gorofa	storey
+gorofa	floor
+gororano	reward
+gororano	recompense
+gorozi	correction
+gorozi	reform
+gorozi	corrector
+gorozi	reformer
+gorwa	difficulties
+gorwa	troubles
+goyi	bonds
+gozi	rope
+gozi	cord
+gozi	string
+gufu	strength
+gufu	energy
+gufwa	bone
+guge	primate
+guma	wound
+gumi	punch
+gunguru	barrel
+gunguru	drum
+gunira	sack
+guriro	market place
+gurisha	seller
+gurisha	vendor
+guru	leg
+gurube	pig
+gurube	swine
+guverineri	governor
+guverinoma	government
+guzanyo	loan
+guzi	cost
+guzi	price
+guzi	buyer
+gwa	chalk
+gwa	lime
+gwanabi	bad behaviour
+gwaneza	good behaviour
+gwaneza	generosity
+gwaneza	kind person
+gwaneza	gentle person
+gwe	leopard
+gwi	achievement
+gwiro	hospitality
+gwiro	benevolence
+gwiro	kindness
+gwiro	goodwill
+hagarike	height
+hago	bag
+hago	bladder
+hago	urinary bladder
+haha	lung
+hahamuka	trauma
+haho	food supplies
+hambwa	funeral
+hame	fact
+hame	rule
+hame	law
+hame	principle
+hame	public
+hame	open
+hamuke	coward
+gihamya	proof
+gihamya	evidence
+hamya	authentication
+hamya	testimony
+hamya	testimonial
+hamya	witness
+hana	neighbourhood
+hana	locality
+handa	road
+handa	street
+hande	side
+hande	camp
+hande	party
+hane	dispute
+hane	quarrel
+hane	sauciness
+hanga	skull
+hanga	cranium
+hanga	skill
+hanga	sapience
+hanga	skilled person
+hanga	forehead
+hangange	giant
+hango	ceremony
+hango	ritual
+hango	custom
+hango	tradition
+hannyi	corrector
+hano	punishment
+hano	penalty
+hano	sanction
+hanuzi	prophet
+hanuzi	seer
+hanzi	musician
+hanzi	performer
+hare	place
+hare	part
+hare	participation
+hari	fox
+hari	wild animal
+haruro	yard
+haruro	compound
+harwe	odd numbers
+hate	zeal
+hate	earnestness
+hate	courage
+haza	marrow
+haza	pumpkin
+he	time
+he	tense
+he	weather
+heha	pipe
+heha	tube
+heha	drinking straw
+heha y’amaraso	vein
+heha y’amaraso	blood vessel
+hekane	consonant cluster
+heko	charm
+heko	fetish
+hembe	horn
+hembe	tusk
+hemberwe	salary
+hembo	salary
+hembo	wage
+hembo	award
+hembwe	school term
+hembwe	semester
+hembwe	trimester
+hemu	dishonesty
+hemu	betrayal
+hemu	dishonest person
+hemu	betrayer
+hemu	traitor
+hendo	deceitfulness
+hene	goat
+henehene	goat milk
+hengeri	squall
+hera	little finger
+herekeza	escort
+herezo	end
+herezo	ending
+herezo	close
+heri	itch
+heri	pimple
+heri	itch
+heri	scabies
+herwe	tycoon
+herwe	magnate
+herwe	mogul
+heta	second child
+heto	bow
+hezo	privacy
+higi	hunter
+higo	pledge
+higo	promise
+higo	competition
+higo	challenge
+himba	body
+himbano	alias
+hinda	sorrow
+hinda	grief
+hinda	depression
+hindo	wet season
+hindo	rainy season
+hindo	rumble
+hindo	clamour
+hindo	loud noise
+hindu	hailstones
+hindu	Hinduism
+hini	hoe handle
+hinja	infant
+hinzi	agriculture
+hinzi	farming
+hinzi	farmer
+hinzi	gardener
+hinzi	cultivator
+hirwe	luck
+hirwe	good fortune
+hishurirwa	revelations
+hisi	passerby
+hitamo	setting
+hitamo	option
+hoberano	hug
+hogo	dark brown
+hogo	throat
+holandi	Dutch person
+hombo	loss
+hombo	deficit
+hombo	pipe
+hondo	yellow
+hondo w’igi	egg yolk
+honi	horn
+hore	flesh
+horo	peace
+horo	sickle
+hoteri	hotel
+hoza	rent
+hu	fog
+hu	haze
+hu	egg shell
+hu	skin
+hu	leather
+hugu	swindle
+hugu	confidence trick
+hugu	country
+hugu	land
+huguriro	workshop
+hugurwa	training
+huku	cat
+humbagiza	ten million
+humbagiza	thousands
+humbagiza	multitude
+humbi	thousand
+humbi	million
+humbi	thousand
+humbu	mould
+humbu	mildew
+hundo	ear of grain
+hungiro	exile
+hungu	boy
+hunyira	nocturnal animal
+hunyira	owl
+huriro	meeting place
+huriro	network
+huru	thick bush
+huru	scrub
+hushya	permission
+hushya	authorisation
+huza	mediator
+huzamuyoboro	network connection
+hwa	thorn
+ibone	pride
+ibutsa	reminder
+ibutso	souvenir
+ibutso	memorial
+icanyi	murderer
+icanyi	killer
+icaro	seat
+icaro	headquarters
+iciro	session
+icundo	swing
+ifatire	behaviour
+ifatire	conduct
+ifato	behaviour
+ifato	conduct
+ifuzo	wish
+iga	learner
+igana	simulation
+igannyi	fake
+igannyi	fraudster
+igenge	independence
+igi	bead
+igimbakirwa	peninsula
+igisha	teacher
+igisha	rabbi
+igisha	professor
+igisho	lesson
+igisho	teaching
+igishwa	disciple
+igishwa	student
+igishwa	pupil
+ihana	repentance
+ihana	confession
+ihariko	distinguished person
+ihariko	personal property
+ijiji	haze
+ijima	darkness
+ijima	liver
+ika	beehive
+ika	bitterness
+ika	grudge
+ikarago	centre
+ikora	automation
+ikube kabiri	square root
+imerere	original
+injira	stepfather
+injiriro	entrance
+injiriro	entry
+injiro	entrance
+injiro	entry
+injizo	entrance
+injizo	entry
+inshi	quantity
+interineti	internet
+inyo	tooth
+ira	path
+ira	way
+ira	haste
+ira	rush
+ira	speed
+irabura	black person
+irakabiri	eclipse
+irasi	boasting
+irasi	pride
+irengeye	high place
+iringiro	belief
+iringiro	trust
+iringiro	expectation
+iringiro	hope
+irondoro	description
+irondoro	biography
+irongi	flute
+iru	mystery
+irungu	grey
+ishimo	joy
+ishimo	happiness
+ishimo	gladness
+ishingizi	insurance
+ishywa	nephew
+ishywa	niece
+iteganirize	pension
+iteganirize	savings
+iteganirize	stockpile
+itegererezo	example
+itegererezo	model
+itozo	practice
+itozo	exercise
+itozo	training
+itso	comma
+itwarariko	responsibility
+itwarariko	concern
+itwazo	excuse
+iyubahe	dignity
+iyubahe	self-respect
+iza	beauty
+iza	glory
+iza	quality
+izera	belief
+izera	believer
+izerere	beliefs
+ja	servant
+ja	slave
+jagari	disorder
+jage	jug
+jambo	word
+jambo	term
+jambo ry’Imana	Word of God
+jambobanga	password
+jana	hundred
+jangwe	cat
+jenoside	genocide
+jeri	cricket
+jerikani	jerry can
+jiji	ignorant person
+jiji	fool
+jiji	ignorance
+jijo	mystery
+jijuke	knowledge
+jijuke	intelligence
+jijuke	intellect
+jinya	anger
+jipo	skirt
+jisho	eye
+jokeri	joker
+jokeri	wildcard
+joro	night
+joro	night-time
+josi	front of neck
+jumba	sweet potato
+june	deep sorrow
+june	depression
+jura	theft
+jura	robbery
+jura	thief
+jura	robber
+juranterineti	cybercrime
+juranterineti	phishing
+juru	heaven
+jwi	voice
+jwi	sound
+jya	coming
+jyambere	progress
+jyambere	development
+jyana	tempo
+jyana	tune
+jyanama	advisor
+jyanama	councillor
+jyaruguru	north
+jyepfo	south
+jyi	town
+jyi	city
+jyi	municipality
+ka	paragraph
+ka	cow
+kabutura	shorts
+kafe	cafe
+kajugujugu	helicopter
+kakama	sap
+kamba	crown
+kambi	camp
+kambwe	old man
+kambwe	elder
+Kamena	June
+kamera	camera
+kamere	nature
+kamere	character
+kaminuza	university
+kamiyo	lorry
+kanaka	so-and-so
+Kanama	August
+kandara	belt
+kandida	candidate
+kangisho	threat
+kangurambaga	promoter
+kanishi	mechanic
+kanka	skeleton
+kannyi	tanner
+kanu	back of neck
+kanu	nape
+kanya	fork
+kanzu	dress
+kanzu	robe
+kara	charcoal
+kara	black
+karago	verse
+karamu	pen
+karamu	pencil
+karani	secretary
+karavate	tie
+kari	urine
+karindari	calendar
+kariso	underwear
+karita	card
+karita	map
+karitiye	quarter
+karito	cardboard box
+karito	box
+karoseri	bodywork
+karoti	carrot
+kasho	jail
+kasho	prison cell
+katedarali	cathedral
+kato	comma
+kavukire	native
+kavukire	aboriginal
+kawa	coffee
+kaye	notebook
+kaye	exercise book
+kazana	daughter-in-law
+kaziye	bottle rack
+kebe	property
+kebe	container
+kebe	tin
+kebe	can
+kecuru	old woman
+keka	mat
+keke	urgent need
+keke	worry
+keke	anxiety
+keki	cake
+kemwa	fault
+kemwa	blame
+kemwa	responsibility
+kene	poverty
+kene	poor person
+kene	pauper
+kenga	suspicions
+keno	poverty
+kerarugendo	tourist
+kerarugendo	traveller
+kereta	sourness
+kereta	sharpness
+keri	toad
+keri	berries
+kero	saw
+keremu	cream
+kezero	saw
+kezero	axe
+kiko	court
+kiko	tribunal
+kima	blue monkey
+kimbirane	argument
+kimbirane	disagreement
+kindo	palm tree
+kingi	door post
+kingi	pole
+kingi	pillar
+kingi	column
+kingirizo	condom
+kingo	vaccine
+kinisho	toy
+kinnyi	player
+kino	game
+kino	sport
+kinyoma	falsehood
+kipe	team
+kiramende	rectangle
+kiranuka	righteousness
+kiranutsi	righteous person
+kire	wealth
+kire	riches
+kire	rich person
+kirigitwa	tickles
+kiriya	customer
+kiza	salvation
+kiza	saviour
+koba	whip
+kobe	forest animal
+kobwa	girl
+kobyi	jeans
+kohwa	claw
+kohwa	talon
+koko	insect
+koko	wild animal
+koko	beast
+koko	chicken
+koko	poultry
+kokora	elbow
+koloni	colonization
+koloni	colonizer
+komangoma	prince
+komangoma	princess
+kombe	cup
+kombe	can
+kombe	tin
+kombe	riverbank
+kombe	lakeshore
+kombe	shore
+komere	injury
+komiseri	commissioner
+komisiyo	commission
+komoko	origin
+komoko	inception
+komoko	sovereignty
+kompanyi	company
+kondo	navel
+komfitire	jam
+komfitire	preserve
+kongoro	chalice
+kongoro	vulture
+koni	small stick
+koni	kitchen
+koni	stick
+koni	walking stick
+koni	cane
+konje	coldness
+konji	holiday
+konji	leave
+konji	vacation
+konoshwa	shell
+konti	account
+koperative	cooperative
+kopi	copy
+korali	choir
+koranabuhanga	technology
+koraniro	gathering
+koraniro	meeting
+koranya	dictionary
+koranyamagambo	dictionary
+korasi	chorus
+korerabushake	volunteer
+korere	settings
+korere	configuration
+korerwa	passive
+koresha	use
+koresha	usage
+koresha	employer
+koreshereze	use
+koreshereze	usage
+koreshereze	exploitation
+koresho	tool
+koresho	teaching materials
+koro	tax
+koro	dues
+koro	task
+koro	duty
+koro	work
+koro	assignment
+koropesho	mop
+korora	cough
+kororombya	rainbow
+koroto	change
+koroto	coins
+korwa	action
+korwa	deed
+kosa	mistake
+kosa	error
+kositimu	costume
+kositimu	suit
+kota	sword
+kotanyi	activist
+kotanyi	enthusiast
+kotanyi	zealot
+koti	coat
+koti	jacket
+kovu	scar
+kozi	worker
+kozi	employee
+kozi	servant
+kristo	Christianity
+kristo	Christian
+kuba	misfortune
+kuba	bad luck
+kuba	problems
+kuba	thunder
+kubitarukoko	index finger
+kubuzo	broom
+kufi	necklace
+kufi	chain
+kuka	beach
+kuka	shore
+kumbi	flock of sheep
+kumbuzi	nostalgia
+kumbuzi	homesickness
+kumbuzi	longing
+kumirizi	guard
+kumwe	thumb
+kumyabiri	twenty
+kundo	love
+kundwa	beloved
+kundwa	loved one
+kunga	support
+kunga	contribution
+kunga	aid
+kunga	assistance
+kunga	help
+kungu	riches
+kungu	wealth
+kungu	economics
+kungu	rich person
+kungugu	dust
+kunzi	fiance
+kunzi	lover
+kunzi	sweetheart
+kurambere	patriarch
+kurambere	elder
+kuri	dwarf
+kuru	short story
+kuru	news
+kuru	information
+kuru	story
+kuru	news item
+kurudumu	hoop
+kururanda	reptile
+kuta	wall
+kuta	wall
+kwano	dowry
+kware	partridge
+kwavu	bunny
+kwavu	leveret
+kwavu	rabbit
+kwavu	hare
+kwavu	billion
+kwe	wedding
+kwe	marriage
+kwe	son-in-law
+kwege	wire
+kwerere	middle-aged man
+kwerere	middle age
+kwerere	middle age
+kweto	shoe
+kwi	firewood
+kwiriye	worth
+Leta	state
+Leta	government
+leti	omelette
+lineti	glasses
+lineti	spectacles
+lisiti	list
+lisiti	listing
+litiro	litre
+liyetona	lieutenant
+lo	kilo
+lo	kilogramme
+lometero	kilometre
+Loni	United Nations
+Madamu	Madam
+makoro	macro
+malariya	malaria
+mama	my mother
+mambo	post
+mambo	stake
+mana	God
+marakuja	passion fruit
+marayika	angel
+marere	ring finger
+mari	treasury
+mari	finance
+maro	benefit
+maro	use
+maro	value
+maro	profit
+maro	use
+masa	calf
+masa	bullock
+mashini	machine
+mashu	mousetrap
+Mata	April
+mayibobo	street child
+mayibobo	urchin
+mayili	mile
+mbi	arrow
+me	dew
+mena	principal
+mena	important
+mene	crack
+menyekanisha	announcement
+menyetso	mark
+menyetso	tick
+menyetso	sign
+menyi	knowledge
+menyi	science
+menyindimi	linguistics
+merere	characteristics
+merere	attitude
+mesa	palm oil
+meshi	launderer
+metero	metre
+meyili	electronic mail
+milisegonda	millisecond
+minisiteri	ministry
+Minisitiri w’Intebe	Prime Minister
+misiyo	mission
+modokari	car
+monyo	ant
+moteri	motor
+moteri	engine
+moto	motorcycle
+moto	motorbike
+moto	scooter
+mucagaguzi	parser
+mucuranga	video player
+mudasobwa	computer
+mudasobwa igendanwa	laptop computer
+mudasobwa igendanwa	notebook computer
+muga	invalid
+muga	cripple
+muga	handicapped person
+muga	broken pot
+murangaza	distraction
+muri	light
+Mutarama	January
+vunja	jigger
+mwe	singular
+mwe	unity
+naka	so-and-so
+nama	meeting
+nama	council
+nama	session
+nama	advice
+nama	counsel
+nama	suggestion
+namico	theatre
+nani	new year
+nani	inheritance
+naniro	tiredness
+nanwa	chin
+nara	tower
+nazi	coconut
+ndikagihe	timestamp
+nebwe	laziness
+nebwe	idleness
+nebwe	lazy person
+neke	banana
+nezero	happiness
+nezero	joy
+ngabangabo	dilemma
+ngabangabo	puzzle
+ngendo	distance
+niforume	uniform
+nini	tablet
+nini	pill
+njyesi	subscript
+nkanyari	wrinkle
+no	toe
+Noheli	Christmas
+nomero	number
+nono	hoof
+nota	score
+nota	mark
+nota	minute
+nsi	day
+nsi	April Fools’ Day
+ntu	place
+ntu	location
+ntu	small thing
+ntu	thing
+ntu	something
+ntu	grace
+ntu	free
+ntu	how
+ntu	means
+ntu	method
+ntu	person
+ntu	human
+numa	dove
+numa	pigeon
+nwa	lips
+nwa	mouth
+nya	person of
+nyabinyoma	liar
+nyabiziga	vehicle
+nyabumwe	one of
+nyabumwe	unit
+nyabupfura	politeness
+nyabuzima	living thing
+nyabuzima	biology
+nyabyaha	sinner
+nyacumi	decade
+nyagihumbi	millennium
+nyajwi	vowel
+Nyakanga	July
+nyakoreya	Korean language
+nyama	meat
+nyama	flesh
+nyama y’ingurube	pork
+nyama y’inka	beef
+nyamabanga	secretary
+nyamaboko	strong person
+nyamaboko	strongman
+nyamahanga	foreigner
+nyamahanga	gentile
+nyamakuru	newspaper
+nyamaswa	wild animal
+nyamaswa	beast
+nyamasyo	tortoise
+nyamasyo	turtle
+nyamateka	newspaper
+nyamateka	journal
+nyambaraga	strong person
+nyambaraga	strongman
+nyamunjonjererwa	snail
+nyamurava	determined person
+nyamweru	albino
+nyamwinshi	majority
+nyana	calf
+nyana	heifer
+nyana	part
+nyandaro	unwed mother
+nyandiko	article
+nyandiko	document
+nyangamugayo	trustworthy person
+nyangamugayo	reliable person
+nyange	cattle egret
+nyangingo	phrase
+nyanja	sea
+nyanja	ocean
+nyanya	tomato
+nyapolitiki	politician
+nyarukiko	judge
+nyarwanda	Kinyarwanda
+nyazina	pronoun
+nyejana	century
+nyenyeri	little star
+nyenyeri	asterisk
+nyenyeri	star
+nyenzi	cockroach
+nyereri	slipperiness
+nyeshuri	student
+nyeshuri	pupil
+nyetorero	church member
+nyetorero	congregant
+nyezamu	watchman
+nyezamu	goalkeeper
+nyigisho	teaching
+nyigisho	doctrine
+nyiri	owner of
+nyirakanaka	so-and-so
+nyiranaka	so-and-so
+nyo	anus
+nyo	maggot
+nyobwa	lima bean
+nyobwa	peanut
+nyobwa	drink
+nyogote	porcupine
+nyoma	lie
+nyoma	falsehood
+nyomekwambere	prefix
+nyongera	accessory
+nyoni	bird
+nyorogoto	earthworm
+nyota	thirst
+nyubako	building
+nyugunyugu	butterfly
+nyugunyugu	moth
+nyuguti	letter of alphabet
+nyumba	large house
+nyumbati	cassava
+nyundo	hammer
+nyungu	profit
+nyungu	gain
+nyungu	increase
+nyungu	benefit
+nyungu	interests
+nyururu	chain
+nyururu	prison
+nywa	daytime
+Nzeri	September
+nzenze	wild olive
+oba	fear
+obo	pit
+obo	hole
+obo	pit
+obo	hole
+obo	pit
+oga	beer
+oga	alcohol
+ogera	bell
+ohereza	sender
+oka	snake
+oka	serpent
+oka	worm
+oko	sort
+oko	type
+oko	kind
+oko	clan
+oko	tribe
+oko	ethnicity
+ombo	CB radio
+ondo	mud
+ongereza	English
+ongereza	English person
+onko	brain
+orezo	epidemic
+orozi	animal husbandry
+oshya	temptations
+osozi	tears
+otsi	smoke
+oya	fur
+oya	body hair
+oya	body hair
+ozi	dream
+padiri	Catholic priest
+padiri	Father
+pagani	pagan
+pagani	heathen
+pagarara	anguish
+pagarara	terror
+pagarike	portrait
+pahu	large spoon
+paje	page
+paka	argument
+paka	dispute
+paka	discussion
+paka	debate
+paka	border
+pamba	cotton
+pamba	provisions
+pamo	reality
+pamo	truth
+pamvu	reason
+pamvu	motive
+pamyabushobozi	diploma
+pamyabushobozi	degree
+pamyabushobozi	qualification
+panga	twin
+panga	machete
+pano	gift
+pano	present
+pano	talent
+pantaro	trousers
+pantaro	pants
+pantufure	slipper
+panu	frying pan
+panuka	accident
+papuro	page
+papuro	paper
+papuro	sheet
+parfum	perfume
+pariki	park
+paruwasi	parish
+Pasika	Easter
+pasiporo	passport
+pasitori	pastor
+pata	hinge
+patante	licence
+pawundi	British pound sterling
+penaliti	penalty
+peyizana	settlement
+pera	end
+pera	ending
+perekeza	groomsman
+perekeza	best man
+perezida	president
+peshyi	dry season
+petroli	paraffin
+pfakazi	widow
+pfamatwi	deaf person
+pfizi	oxen
+pfizi	bull
+pfu	folly
+pfu	dead
+pfu	deceased person
+pfu	death
+fubyi	orphan
+pfuko	purse
+pfuko	bag
+pfuko	sack
+pfumu	witch doctor
+pfundikizo	cover
+pfundikizo	lid
+pfundikizo	cork
+pfundikizo	stopper
+pfundo	knot
+pfunsi	fist
+pfura	respect
+piki	pickaxe
+pikipiki	motorcycle
+pikipiki	motorbike
+pikipiki	scooter
+pimo	measurement
+pimo	quota
+pimo	pound
+pimo	yard
+pinduka	change
+pinduka	modification
+pinduka	revision
+pinduka	edit
+pinduka	consequence
+pine	abbreviation
+pinga	top
+pinga	peak
+pinga	tip
+pira	ball
+pira	rubber
+pira	eraser
+pira	t-shirt
+pira	shirt
+pira	sweater
+pira w’amaguru	football
+pira w’amaguru	soccer
+pira w’intoke	basketball
+pira w’intoke	volleyball
+pira w’intoke	netball
+piripiri	chilli pepper
+pitagihe	past tense
+polisi	policeman
+polisi	police
+politiki	politics
+pongano	atonement
+pongano	payment
+pongano	reparation
+pongano	amends
+pongo	bushbuck
+porogaramu	program
+porogaramu irwanya virusi	antivirus program
+porojegiteri	projector
+poronogarafi	pornography
+puguke	skilled person
+puguke	intellectual
+puguke	expert
+puha	rumours
+puhwe	pity
+pumyi	blind person
+pundu	acclamation
+pundu	shout of joy
+pundu	chimpanzee
+pungenge	anxiety
+pungenge	prudence
+punzi	refugee
+pusi	cat
+puzamahanga	international
+puzanyito	synonym
+pwerume	male dog
+pyiko	kidney
+pyisi	hyena
+pyisi	hundred million
+ra	intestines
+ra	intestines
+rabyo	lightning
+rabyo	flower
+radiyo	radio
+rage	inheritance
+ragi	mute person
+ragi	dumb person
+rahure	glass
+rakari	anger
+rambararo	diameter
+rambararo	length
+rambo	corpse
+ramu	brother-in-law
+ramukazi	sister-in-law
+rande	tradition
+rande	continuation
+ranga	attribute
+ranga	beauty
+rangazi	negligence
+rangi	paint
+rangi	colour
+rangirire	famous person
+rangirire	celebrity
+rango	token
+rangururamajwi	microphone
+rangururamajwi	PA system
+rangururamajwi	megaphone
+raporo	report
+rari	lust
+rari	strong desire
+raririzi	night watchman
+raro	bridge
+rashi	perfume
+rasirazuba	the east
+rasire	ray
+rasire	beam
+raso	blood
+rato	shoe
+rava	determination
+rayi	Irish potato
+rayiki	layperson
+rebure	height
+rebure	length
+rego	accusation
+rego	charge
+rema	cripple
+rema	invalid
+rembo	gate
+remere	weight
+remu	patch
+remwa	creation
+remwa	natural world
+remwa	nature
+remyi	creator
+renga	sign language
+renga	high rank
+renga	Supreme Court
+renganzira	rights
+renganzira	entitlement
+renge	foot
+renge	village
+rengerazuba	the west
+repubulika	republic
+rere	administrative district
+rere	region
+rere	sky
+rere	atmosphere
+rere	weather
+resitora	restaurant
+rezi	educator
+rezi	teacher
+rezi	mentor
+ri	truth
+riba	well
+ribori	stretch mark
+ribwa	food
+ribwa	edible thing
+ribwa	ingredient
+riganya	deceit
+riganya	dishonesty
+riko	spoon
+rima	garden
+rima	field
+rimbuka	perdition
+rimbuka	uprooting
+rimi	flame
+rimi	language
+rimi	tongue
+rimo	task
+rimo	business
+rimo	work
+rimo	duty
+rimo	task
+rimo	action
+rimo	activity
+ringa	brass
+ringiti	blanket
+ringiti	cover
+ringiti	blanket
+rinzi	guard
+rinzi	protector
+rira	tears
+riri	bed
+ririmbyi	singer
+riro	fire
+riyo	wake
+rizo	tail
+ro	offices
+ro	millet
+robine	tap
+robine	faucet
+robyi	fisherman
+rogoya	interrupter
+rohame	shipwreck
+rohame	loss
+rondwe	tick
+rongo	stroke
+rongo	clay
+rongo	line
+rongo	row
+rongo	queue
+rongo	verse
+rongo	channel
+rongo icyenda	ninety
+rongo inani	eighty
+rongo ine	forty
+rongo irindwi	seventy
+rongo itandatu	sixty
+rongo itanu	fifty
+rongo itatu	thirty
+rorero	town
+rori	party
+rori	feast
+rori	banquet
+rori	celebration
+roso	brush
+roso bw’amenyo	toothbrush
+roza	rose
+rozi	poison
+rozi	toxin
+rozi	potion
+rugongo	clitoris
+ruhuko	rest
+ruhuko	break
+ruhuko	holiday
+ruhuko	vacation
+runaka	so-and-so
+rundi	Kirundi
+rundi	Burundian
+rundi	shin
+rundo	heap
+rundo	pile
+rundo	stack
+runga	volcano
+ruru	blue
+ruswa	corruption
+ruswa	bribery
+ruswa	bribe
+rwa	island
+rwa	capital
+rwagakoco	mousetrap
+rwayi	sick person
+rwayi	casualty
+rwayi	invalid
+rwayi	patient
+rwi	department
+ryango	family
+ryango	lineage
+ryango	doorway
+ryango	gate
+ryarya	hypocrisy
+ryasenge	mosquito
+ryo	food
+ryo	opportunity
+ryo	way
+ryo	method
+ryo	manner
+ryo	modality
+sa	zero
+sa	null
+sa	meaningless
+saa	hour
+sabane	fellowship
+sabane	communion
+sabane	relationship
+sabato	Sabbath
+sabirizi	beggar
+sabukuru	birthday
+sabukuru	anniversary
+sabune	soap
+sabwa	condition
+sabwa	requirement
+safuriya	saucepan
+safuriya	cooking pot
+saha	hour
+saha	watch
+saha	clock
+sahane	saucer
+sahane	small bowl
+sahani	dish
+sahani	plate
+saho	bag
+saho	sack
+saka	sorghum
+sake	rooster
+sake	cockerel
+sake	cock
+sake	rooster
+sake	cockerel
+saku	noise
+saku	clamour
+saku	shouts
+saku	row
+samanzuki	flycatcher
+sambanyi	adultery
+sambanyi	adulterer
+sambi	grass mat
+sambi	rug
+sambi	crested crane
+sambo	building plot
+sambo	glutton
+sambo	thief
+sambu	field
+sambu	property
+sambu	possession
+sambu	bush
+sandugu	box
+sanduku	box
+sanduku	coffin
+saniro	production
+sano	resemblance
+sano	similarity
+sanzu	contribution
+sanzu	assessment
+sanzure	generally
+sanzure	usually
+saraba	cross
+sarani	toilet
+sarani	lavatory
+sarani	bathroom
+sare	sailor
+saro	bead
+sasa	floor tile
+sate	shard
+satsi	hair
+saza	old age
+saza	elder
+saza	old man
+sazi	fly
+sazi	crazy person
+sazi	madman
+se	dung
+se	manure
+se	his father
+sebe	sore
+sebe	ulcer
+sebe	wound
+sego	cushion
+sego	pillow
+seke	dawn
+seke	sunrise
+sekurume	male goat
+semburo	yeast
+semburo	leaven
+sena	shape
+senateri	senator
+senda	chilli pepper
+senga	cave
+senga	den
+senge	roof
+isengeneza	niece
+isengeneza	nephew
+sengero	church building
+sengero	temple
+sengesho	prayer
+senyi	sand
+sepfu	hiccups
+serebanya	lizard
+seri	bunch of bananas
+serivisi	service
+seseka	ordinariness
+seseme	nausea
+sesengura	analysis
+sesengura	examination
+seso	dawn
+sezerano	promise
+sezerano	testament
+sezerano	agreement
+sezerano	contract
+sezi	beggar
+sha	gazelle
+shahara	wage
+shahara	salary
+shahara	pay
+shaka	kaffir corn
+shaka	sorghum
+shaka	desire
+shaka	want
+shakashatsi	research
+shakashatsi	search
+shake	will
+shami	branch
+shampiyona	championship
+shanga	marsh
+shanga	swamp
+shati	shirt
+shavu	sadness
+shavu	irritation
+shaza	pea
+shebuja	master
+shebuja	employer
+shegabo	virago
+sheke	sugarcane
+shema	pride
+shema	honour
+shereka	breast milk
+sheri	dear
+sheri	dearest
+shimusi	cattle thief
+shimusi	hostage-taker
+shinga	verb
+shinga	project
+shingano	responsibility
+shingano	role
+shingano	duty
+shinge	needle
+shinge	injection
+shinjacyaha	prosecutor
+shino	labia minora
+shinwa	Chinese
+shinwa	Chinese person
+shinyaguro	torture
+shinyaguro	mockery
+shinyaguro	torment
+shirira	burning coal
+shirira	ember
+shishi	small ant
+shishi	large ant
+shishi	ant
+shishwa	peel
+shize	last time
+shoberamahanga	idiom
+shobozi	power
+shobozi	ability
+shobuja	master
+shobuja	employer
+shoferi	driver
+shoka	axe
+shorobwa	caterpillar
+shu	cabbage
+shuhe	duck
+shuka	bed sheet
+shuko	bribe
+shumba	shepherd
+shumba	herdsman
+shumba	pastor
+shunda	fringe
+shundura	fishing net
+shungu	ransom
+shuri	school
+shuri ribanza	primary school
+shuri ribanza	elementary school
+shuri ryisumbuye	secondary school
+shuri ryisumbuye	high school
+shuro	time
+shuro	occasion
+shushanyo	picture
+shushanyo	drawing
+shushanyo	image
+shushanyo	idol
+shusho	picture
+shusho	image
+shusho	likeness
+shusho	shape
+shushwe	mouse
+shuti	friend
+shuti	friendship
+shuti	friend
+shwi	chick
+shwima	ascites
+shwima	dropsy
+shwima	oedema
+shyaka	zeal
+shyaka	determination
+shyaka	enthusiasm
+shyaka	political party
+shyaka	organisation
+shyamba	forest
+shyamba	jungle
+shyanga	country
+shyano	bad luck
+shyano	trouble
+shyano	tragedy
+shyano	accident
+shyano	trouble
+shyano	misfortune
+shyano	bad luck
+shyanyari	electricity
+shyari	jealousy
+shyari	envy
+shyari ryiza	competitiveness
+shye	burn
+shyengo	joke
+shyi	slaps
+shyi	palm of hand
+shyikirano	relationship
+shyikirano	fellowship
+shyimbo	bean
+shyimbo	walking stick
+shyingiranwa	marriage
+shyingo	November
+shyira	pus
+shyirahamwe	association
+shyiramo	charger
+shyitsi	base of tree
+shyitsi	guest
+shyitsi	visitor
+shyitsi	stranger
+shyitsi	trembling
+shyitsi	tremor
+shyitsi	shaking
+shyitsi	earthquake
+shyo	herd of cows
+shyuhe	heat
+shyuhe	warmth
+shyungute	whistle
+si	earth
+si	world
+sifuzi	referee
+sigo	poem
+siha	mole
+sika	wall
+sika	interior wall
+simba	wild animal
+simba	insect
+simbi	snow
+simbura	replacement
+simbura	substitute
+sinagogi	synagogue
+singa	wires
+singi	foundation
+sinya	sign
+sinzi	drunk person
+sinzi	drunkard
+sirikare	soldier
+sisitemu	system
+sitajiyeri	trainee
+sitani	garden
+sitimu	torch
+sitimu	flashlight
+siyansi	science
+sizi	poet
+so	surface
+so	your father
+sobanuro	explanation
+sobanuro	meaning
+sobanuro	specification
+sobanuro	definition
+sobanuro	annotation
+soda	soldier
+soga	fowl
+soga	poultry
+sogisi	sock
+sogisi	stocking
+sohozabitambo	priest
+soko	market
+soko	spring of water
+soko	fountain
+sokozo	comb
+sokozo	hairbrush
+sokozo	comb
+sokozo	hairbrush
+somo	lesson
+somyi	reader
+soni	shyness
+soni	shame
+sore	youth
+soresha	tax collector
+soreshwa	tax payer
+soro	tax
+sosiyete	society
+soso	receding hairline
+sozi	mountain
+sozi	mount
+sozi	hill
+sozi	mountain
+sozo	conclusion
+sitade	stadium
+subiramo	revision
+subiramo	repetition
+subizo	reply
+subizo	result
+subyu	knot
+suka	hoe
+sukari	sugar
+suku	cleanliness
+sumari	nail
+sumbazose	middle finger
+sumeno	saw
+sunika	pressure
+supu	soup
+sura	physical appearance
+suri	erosion
+susu	apprehension
+susu	fear
+suzuguriro	shame
+swa	flying termite
+swa	fool
+swa	stupid person
+swa	termite
+swa	white ant
+sya	pubic hair
+syo	grinding stone
+ta	milk
+tabaza	lamp
+tabaza	light
+tabaza	candle
+tabera	justice
+tabi	tobacco
+tabo	small book
+tabo	booklet
+tabo	book
+tabo	holy book
+tafari	brick
+tagatifu	saint
+tagisi	taxi
+taha	future
+taka	soil
+taka	ground
+taka	earth
+taka	land
+taka	soil
+taka	umbrella
+tako	thigh
+tako	ornament
+tama	cheek
+tama	sheep
+tambara	battle
+tambara	war
+tambara	fighting
+tambaro	cloth
+tambike	width
+tambo	offering
+tambo	sacrifice
+tambwe	step
+tambyi	priest
+tamenya	ignorance
+tanda	bed
+tanda	rack
+tandukana	divorce
+tandukana	separation
+tandukaniro	difference
+tangamugabo	proof
+tangamugabo	evidence
+tangaza	miracle
+tangaza	surprise
+tangazo	announcement
+tangiriro	beginning
+tangiriro	beginning
+tangiriro	genesis
+tangiriro	origin
+tangiriro	introduction
+tangizi	beginner
+tangwa	allocation
+tansi	receipt
+tanura	furnace
+tapi	carpet
+tara	light
+tara	lamp
+tara	region
+taraboneka	excellence
+taraboneka	superbness
+taratara	glasses
+taratara	spectacles
+tare	anklet
+gitare	guitar
+tare	white
+tare	whiteness
+tare	lion
+tare	large rock
+tari	hectare
+tariganya	sincerity
+tariki	date
+taro	hospital
+taro	dispensary
+tashyo	greeting
+tasi	spy
+tayu	desert
+te	laziness
+tebe	chair
+tebe	stool
+tebe	bench
+teganyo	replacement
+teganyo	temp
+tege	strength
+tege	power
+tege	force
+tege	might
+tegekere	administration
+tegeko	law
+tegeko	rule
+tegeko	command
+tegeko	commandment
+tegeko	organic law
+tegetsi	government
+tegetsi	administrator
+tegetsi	commander
+tegetsi	dictator
+tegetsi	ruler
+tego	goal
+tego	purpose
+tego	objective
+tego	mission
+tego	motto
+tego	slogan
+tego	trap
+tego	snare
+tegura	roof tile
+teguro	ornament
+teguro	preparation
+teja	green bean
+teka	history
+teka	always
+teka	ever
+teka	everlasting
+teka	eternally
+teka	order
+teka	forever
+teka	eternally
+tekane	stability
+tekano	security
+tekerezo	idea
+tekerezo	thought
+tekerezo	myth
+tekerezo	legend
+tekinisiye	technician
+teko	group
+teko	class
+terefone	telephone
+terefone	phone
+tereviziyo	television
+tereviziyo	TV
+tembura	stamp
+temeri	lid
+tende	wheel
+tera	adjective
+teraniro	meeting
+teraniro	gathering
+terankunga	sponsor
+terankunga	supporter
+tere	unconsciousness
+tereko	lamp stand
+terere	format
+terere	structure
+terere	attitude
+terere	character
+tereriyo	careless person
+teruro	sentence
+teruro	phrase
+tesi	joker
+teteyi	dress
+teto	affection
+teto	doting
+tetsi	cook
+ti	tree
+ti	medicine
+ti	cure
+ti	drug
+ti	insecticide
+ti	shoe polish
+tiba	beehive
+tingito	earthquake
+tingito	tremor
+tiku	rumour
+tiku	slander
+tiku	gossip
+tilide	tilde
+tima	heart
+timanama	conscience
+timba	mosquito net
+tindi	destitution
+tindi	misery
+tindi	poverty
+tindo	bridge
+tini	fig tree
+titsa	continually
+titsa	eternally
+titsa	forever
+tobe	juice
+tobe	fruit juice
+toke	banana stalk
+toke	banana tree
+toki	plantain
+toki	finger
+tondagura	conjugation
+tondo	morning
+tonga	large basket
+toni	favour
+toni	favouritism
+tonyanga	drop of water
+tora	vote
+tora	election
+torezo	axe
+toroshi	torch
+toroshi	flashlight
+toryi	aubergine
+toryi	eggplant
+toto	youthfulness
+totsi	sleepiness
+toza	coach
+toza	trainer
+tsiko	group
+tsiko	gang
+tsiko	curiosity
+tsima	bread
+tsina	gender
+tsina	sex
+tsinda	group
+tsinda	batch
+tsindamabara	palette
+tsindishirizwa	justification
+tsinsino	heel
+tsinsino	heel
+tuba	vagina
+tugu	dictatorship
+tugu	shoulder
+tuku	red
+tuma	cause
+tuma	reason
+tumanaho	communication
+tumba	rainy season
+tumbi	corpse
+tumbi	dead animal
+tumire	invitation
+tumvira	disobedience
+tumwa	Apostle
+tumwa	messenger
+tumwa	message
+tumwa	mission
+tunda	passion fruit
+tungo	livestock
+tungo	domesticated animal
+tungo	possession
+tungo	asset
+tungo	revenue
+tungu	tadpole
+tungu	frog
+tunguru	onion
+tunguru	onion
+tunzi	possessions
+tunzi	riches
+tunzi	wealth
+tunzi	rich person
+turage	rural area
+turage	countryside
+turage	citizen
+turage	native
+turage	villager
+turanyi	neighbour
+turire	community
+turo	offering
+turo	tomb
+turo	grave
+turo	dwelling place
+turo	wild cat
+turo	dwelling
+turo	abode
+tusi	eucalyptus tree
+tuti	pulpit
+tutire	bribe
+tutsi	slanderer
+tutsi	insult
+tutu	crack
+tuze	calm
+tuze	silence
+twa	pygmy
+twara	attitude
+twara	conduct
+twara	importance
+twara	driver
+tware	authority
+tware	chieftainship
+tware	inheritance
+tware	chief
+tware	leader
+twari	hero
+twari	heroism
+twari	bravery
+twaro	weapon
+twaro	burden
+twaro	load
+twe	head
+twe	title
+twe	subject
+twe	chapter
+twi	ear
+twiga	giraffe
+ubaha	respecting
+ubaha	honouring
+ubaha	reverence
+ubahiro	honour
+ubahiro	respect
+ubahiro	esteem
+ubakire	architecture
+ubatsi	builder
+ubatsi	mason
+uga	art
+ugamo	shelter
+ugarizo	bracket
+ugarizo	parentheses
+ugi	door
+uguruzo n’akugarizo	quotation mark
+uka	breath
+uka	air
+uka	spirit
+uka	steam
+uki	honey
+uma	knife
+uma	iron
+umba	room
+umbati	cassava
+umbati	manioc
+umvira	obeying
+umvira	obedience
+umweru	week
+umweru	next week
+umweru	this week
+umweru	last week
+ungeri	shepherd
+ungeri	herdsman
+ungeri	pastor
+ungo	conjunction
+ungo	connector
+ungu	pumpkin
+ungu	squash
+unyu	salt
+uri	pasture
+uri	meadow
+uya	sweat
+uya	perspiration
+uzi	pool
+uzi	river
+uzu	great joy
+uzu	fullness
+uzu	zeal
+uzukuru	grandchild
+uzure	flood
+uzure	inundation
+va	grave
+va	tomb
+vandimwe	relationship
+vandimwe	relative
+vandimwe	brother
+vandimwe	sibling
+vi	knee
+vino	wine
+virusi	virus
+vu	ashes
+vu	chameleon
+vubi	wasp
+vubu	hippopotamus
+vubu	hippo
+vuduko	speed
+vuduko	velocity
+vugabutumwa	preacher
+vugabutumwa	evangelist
+vugizi	spokesperson
+vugo	speech
+vugo	manner of speaking
+vugo	poem
+vuguto	fermented milk
+vuguto	yoghurt
+vugwaho	subject
+vugwaho	topic
+vuka	birth
+vuka	nativity
+vuko	birthplace
+vumba	sack
+vumbi	downpour
+vumbi	cloudburst
+vumbi	shower
+vume	outcast
+vumo	curse
+vumu	sycamore tree
+vundaguro	mess
+vundaguro	jumble
+vunge	crowd
+vungukira	crumb
+vungukira	leftover
+vunnyi	assistance
+vunnyi	aid
+vunnyi	help
+vunnyi	defender
+vunnyi	helper
+vunura	translation
+vunyi	ombudsman
+vura	rain
+vuriro	hospital
+vuriro	clinic
+vuriro	dispensary
+vurungano	chaos
+vurungano	turmoil
+vururu	riot
+vururu	disorder
+vururu	trouble
+vururu	uprising
+vururu	unrest
+vuta	oil
+vuta	fat
+vuta	butter
+vutu	intemperance
+vuzi	healing
+vuzi	medicine
+vuzi	healthcare
+vuzi	doctor
+vuzi	healer
+Werurwe	March
+yaga	lake
+yaga	wind
+yaga	gale
+yaga	breeze
+yaga	hurricane
+yaga	storm
+yahudi	Judaism
+yahudi	Jew
+yapani	Japanese person
+yatu	tone
+yatu	sound
+yaya	maid
+yaya	maidservant
+yaya	housemaid
+yego	movement
+yego	motion
+yego	animation
+yige	locust
+yige	grasshopper
+yiko	teaspoon
+yiko	small spoon
+yiko	spoon
+yisilamu	Muslim
+yoboke	follower
+yoboro	channel
+yoboro	connection
+yoboro	stream
+yobozi	sovereignty
+yobozi	leadership
+yobozi	stewardship
+yobozi	management
+yobozi	administration
+yobozi	leader
+yobozi	guide
+yobozi	administrator
+yobozi	chairperson
+yubile	jubilee
+yuda	Jew
+yuki	bee
+yuki	beekeeping
+yunguruzo	sieve
+yunguruzo	strainer
+za	going
+zabibu	grape
+zabibu	vine
+zabibu	vineyard
+zaburi	psalm
+zagihe	future tense
+zahabu	gold
+zamini	examination
+zamini	exam
+zamini	test
+zamini	evaluation
+zamu	watchman
+zamu	guard
+zamu	goalkeeper
+zamuko	hill
+zenga	pool
+zenguruko	surroundings
+zi	work
+zi	job
+zi	water
+zi	root
+zibaho	dress
+ziga	wheel
+ziga	circle
+ziga	ring
+ziki	music
+ziko	fireplace
+ziko	stove
+zima	health
+zima	life
+zima	wholeness
+zimagatozi	incorporation
+zimagatozi	legal status
+zimu	ancestral spirit
+zimu	ghost
+zimuzi	gossip
+zimwe	gossip
+zina	name
+zina	noun
+zina bwite	proper noun
+zinda	forgetfulness
+zinga	spot
+zingiro	navel
+zingiro	nucleus
+zirikana	meditation
+zitira mubu	mosquito net
+zitiro	fence
+zitiro	hedge
+zovu	elephant
+zovu	ten thousand
+zu	small house
+zu	hut
+zu	cell
+zu	house
+zu	clan
+zuba	sun
+zuka	resurrection
+zuka	resurrection
+zuko	resurrection
+zungu	white person
+zungu	westerner
+zuru	nose
+zuru	nostril
+Afuganisitani	Afghanistan
+Afurika	Africa
+Afurika y’Epfo	South Africa
+Alijeriya	Algeria
+Alubaniya	Albania
+Amerika	America
+Amerika y’Epfo	South America
+anda	Rwanda
+Arabiya	Arabia
+Arabiya Sawudite	Saudi Arabia
+Arijantine	Argentina
+Atalantika	Atlantic
+Aziya	Asia
+Belizebuli	Beelzebub
+Bikira Mariya	Virgin Mary
+birigi	Belgium
+Boliviya	Bolivia
+dage	Germany
+Danimarike	Denmark
+Egiputa	Egypt
+Ekwateri	Ecuador
+Elisaluvadori	El Salvador
+Esipanye	Spain
+Etiyopiya	Ethiopia
+faransa	France
+Gana	Ghana
+gande	Uganda
+gereki	Greece
+Gwatemara	Guatemala
+Hayiti	Haiti
+holandi	Holland
+Hungariya	Hungary
+Irake	Iraq
+Irilande	Ireland
+Isiraheli	Israel
+iteka	Lord
+Jamayika	Jamaica
+Kameruni	Cameroon
+Kanada	Canada
+Kolombiya	Colombia
+Koreya	Korea
+Kositarika	Costa Rica
+Kotedivuwari	Ivory Coast
+Libiya	Libya
+Lukusamburu	Luxembourg
+Lusufero	Lucifer
+Malawi	Malawi
+Maleziya	Malaysia
+Mali	Mali
+Malita	Malta
+Maroke	Morocco
+Mesiya	Messiah
+Misiri	Egypt
+Moritaniya	Mauritania
+Mozambike	Mozambique
+Nijeriya	Nigeria
+Nikaragwa	Nicaragua
+Noruveje	Norway
+ongereza	England
+Ositaraliya	Australia
+Otirishiya	Austria
+Pakistani	Pakistan
+Panama	Panama
+Paragwe	Paraguay
+Peru	Peru
+Portugali	Portugal
+Purigatori	purgatory
+rayi	Europe
+rundi	Burundi
+rusi	Russia
+Satani	Satan
+Satani	devil
+Sawudi Arabiya	Saudi Arabia
+shinwa	China
+Sirilanka	Sri Lanka
+Siyoni	Zion
+Suwazilandi	Swaziland
+Suwedi	Sweden
+suwisi	Switzerland
+taliyani	Italy
+Tanzaniya	Tanzania
+Turikiya	Turkey
+Venezuwela	Venezuela
+Viyetinamu	Vietnam
+yapani	Japan
+Yesu	Jesus
+Yugoselaviya	Yugoslavia
+gura	repeatedly
+gura	extremely
+gura	smash into pieces
+racya-	still
+ta-	not know
+amaso ku amaso	face to face
+bambe	I mean
+birashoboka	it’s possible
+bwacyeye	good morning
+ijoro ryiza	good night
+isabukuru nziza	happy birthday
+ku cyumweru	Sunday
+ku wa gatandatu	Saturday
+ku wa gatanu	Friday
+ku wa gatatu	Wednesday
+ku wa kabiri	Tuesday
+ku wa kane	Thursday
+ku wa mbere	Monday
+mbabarira	forgive me
+mbabarira	excuse me
+mbabarira	sorry
+mbere na mbere	in the beginning
+mbere na mbere	first of all
+mpole	sorry
+muntunge	excuse me
+murabeho	goodbye
+murabeho	farewell
+murakaza neza	welcome
+murakoze	thank you
+muramuke	good night
+mwaramutse	good morning
+mwirirwe	goodbye
+mwiriwe	good afternoon
+mwiriwe	good evening
+ndagukumbuye	I miss you
+ndagukunda	I like you
+ndagukunda	I love you
+ngaho	goodbye
+ngaho	farewell
+ni ah’ejo	see you tomorrow
+ni byo	it’s true
+nta kibazo	no problem
+ntibirabaho	not yet
+pole	sorry
+salama	peace
+salama	hello
+sawa	okay
+sawa	ok
+sawa	fine
+sawa	alright
+si byo	false
+tugende	let’s go
+tuzabonana vuba	see you soon
+ezi kwa cumi	October
+ezi kwa cyenda	September
+ezi kwa gatandatu	June
+ezi kwa gatanu	May
+ezi kwa gatatu	March
+ezi kwa kabiri	February
+ezi kwa kane	April
+ezi kwa karindwi	July
+ezi kwa mbere	January
+ezi kwa munani	August
+umunsi mwiza	good day
+umunsi mwiza w’amavuko	happy birthday
+umwaka mushya muhire	Happy New Year
+MINEDUC	Ministry of Education
+MINICOM	industry
+MINIJUST	Ministry of Justice
+MINISANTE	Ministry of Health
+nya-	of
+nya-	African Development Bank
+ri	there is
+ri	there are
+ni aho	see you
+ni	he is
+ni	she is
+ni	it is
+ni	they are
+nta	none
+nta	no-one
+nta	without
+oya	no
+yego	yes
+uko	how
+nyine	alone
+goryi	moron
+goryi	fool
+goryi	imbecile
+goryi	stupid person
+bago	border
+bago	crutch
+shya	innovation
+shya	new thing
+gorofani	wheelbarrow
+nyaruka	hurry up
+nyaruka	go quickly
+nyaruka	make haste
+babi	leaf
+babi	foliage
+kiko	frontiers
+kiko	borders
+bibi	limit
+bibi	border
+bibi	frontier
+sekuru	genealogy
+sekuru	family tree
+sina	banana tree
+ibira	submerge
+rigata	lick
+gabire	talent
+gabire	gift
+gabire	present
+anzu	secret passage
+anzu	loophole
+burirwa	warned
+roho	spirit
+roho	soul
+nanuka	lose weight
+nanuka	become thin
+geragezwa	tried
+geragezwa	attempted
+geragezwa	tempted
+sereri	dizziness
+sereri	vertigo
+sereri	giddiness
+orosa	cover
+ndyo	right arm
+ndyo	foot
+teko ishinga amategeko	parliament
+nyajwi y’inyuma	back vowel
+revorisiyo	revolution
+tsembabwoko	genocide
+tsembabwoko	ethnic cleansing
+tsembatsemba	massacre
+tsembatsemba	extermination
+icanyi	killing
+icanyi	murder
+gara	become wider
+tekerereze	mindset
+tekerereze	attitude
+gaza	widen
+gaza	broaden
+gaza	expand
+nyamuryango	family member
+minisitiri	minister
+tsinzi	victory
+tsinzi	triumph
+unguko	profit
+tangazamakuru	media
+tangazamakuru	information
+shyira umukono	sign
+teranyo	total
+teranyo	sum
+teranyo	total revenue
+ishyurwa	expense
+tunganyirize	organisation
+komite	committee
+kono	signature
+kono	handwriting
+meza	goosebumps
+meza	goose pimples
+oya	stop doing
+oya	leave alone
+karine	notebook
+karine	book
+saho y’amabya	scrotum
+ungano	organ
+ungano	body part
+ungano	digestive organ
+gogora	digest
+gogora	grind one’s teeth
+vune	injury
+vune	sprain
+vune	fracture
+garura	vein
+jyana	artery
+koro	collarbone
+koro	clavicle
+koro	sternum
+ano	clavicle
+ano	collarbone
+hurizo	riddle
+hurizo	puzzle
+hurizo	quiz
+jana	wrist
+yunguyungu	hip
+susuruka	become warm
+susuruka	happy
+ikiriza	reply
+ikiriza	answer
+ikiriza	respond
+ikiriza	confirm
+atuzo	punctuation marks
+serwakira	tornado
+serwakira	whirlwind
+vi	white hair
+vi	grey hair
+no	this
+no	these
+no	this
+no	these
+no	this
+no	this
+no	these
+no	this
+no	these
+no	this
+no	these
+no	this
+no	this
+no	this
+rya	that
+rya	those
+rya	that
+rya	those
+rya	that
+rya	that
+rya	those
+rya	that
+rya	those
+rya	that
+rya	those
+rya	that
+rya	that
+rya	that
+humbi	rhomboid muscle
+ishyurwa	paid
+ishyurwa	repaid
+dyo	regimen
+dyo	diet
+ogajuru	spaceship
+ogajuru	space shuttle
+ogajuru	satellite
+ogajuru	probe
+kike	wall
+kike	enclosure
+kike	fence
+ro by’itora	polling station
+shingwa	established
+shingwa	founded
+shingwa	establishment
+shingwa	foundation
+totezwa	persecuted
+tasi	espionage
+tasi	spying
+nyabwenge	wise person
+nyabwenge	intellectual
+camake	summary
+camake	résumé
+camake	brief
+shishikara	toil
+shishikara	work hard
+shishikara	make effort
+shishikarira	strive for
+shishikarira	try
+bariyeri	roadblock
+bariyeri	barrier
+perezidansi	presidency
+shuheri	breeze
+shuheri	light wind
+gambanyi	betrayal
+gambanyi	treason
+seko	smile
+ikekwe	suspicion
+twenge	laughter
+yungurura	sift
+yungurura	filter
+tsi	tendon
+igoronzora	writhe
+gondoro	hypocotyl
+gondoza	exaggerate
+zuyaza	delay
+zuyaza	hesitate
+mwe	the same
+gezi	stream
+gezi	creek
+gezi	small river
+homvu	delirium
+homvu	raving
+homvu	meaningless words
+hana	abandon
+hana	leave
+imana	withhold
+imana	refuse to give
+ryoshywa	delicious
+santimetero	centimetre
+milimetero	millimetre
+dekametero	decametre
+hegitometero	hectometre
+buzi	alert
+buzi	warning
+hundagaza	fill completely
+hundagaza	cover
+hundagaza	give abundantly
+tirigongo	spine
+ruseke	tibia
+ruseke	shinbone
+nogori	eye socket
+nogori	orbit
+ivumbagatanyo	revolt
+ivumbagatanyo	mutiny
+ivumbagatanyo	uprising
+arasisi	parade
+arasisi	line-up
+tyaza	sharpen
+tyaza	whet
+tyazo	sharpener
+embe	razor
+embe	razor blade
+kono y’itabi	tobacco pipe
+tangaro	exclamation mark
+bazo	question mark
+bago n’akitso	semicolon
+kubo	parenthesis
+kubo	brackets
+nyerezo	dash
+nyerezo	hyphen
+nyerera	slip
+nyereza	drag
+nyereza	slide
+nyereza	make disappear
+nyereza	steal
+nyereza	embezzle
+imyira	blow one’s nose
+iyereka	parade
+uguruzo n’utwugarizo	quotation marks
+regeka	ellipses
+ihata	make effort
+hutaza	hustle
+hutaza	shove
+duruvayo	disorder
+duruvayo	mess
+duruvayo	disarray
+vumo	cave
+vumo	grotto
+vumo	cavern
+komyi	obstacle
+komyi	impediment
+pfobya	understate
+pfobya	belittle
+pfobya	trivialise
+pfobywa	diminished
+pfobywa	undermined
+pfobywa	disparaged
+pfobywa	belittled
+tamurura	uncover
+tamurura	unfold
+ego ko	gosh
+danangira	close tightly
+danangira	seal
+danangira	tighten
+nyunguti	pinch
+noba	hit
+noba	strike
+noba	knock
+noba	beat
+noba	impact
+noba	punch
+tete	kernel
+tete	grain
+sibo	lent
+sibo	mourning period
+fashi	vice
+fashi	vise
+panda	trumpet
+kungu	weed
+yega	moving body
+vange	mixture
+vange	amalgamation
+tiyo	spade
+ivumbagatanya	revolt
+ivumbagatanya	riot
+a mbere	first
+a mbere	first class
+oroshya	become easy
+oroshya	soften
+kubi y’umuyaga	strong wind
+nyamwigendaho	selfish
+tenguha	deceive
+tenguha	trick
+tenguha	mislead
+muvoma	political movement
+iyita	call oneself
+kurikizwa	applied
+kurikizwa	come into effect
+sogongero	sketch
+sogongero	foretaste
+aya	pretending
+tera	distance
+tera	space
+tera	interval
+tera	period
+tera	status
+tera	rank
+tangarugero	model
+tangarugero	demonstration
+tangarugero	example
+tangarugero	pattern
+gengabitekerezo	ideology
+pinduramatwara	revolution
+shaka kuvuga	mean
+shaka kuvuga	imply
+shaka kuvuga	indicate
+igaragambyo	riot
+igaragambyo	demonstration
+igaragambyo	strike
+moso	left arm
+niha	groan
+niha	wail
+shyo	small knife
+bungabunga	preserve
+bungabunga	safeguard
+bungabunga	protect
+bungabunga	conserve
+curura	start again
+emarara	stand up straight
+emarara	be robust
+emarara	raise up
+ema	stand up straight
+rangisha	announce
+dosho	wooden spoon
+nyunyuza	suck
+neza	please
+neza	make someone happy
+susumira	tremble
+susumira	flicker
+rora	watch
+rora	look at
+rora	see
+rora	view
+pfunwe	shame
+tati	betrayer
+tati	traitor
+takaragasi	meaningless words
+shya	happiness
+shya	prosperity
+songero	top
+songero	peak
+nege	only child
+heza	go to extremes
+jigo	molar
+nyarutsa	quicken
+nyarutsa	speed up
+nyarutsa	hasten
+hezanguni	extremist
+nema	talent
+nema	superpower
+nyajwi y’imbere	front vowel
+nyajwi yo hagati	central vowel
+nyajwi y’imfunge	close vowel
+nyajwi y’inyatu	open vowel
+tsindagira	tamp
+i Kantarange	far away
+iyo bigwa	far away
+hungabanya	bother
+hungabanya	annoy
+hungabanya	irk
+unge	collection
+unge	compilation
+kiriziya	church
+bendera	flag
+bendera	banner
+Gatolika	Catholic
+sakaramentu	sacrament
+sakaramentu	Holy Sacrament
+yoborere	governance
+gombajwi y’indagi	voiceless consonant
+gombajwi y’indangira	voiced consonant
+manzi	scarification
+manzi	cicatrization
+goma	labia majora
+akura	nerve
+akura-bakwe	neuron
+konyoka	injured
+konyoka	broken
+konyoka	fractured
+tantu	hip joint
+viringa	round
+viringa	spherical
+viringa	circular
+viringa	curved
+viringa	oranges
+viringa	etc
+cakura	sharp
+cakura	clever person
+cakura	joker
+shozi	nausea
+konda	drool
+konda	slobber
+sundwe	leech
+sugi	cuckoo-shrike
+shwi	sparrow
+iyoni	raven
+samusure	crowned eagle
+ca	sparrowhawk
+kanga	guinea fowl
+kanga	guinea hen
+tashya	swallow
+nyirabarazana	ibis
+tera	olive baboon
+sana	mamba
+shira	spitting cobra
+piri	viper
+piri	adder
+ryambeba	grass snake
+ziramire	python
+aruzi	bird of prey
+sandi	weaver
+satura	warthog
+parage	zebra
+para	impala
+samagwe	panther
+geragere	gazelle
+ze	disease
+ze	sickness
+ze	bad health
+tapfuna	chew
+raguzi	fortune-teller
+raguzi	soothsayer
+raguzi	oracle
+rabya	flower
+rabya	flourish
+rabya	bloom
+vumba	current
+sumo	waterfall
+rindi	sound of footsteps
+kocora	hit
+kocora	beat
+kocora	punch
+kocama	wrong
+kocama	false
+kocama	incorrect
+hungabana	troubled
+hungabana	disturbed
+hungabana	traumatised
+sukuma	crave
+banze	beginning
+banze	priority
+banze	introduction
+bambe	pity
+bambe	sympathy
+bambe	mercy
+nyonga	execute
+nyonga	hang
+nyongwa	executed
+nyongwa	hanged
+hishwa	hidden
+hishwa	concealed
+bondo	baby
+reme	weight
+reme	worth
+reme	value
+sigisigi	leftovers
+sigisigi	remains
+sigisigi	scraps
+jyanamuntu	extraordinary
+koramutima	close friend
+koramutima	sweetheart
+jwiri	curly hair
+jyo	directions
+dendezi	pond
+kubiri	atmosphere
+kubiri	mood
+kubiri	spirit
+kubiri	undercurrent
+nuni	sunbird
+sokoreke	underwear
+cudika	become friends
+cudika	befriend
+patwe	constipation
+birikira	funnel
+jyakuzimu	depth
+jyejuru	height
+kenyuka	die young
+oyo	rectum
+tubu	tree frog
+heri	bedbug
+tagangurirwa	spider
+tagangurirwa	arachnid
+ahi	old clothes
+ahi	rags
+ahi	nappy
+ahi	diaper
+uho	gap
+uho	lacuna
+ringa	bronze
+ijuta	full
+ijuta	satisfied
+huha	rumour
+raro	cattle-shed
+janja	paw
+myira	mucus
+myira	snot
+gapfura	angina
+seru	measles
+seru	rubeola
+seru	morbilli
+rugu	nape
+tuntu	tuberculosis
+sindu	termite mound
+sindu	termite hill
+riburiro	foreword
+riburiro	introduction
+hehere	humidity
+hehera	humid
+hehera	wet
+hehera	moist
+kungu	gang
+bimbura	start
+bimbura	begin
+bimbura	be the first
+bondo	potbelly
+bondo	full stomach
+meme	little finger
+mukuru wa meme	ring finger
+gabo	shield
+gwari	coward
+gambanyi	traitor
+gambanyi	betrayer
+cuzi	metalwork
+sobe	complexity
+gobe	gulf
+gobe	bay
+banza	homepage
+hunikira	very tired
+hunikira	dozy
+ryoherwa	enjoy
+dongozi	leader
+rungu	loneliness
+goto	Adam’s apple
+shingo	neck
+timba	deep sorrow
+timba	sadness
+tubya	understate
+tubya	belittle
+toni	tonne
+sodeko	square brackets
+cecekesha	hush
+cecekesha	silence
+gakondo	tradition
+gakondo	origins
+gakondo	roots
+gakondo	traditional medicine
+iko	trowel
+shongore	haughtiness
+shongore	pride
+baho y’amazi	spirit level
+guni	angle
+guni	corner
+guni	set square
+tabire	chemistry
+genge	physics
+icarubozo	torture
+songa	top
+songa	peak
+songa	highest
+hwana	equal
+hwana	equivalent
+hwana	match
+sigura	explain
+sigura	interpret
+sigura	clarify
+sigura	simplify
+rorera	observe
+uka	spray
+uka	sprinkle
+uka	squirt
+ryoherwe	bon appétit
+dorerezi	observer
+umuka	dry
+umutsa	dry
+umutsa	dehydrate
+ibasira	target
+ibasira	focus
+ibasira	center on
+nyunguta	suck
+nyunyuka	wither
+nyunyuka	dehydrated
+nyunyuka	thin
+nyunyuka	withers
+izere	hope
+izere	trust
+izere	confidence
+reri	umbilical cord
+nyamuneka	please
+cokoza	tease
+cokoza	disturb
+cokoza	joke
+tosa	wet
+tosa	moisten
+tebera	sink
+huta	quicken
+huta	speed up
+huta	hasten
+bonerana	transparent
+anda	enlarge
+anda	expand
+anda	spread
+komba	lick
+kona	castrate
+kwata	hold firmly
+tandaro	cause
+tandaro	trigger
+barutso	cause
+barutso	trigger
+tita	intense cold
+tita	frostbite
+kana	severity
+kana	intensity
+kana	frequency
+kana	magnitude
+kana	amplitude
+kana	incidence
+goheka	at ease
+goheka	rest
+goheka	sleep
+gutu	toughness
+taho	home
+taho	house
+taho	dwelling
+anjwa	ramble
+jajwa	gossip
+jajwa	gossiping
+jajwa	gossip
+heke	grain
+heke	cereal
+nyampeke	cereal
+iherero	retreat
+iherero	secluded place
+za	epidemic
+za	calamity
+tongo	ruin
+twenga	laugh
+banza	building site
+ototera	presumptuous
+ohe	troublemaker
+ohe	stupid person
+iyenza	provocative
+iyenza	tease
+fangura	speed up
+fangura	quicken
+dadira	lock
+dadira	seal
+iru	reparation
+iru	amends
+iru	ransom
+gasire y’ivi	patella
+gasire y’ivi	kneecap
+humure	quiet
+humure	calm
+humure	ease
+hogora	wail
+hogora	cry
+ngononwa	reluctance
+ngononwa	unwillingness
+gononwa	reluctant
+gumbaha	sterile
+tirimura	propel
+tirimura	advance
+jora	criticize
+jora	fault
+jora	censure
+sa	nakedness
+sa	nudity
+pakanyi	negative
+itso	accomplice
+jigo	pipe
+tezo	perineum
+hakanyi	denial
+hakanyi	refusal
+shongore	haughtiness
+shongore	pride
+shongore	beauty
+tunga agatoki	point the finger
+tunga agatoki	accuse
+byo	authentic
+byo	genuine
+byo	true
+shyushyu	eagerness
+shyushyu	keeness
+sogwe	legume
+sogwe	pulse
+gohe	eyelashes
+fwera	slug
+tsike	eyebrow
+karagiro	dairy
+karagiro	creamery
+orama	collapse
+orama	fall down
+deshyo	height
+deshyo	altitude
+deshyo	size
+doro	eyes
+doro	sight
+doro	gaze
+doro	stare
+doro	look
+gendo	gait
+gendo	manner of walking
+salo	salon
+salo	hairdresser’s
+Nyagasani	the Lord
+mogi	cannabis
+mogi	marijuana
+serebeka	slide
+jenosideri	genocidaire
+pfana	related
+sakuzo	riddle
+sakuzo	puzzle
+sakuzo	enigma
+sekuruza	genealogy
+sekuruza	family tree
+menyesha	inform
+ibone	proud person
+ogera	notorious
+ogera	popular
+ogere	fame
+ogere	notoriety
+ogere	popularity
+ifuriza	wish
+cura	forging
+cura	metalwork
+vomerera	water
+vomerera	baste
+emeza	prove
+emeza	demonstrate
+emeza	confirm
+ceremba	escape
+ceremba	evade
+panuro	advice
+panuro	prophecy
+panuro	warning
+gegera	vagrant
+gegera	wanderer
+gegera	bandit
+gegera	brigand
+jyanama	counselling
+jyanama	advice
+futura	clarify
+futura	explain
+itonzi	caution
+itonzi	care
+itonzi	carefulness
+vuvu	dandruff
+nyomoro	tamarillo
+nyomoro	tree tomato
+hara	baldness
+note	bill
+tiro	sleepiness
+kangu	mudslide
+kangu	landslide
+boneka	availability
+boneka	visibility
+e	his
+e	hers
+cungamutungo	management
+menyamuntu	sociology
+ituma	determined
+ituma	be intent
+ituma	resolve
+iyahura	commit suicide
+anjye	mine
+awe	yours
+acu	ours
+anyu	yours
+abo	theirs
+menyajambo	lexicology
+kwena	ridicule
+kwena	mock
+kwenene	mockery
+kwenene	ridicule
+vumbuzi	discovery
+titsa	without stopping
+titsa	nonstop
+itsa	cause to sink
+itsa	pause
+itsa	break
+senyeri	Monsignor
+senyeri	bishop
+misha	artery
+ra	uterus
+ra	womb
+samura	have breakfast
+iri joro	tonight
+iri joro	this night
+uyu munsi	today
+uyu munsi	this day
+renganzira bw’umuhanzi	copyright
+logo	logo
+shoro	capital
+shoro	investment
+misha	sprinkle
+misha	spray
+ntacyo	no problem
+ntacyo	nothing
+baho	be there
+sitasiyo	station
+sitasiyo	gas station
+sitasiyo	petrol station
+sabwa	begged
+sizi	poetry
+erekezo	direction
+kuge	ark
+kuge	boat
+kuge	Noah’s ark
+kura	rhinoceros
+a	one of
+a	that of
+a	those of
+a	that of
+a	those of
+a	that of
+a	that of
+a	those of
+a	that of
+a	those of
+a	those of
+a	that of
+a	that of
+a	those of
+a	that of
+a	that of
+a	that of
+kore	glue
+iswera	masturbate
+piri	wooden club
+mara	venom
+mara	poison
+teganywa	planned
+humbya	blink
+fundi	African firefinch
+fundi	robin
+nyakubahwa	excellency
+visi	vice
+nyamuneza	joy
+nyamuneza	happiness
+cumbi	home
+cumbi	heart
+cumbi	stem
+gabekazi	queen mother
+sakabaka	black kite
+piswi	diarrhoea
+ondo	mud
+mugiga	meningitis
+pfundikizo	cover
+pfundikizo	lid
+pfundikizo	cork
+pfundikizo	stopper
+rere	education
+dozi	tailor
+vumvuri	cockchafer
+komanyiriza	embargo
+kemura	mow
+kemura	shear
+kemura	cut
+kemura	resolve
+kemura	settle
+vumbi	dust
+vumvura	buzz
+vumvura	talk nonsense
+amagana	reject
+amagana	censure
+amagana	express disapproval
+nyababyeyi	uterus
+nyababyeyi	womb
+omekwa	applied
+rerantanga	ovary
+ororokere	reproduction
+ororokere	reproductive health
+tanga	semen
+tanga	sperm
+tanga	seed
+diporome	diploma
+iyica	kill oneself
+iyica	commit suicide
+shitsi	vibration
+shitsi	trembling
+ugu	gecko
+kombe	gully
+kombe	couloir
+wino	ink
+sitari	line
+sitari	row
+sitari	verse
+tonde	list
+tonde	queue
+tanga ihumure	ceasefire
+sana	repair
+sana	mend
+ti	saying
+subusititi	substitute
+negatifu	negative
+seritifika	certificate
+sositomati	tomato sauce
+tifoyide	typhoid
+ubatsi	construction
+ubatsi	building work
+sugire	sovereignty
+hehesi	lustful person
+gandika	camp
+gandagaza	gather together
+curama	bat
+samunyiga	ferret
+baruwa	letter
+ika	sink
+ika	fall
+ika	drop
+enda	nine
+kaze	welcome
+nezaneza	happiness
+giraneza	benefactor
+genzuzi	inspector
+ringanire	equality
+reremba	float
+reremba	hover
+nyabugeni	artist
+tumbero	vision
+tumbero	focus
+iyoberanya	disguise oneself
+garuzwamuheto	captive
+garuzwamuheto	hostage
+iburungushura	roll
+nyanyagira	disperse
+nyanyagira	break up
+korikori	craftsmanship
+korikori	skill
+nyabukorikori	craftsman
+nyabukorikori	artisan
+ihanduzacumu	brave person
+gobotora	pull
+gobotora	snatch
+gobotora	pluck
+gobotora	rescue
+gobotora	save
+dangare	absent-minded person
+saruro wose w’igihugu	gross domestic product
+kanseri	cancer
+saruro	harvest
+saruro	product
+saruro	produce
+nyendaro	bastard
+nyendaro	illegitimate child
+gore	womanhood
+gore	vagina
+bunda	bend
+temba	liquid
+ratitude	latitude
+ronjitide	longitude
+pansiyo	pension
+rozi	witch
+rozi	sorcerer
+nyinya	diastema
+Amerika ya Ruguru	North America
+ibombarika	careful
+sukika	liquid
+sukika	fluid
+nyangamugayo	honesty
+conshomera	devour
+conshomera	gobble
+hinde	India
+gotomera	gulp
+emerwa	accepted
+emerwa	admitted
+iyerurutsa	pretend
+zwi	known
+menywa	known
+orudinateri	computer
+posita	post office
+posita	post
+posita	mail
+sitaje	course
+sitaje	training
+pingu	handcuffs
+icuza	repent
+icuza	confess
+igimba	confront
+sosi	sauce
+kingirizwa	obscured
+tinywa	feared
+era	ripe
+era	mature
+hera	crush
+hera	grind
+ibohora	release
+ibohora	liberate
+ibohora	free oneself
+gongo	peak
+gongo	plateau
+gongo	edge
+gongo	end
+ratini	Latin
+dage	German
+nyemezabuguzi	receipt
+guzi	shopping
+holandi	Dutch
+swayire	Swahili
+zulu	Zulu
+hinde	Hindi
+rusi	Russian person
+rusi	Russian
+yapani	Japanese
+gereki	Greek
+Arumeniya	Armenia
+Repubulika ya Kongo	Republic of Congo
+Repubulika ya Kongo	Congo-Brazzaville
+Kenya	Kenya
+kode	code
+shomeri	unemployment
+shomera	unemployed
+shomeri	unemployed person
+shomeri	wanderer
+shomeri	vagrant
+shomera	wander about aimlessly
+girangingo	cell
+pagasa	earn
+fuku	mole
+fiyanse	fiance
+cumi na rimwe	eleven
+cumi na kabiri	twelve
+cumi na gatatu	thirteen
+cumi na kane	fourteen
+cumi na gatanu	fifteen
+cumi na gatandatu	sixteen
+cumi na karindwi	seventeen
+cumi na munani	eighteen
+cumi n’icyenda	nineteen
+miriyoni	million
+sirimu	chic
+nyamaguru	pedestrian
+pompo	pump
+pome	apple
+pompa	pump
+nyaburayi	European
+Antarigitika	Antarctica
+noza	enhance
+noza	improve
+seriveri	server
+pulateforume	platform
+verisiyo	version
+bikokoporora	clipboard
+pamyabumenyi	diploma
+pamyabumenyi	degree
+taramo	event
+taramo	party
+higima	murmur
+higima	hum
+ekwateri	equator
+toropike	tropic
+hindiro	rumble
+hindiro	clamour
+hindiro	loud noise
+sukika	flow
+yisilamu	Islam
+sumbi	hip joint
+sumbi	pelvis
+koma	clap
+koma	disturb
+tsindagiriza	emphasize
+tsindagiriza	stress
+bonera	fit
+bonera	straight
+bonera	right
+tike	ticket
+yoboro mugari	broadband
+tungurusumu	garlic
+ca inyuma	cheat
+ca inyuma	have an affair
+teza imbere	improve
+teza imbere	enhance
+teza imbere	promote
+rutsi	vomit
+rutsi	puke
+sururu	sorghum beer
+rwa	sorghum beer
+terefone igendanwa	mobile telephone
+terefone igendanwa	cell phone
+terambere	progress
+terambere	development
+terambere	growth
+terambere	evolution
+terambere	African Development Bank
+nyeshyamba	rebel
+nyeshyamba	guerrilla
+sasu	mine
+mitarayeze	machine gun
+gerenade	grenade
+gendajuru	spacecraft
+gendajuru	rocket
+gendajuru	artificial satellite
+remwamuntu	human being
+remwamuntu	person
+remwamuntu	human rights
+yobyabwenge	drug
+yobyabwenge	narcotic
+remwa	created
+rama	live long
+iyigisha	teach oneself
+sarara	hoarse
+parasetamoro	paracetamol
+rugigana	white person
+rugigana	westerner
+roketi	rocket
+hahamura	traumatise
+babazwa	hurt
+babazwa	offended
+nyakuri	honest person
+nyakuri	truthful person
+nyakuri	honorable person
+atangajwe	announcement
+atangajwe	publication
+humyo	mushroom
+obo	mushroom
+enegihugu	citizenship
+enegihugu	nationality
+dagadwa	tremble
+dagadwa	afraid
+hindagana	tremble
+pfa	eagerness
+pfa	keenness
+gubangura	hasten
+gubangura	quicken
+gubangura	speed up
+iyunge	reconciliation
+igorora	reconcile
+sohoro	sperm
+sohoro	semen
+humetso	sling
+nigi	necklace
+burakindi	awkwardness
+kindo	palm leaf
+nyakuri	honesty
+nyakuri	truthfulness
+nyakuri	sincerity
+komo	bracelet
+rimbo	jewelry
+herena	earring
+fuka	cool
+fuka	cold
+fungurira	feed
+fungurira	open
+fatankoni	cowherd
+fatanyabikorwa	partner
+hurira	silt
+hurira	debris
+hurira	flotsam
+eruruka	pale
+eruruka	anemic
+bwiriza	instruction
+filozofe	philosopher
+ongera ingano	enlarge
+ongera ingano	zoom
+heburayi	Hebrew
+mambo	stake
+mambo	peg
+bogora	adjust
+buye ry’agaciro	precious stone
+buye ry’agaciro	jewel
+buye ry’agaciro	mineral
+jigo	jawbone
+jigo	jaw
+bikura	withdraw
+bikura	take back
+saranganya	share
+sarura	harvest time
+tazura	widen
+zungu	inheritance
+sayo	pothole
+sayo	bog
+sayo	marsh
+pyonyora	scrub
+kobora	scrub
+kingira	vaccinate
+kingira	protect
+kingira	close
+kibonumwe	shooting star
+kibonumwe	asteroid
+hakanira	deny
+bonano	meeting
+bonano mpuzabitsina	sexual relations
+dohoka	unbind
+dohoka	untie
+dohoka	loosen
+injiza	import
+injiza	insert
+injiza	put into
+injiza	pierce
+tongera	conjure
+tongera	incant
+titiriza	pressure
+titiriza	urge
+titiriza	persuade
+titiriza	pester
+keneka	omit
+keneka	neglect
+keneka	leave out
+sugira	standardize
+sugira	sovereign
+nta mususu	fearlessly
+nta mususu	no fear
+nta mususu	without fear
+nta mususu	move onward
+nta shiti	without any doubt
+mokorwa	wretch
+mokorwa	heave
+gamba	policy
+shishozi	foresight
+shishozi	wisdom
+shishozi	discernment
+zingo	emaciated person
+egura	retire
+egura	resign
+bunda	parcel
+zungura	inherit
+zungura	replace
+gombeka	force
+gombeka	pressure
+kutiriza	work hard
+kutiriza	toil
+kutiriza	hurry
+kutiriza	insist
+gombero	condition
+gombero	requirement
+ima	copulate
+imya	copulate
+senza	copulate
+senzwa	copulate
+senzanya	copulate
+ijyana	go alone
+tongero	spell
+tongero	incantation
+rasoro	spring
+kona	raven
+shima	thanks
+shima	acknowledgments
+shimwe	thanks
+shimwe	praise
+shimwe	gratitude
+sarika	harmed
+sarika	wounded
+sarika	injured
+teko	throne
+berama	sick
+berama	ill
+sangwa	host
+igana	fake
+igana	counterfeit
+igana	simulate
+igana	imitate
+engero	brewery
+bikira	reserve
+bikira	book
+bikira	keep for
+Bonane	New Year’s
+rimo	summary
+rimo	contents
+rimo	table of contents
+bera	for
+bera	be due to
+cungire	management
+hamiza	sanction
+hamiza	endorse
+hamiza	clear
+tegeko nshinga	constitution
+vugururwa	amended
+vugururwa	renewed
+vugururwa	repaired
+rengane	oppression
+vangura	discrimination
+vangura	segregation
+unzi	mediator
+pfa	famine
+ruka	eruption
+ruka	volcanic eruption
+dake	base
+kingo	shoulder
+kode	lease
+iciro	subsection
+terabwoba	intimidation
+ihanganira	tolerate
+ihanganira	endure
+menyane	favouritism
+tinyiro	reverence
+isobanura	explain oneself
+hanwa	punishment
+hanwa	penalty
+jurire	appeal
+fatira	seizure
+ibacyuho	transition
+rango	seal
+vugururwa	amendment
+vugururwa	reform
+manda	mandate
+rangashingiro	preamble
+rangashingiro	preface
+rangashingiro	forward
+bitsi	treasurer
+genzuzi	inspection
+genzuzi	audit
+genzuzi	investigation
+Sudani	Sudan
+Kongo	Congo
+Libani	Lebanon
+iha	give oneself
+referendumu	referendum
+vu w’amaraso	hemorrhage
+vu w’amaraso	bloodshed
+unyunyu	saltiness
+ziye	know for
+kudeta	coup d’état
+yovu	hundred thousand
+burugumesitiri	mayor
+teritwari	territory
+perefegitura	prefecture
+jakaranda	jacaranda
+sakirirego	sacrilege
+shakiro	reference
+shakiro	table of contents
+shehe	sheik
+pindura	pancreas
+sigiti	masjid
+sigiti	mosque
+pera	guava
+vubyi	rainmaker
+kenke	savanna
+ganji	victory
+bwami	royal court
+pfubuzi	prostitute
+pfubuzi	escort
+nenga	criticise
+nenga	denigrate
+nenga	mock
+nenga	ridicule
+rwano	fighting
+rwano	battle
+iru	queen bee
+teganyanyigisho	curriculum
+rezi	education
+rezi	Ministry of Education
+menyi	scholar
+menyi	intellectual
+menyi	learned person
+puzashusho	homonym
+vugwarimwe	homophone
+tinde	vowel length
+genamajwi	tone
+bamutima	emotion
+tabazi	rescuer
+kondo y’umura	cervix
+yirabiri	junction
+yirabiri	crossroads
+nyamahane	rude person
+karo	ceramic tile
+gini	genie
+gini	evil spirit
+teganyagihe	weather forecast
+zimu	underworld
+zimu	spirit world
+iherero	privacy
+korera mu muco	transparent
+korera mu muco	open
+zuza inshingano	accountability
+ato	quarantine
+ato	small boat
+siramura	circumcise
+sangano	crossroads
+siramurwa	circumcized
+zingura	unfold
+zingura	unroll
+keba	circumcise
+kwira	deserve
+kwira	spread
+kwira	expand
+igira	learn from
+gemo	syllable
+ganda	lazy
+ganda	half-hearted
+sanganyamatsiko	theme
+igira	self-sufficient
+ana w’intama	lamb
+kamwa	milked
+meya	mayor
+yongoyongo	black-headed heron
+obe	sitatunga
+kono	shell
+makaroni	pasta
+makaroni	noodles
+tangawizi	ginger
+ti	pillar
+ti	column
+ti	shaft
+ti rw’umugongo	spine
+tovu	bear’s breech
+hangayiko	stress
+hangayiko	worry
+twerera	contribute
+twererano	contribution
+ziro	taboo
+ibohora	liberation
+generwa	allocate
+bugenewe	allotment
+nyamategeko	lawyer
+hondohondo	dragon tree
+fu	yellowwood
+go	whitethorn
+kongi y’umuriro	inferno
+kongi y’umuriro	blaze
+ibasirwa	targeted
+Siria	Syria
+idagaduro	entertainment
+idagaduro	leisure
+hirimbana	persist
+vugizi	advocacy
+vugira	speak for
+vugira	advocate
+genzura	investigation
+genzura	evaluation
+zobere	expert
+zobere	master
+zobere	specialist
+zobera	master
+zobera	specialist
+zobere	expertise
+yezuwiti	Jesuit
+saseridoti	priesthood
+iyoroshye	humility
+iyoroshya	humble
+iyoroshya	approachable
+icishebugufi	humility
+pfubura	recook
+mbere	recently
+dendera	resonate
+yunguramagambo	glossary
+vure	wooden bowl
+zu ndangamurage	museum
+dangamurage	museum
+goro	palace
+goro	senate
+sena	senate
+cumu	dart
+kingira	vaccination
+shinjacyaha	prosecution
+sirikare	military
+bazwa	asked
+bazwa	questioned
+bazwa	queried
+yuzi	pumpkin seed
+bogamizi	obstacle
+bogamizi	impediment
+bogamizi	obstruction
+bogamizi	barrier
+bogamizi	hindrance
+bogamira	impede
+bogamira	obstruct
+bogamira	hinder
+terasi	terrace
+bwibwi	twilight
+bwibwi	dusk
+bwibwi	sundown
+bwibwi	sunset
+fashanya	assist
+fashanya	help each other
+nyomeke	attachment
+hamwa	subject
+dondogozi	chatterbox
+dondogozi	chatterer
+dondogozi	babbler
+raya	prostitution
+raya	harlotry
+ambarigo	embargo
+menyana	get to know
+gona	snore
+frigo	refrigerator
+frigo	fridge
+bangukiragutabara	ambulance
+fumbire	fertiliser
+perereza	intelligence
+perereza	investigation
+fotokopi	photocopy
+genzuzi w’imari	auditor
+genzacyaha	detective
+genza	investigator
+murandasi	wireless network
+murandasi	Wi-Fi
+buga nkoranyambaga	social network
+baruramari	accounting
+sakazamajwi	broadcasting
+icisha bugufi	submit
+icisha bugufi	be humble
+nyagitugu	dictator
+uruyuki	bee
+igiti	tree
+bombo	sweet
+tondo	morning
+tondo	morrow
+Danimarike	Denmark
+Danimarike	Kingdom of Denmark
+inkere	strawberry
+Ububirigi	Antwerpian
+Ububirigi	Arlon
+Ububirigi	Campine
+Ububirigi	Charleroi
+Ububirigi	Flemish Brabant
+Ububirigi	Ghent
+Ububirigi	Hainaut
+Ububirigi	Kingdom of Belgium
+Ububirigi	Liège
+Ububirigi	Mechelen
+Ububirigi	Mons
+Ububirigi	Namur
+Ububirigi	Walloon Brabant
+Ububirigi	Ypres
+Tanzaniya	Kerebe
+Tanzaniya	Tanzania
+ikidage	German
+ikidage	Jerry
+Afurika	Africa
+Afurika	Dogon
+Afurika	white man’s grave
+Azia	Asia
+Azia	barn swallow
+kire	moneyed
+kire	well-off
+koko	alien
+koko	animal
+koko	beast
+koko	beastie
+koko	brute
+koko	creature
+koko	critter
+koko	fauna
+koko	organism
+koko	zooid
+nyamaswa	alien
+nyamaswa	animal
+nyamaswa	beast
+nyamaswa	beastie
+nyamaswa	brute
+nyamaswa	creature
+nyamaswa	critter
+nyamaswa	fauna
+nyamaswa	organism
+nyamaswa	zooid
+isutiye	bra
+isutiye	brassiere
+isutiye	brassière
+isutiye	fastener
+yuma	dagger
+yuma	knife
+yuma	sword
+vi	elbow
+vi	genu
+vi	knee
+vi	knee joint
+inkoranyamagambo	dictionary
+inkoranyamagambo	dictionary of synonyms
+inkoranyamagambo	lexicon
+inkoranyamagambo	synonymicon
+inkoranyamagambo	thesaurus
+inkoranyamagambo	vocabulary
+inkoranyamagambo	wordbook
+sakuza	cry
+sakuza	cry out
+sakuza	scream
+sakuza	vociferate
+sakuza	yell
+Ikinyafurikaneri	Afrikaans
+Inyamuhariki	Amharic
+Icyarabu	Arabic
+Icyasamizi	Assamese
+Inyazeribayijani	Azerbaijani
+Ikibelarusiya	Belarusian
+Urunyabuligariya	Bulgarian
+Ikibengali	Bengali
+Inyebiritoni	Breton
+Inyebosiniya	Bosnian
+Igikatalani	Catalan
+Igiceke	Czech
+Ikigaluwa	Welsh
+Ikidaninwa	Danish
+Ikidage	German
+Ikigereki	Greek
+Icyongereza	English
+Icyesiperanto	Esperanto
+Icyesipanyolo	Spanish
+Icyesitoniya	Estonian
+Ikibasiki	Basque
+Inyeperisi	Persian
+Igifinilande	Finnish
+Ikinyafilipine	Filipino
+Inyefaroyizi	Faroese
+Igifaransa	French
+Igifiriziyani	Western Frisian
+Ikirilandi	Irish
+Ikigaluwa cy’Igisweduwa	Scottish Gaelic
+Ikigalisiya	Galician
+Inyaguwarani	Guarani
+Inyegujarati	Gujarati
+Igiheburayo	Hebrew
+Igihindi	Hindi
+Igikorowasiya	Croatian
+Igihongiriya	Hungarian
+Ikinyarumeniya	Armenian
+Ururimi Gahuzamiryango	Interlingua
+Ikinyendoziya	Indonesian
+Uruhuzandimi	Interlingue
+Igisilande	Icelandic
+Igitaliyani	Italian
+Ikiyapani	Japanese
+Inyejava	Javanese
+Inyejeworujiya	Georgian
+Igikambodiya	Khmer
+Igikanada	Kannada
+Igikoreya	Korean
+Inyekuridishi	Kurdish
+Inkerigizi	Kyrgyz
+Inkerigizi	Kirghiz
+Ikilatini	Latin
+Ilingala	Lingala
+Ikilawotiyani	Lao
+Ikilituwaniya	Lithuanian
+Ikinyaletoviyani	Latvian
+Ikimasedoniyani	Macedonian
+Ikimalayalami	Malayalam
+Ikimongoli	Mongolian
+Ikimarati	Marathi
+Ikimalayi	Malay
+Ikimaliteze	Maltese
+Ikinepali	Nepali
+Ikinerilande	Dutch
+Inyenoruveji (Nyonorusiki)	Norwegian Nynorsk
+Ikinoruveji	Norwegian
+Inyogusitani	Occitan
+Inyoriya	Oriya
+Igipunjabi	Punjabi
+Igipolone	Polish
+Impashito	Pashto
+Impashito	Pushto
+Igiporutugali	Portuguese
+Inyeporutigali (Brezili)	Brazilian Portuguese
+Inyeporutigali (Igiporutigali)	European Portuguese
+Ikinyarumaniya	Romanian
+Ikirusiya	Russian
+Kinyarwanda	Kinyarwanda
+Igisansikiri	Sanskrit
+Igisindi	Sindhi
+Inyeseribiya na Korowasiya	Serbo-Croatian
+Inyesimpaleze	Sinhala
+Igisilovaki	Slovak
+Ikinyasiloveniya	Slovenian
+Igisomali	Somali
+Icyalubaniya	Albanian
+Igiseribe	Serbian
+Inyesesoto	Southern Sotho
+Igisuweduwa	Swedish
+Igiswahili	Swahili
+Igitamili	Tamil
+Igitelugu	Telugu
+Igitayi	Thai
+Inyatigirinya	Tigrinya
+Inyeturukimeni	Turkmen
+Inyekilingoni	Klingon
+Igiturukiya	Turkish
+Inyetuwi	Twi
+Ikiwiguri	Uyghur
+Ikiwiguri	Uighur
+Ikinyayukereni	Ukrainian
+Inyeyurudu	Urdu
+Inyeyuzubeki	Uzbek
+Ikinyaviyetinamu	Vietnamese
+Inyehawusa	Xhosa
+Inyeyidishi	Yiddish
+Inyezulu	Zulu
+Rwanda	Rwanda
+Igitonga	Tonga
+«	“
+»	”
+‘	‘
+’	’
+mut.	Jan
+gas.	Feb
+wer.	Mar
+mat.	Apr
+gic.	May
+kam.	Jun
+nya.	Jul
+kan.	Aug
+nze.	Sep
+ukw.	Oct
+ugu.	Nov
+uku.	Dec
+Mutarama	January
+Gashyantare	February
+Werurwe	March
+Mata	April
+Gicuransi	May
+Kamena	June
+Nyakanga	July
+Kanama	August
+Nzeli	September
+Ukwakira	October
+Ugushyingo	November
+Ukuboza	December
+cyu.	Sun
+mbe.	Mon
+kab.	Tue
+gtu.	Wed
+kan.	Thu
+gnu.	Fri
+gnd.	Sat
+Ku cyumweru	Sunday
+Kuwa mbere	Monday
+Kuwa kabiri	Tuesday
+Kuwa gatatu	Wednesday
+Kuwa kane	Thursday
+Kuwa gatanu	Friday
+Kuwa gatandatu	Saturday
+I1	Q1
+I2	Q2
+I3	Q3
+I4	Q4
+igihembwe cya mbere	1st quarter
+igihembwe cya kabiri	2nd quarter
+igihembwe cya gatatu	3rd quarter
+igihembwe cya kane	4th quarter
+,	,
+,	.
+.	.
+.	,
+Inyesudani	Sundanese
+ikinyarwanda	Kinyarwanda
+ikinyarwanda	Rwanda
+kinyarwanda	Kinyarwanda
+kinyarwanda	Rwanda
+Igitonga	Tonga
+Rwanda	Rwanda
